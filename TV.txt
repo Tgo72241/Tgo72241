@@ -3,13 +3,13 @@ ELTA綜合台HD,p2p://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a
 豬哥亮歌廳秀,
 公視台語台HD,
 CNN HD,mitv://fccsovh.pvbox.live:18912/5b140954000dc92a375d63ea7e478ea8.ts#mitv://fccseuro.pvbox.live:18912/5b140954000dc92a375d63ea7e478ea8.ts
-民視HD,rtmp://59.124.75.130/sat/tv052#p2p://fccseuro.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881#p2p://fccsovh.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881#mitv://fccseuro.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881#mitv://fccsovh.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881
+民視HD,p2p://fccseuro.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881#p2p://fccsovh.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881#mitv://fccseuro.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881#mitv://fccsovh.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881
 人間衛視HD,
-台視HD,rtmp://59.124.75.130/sat/tv071#p2p://fccsovh.pvbox.live:18912/5c2dd73f000c83be0db4384477f9ca94#mitv://fccseuro.pvbox.live:18912/5c2dd73f000c83be0db4384477f9ca94#mitv://fccsovh.pvbox.live:18912/5c2dd73f000c83be0db4384477f9ca94
+台視HD,p2p://fccsovh.pvbox.live:18912/5c2dd73f000c83be0db4384477f9ca94#mitv://fccseuro.pvbox.live:18912/5c2dd73f000c83be0db4384477f9ca94#mitv://fccsovh.pvbox.live:18912/5c2dd73f000c83be0db4384477f9ca94
 大愛HD,https://pulltv1.wanfudaluye.com/live/tv1.m3u8#http://61.58.60.230:9319/live/10.m3u8#p2p://fccseuro.pvbox.live:18912/5b1409db0005716852e798a18129af98#p2p://fccsovh.pvbox.live:18912/5b1409db0005716852e798a18129af98#mitv://fccseuro.pvbox.live:18912/5b1409db0005716852e798a18129af98#mitv://fccsovh.pvbox.live:18912/5b1409db0005716852e798a18129af98
-中視HD,rtmp://59.124.75.130/sat/tv091#p2p://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d#p2p://fccseuro.pvbox.live:18912/5b14095f00075e71372e2240965ed494#p2p://fccsovh.pvbox.live:18912/5b14095f00075e71372e2240965ed494#mitv://fccseuro.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d#mitv://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d
+中視HD,p2p://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d#p2p://fccseuro.pvbox.live:18912/5b14095f00075e71372e2240965ed494#p2p://fccsovh.pvbox.live:18912/5b14095f00075e71372e2240965ed494#mitv://fccseuro.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d#mitv://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d
 霹靂台灣台HD,
-華視HD,rtmp://59.124.75.130/sat/tv112#p2p://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422#p2p://fccseuro.pvbox.live:18912/5b14095f000efa0ea879c11942a356bd#p2p://fccseuro.pvbox.live:18912/5c72484f000e498b1d51fe2201d92dd3#p2p://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422#mitv://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422#mitv://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422
+華視HD,p2p://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422#p2p://fccseuro.pvbox.live:18912/5b14095f000efa0ea879c11942a356bd#p2p://fccseuro.pvbox.live:18912/5c72484f000e498b1d51fe2201d92dd3#p2p://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422#mitv://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422#mitv://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422
 公視HD,p2p://fccsovh.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0#p2p://fccseuro.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0#mitv://fccseuro.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0#mitv://fccsovh.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
 好消息HD,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8#mitv://fccseuro.pvbox.live:18912/5bdbf38a000e2c49f7287c5591c78943#mitv://fccsovh.pvbox.live:18912/5bdbf38a000e2c49f7287c5591c78943
@@ -30,16 +30,16 @@ momo親子台HD,mitv://fccseuro.pvbox.live:18912/5b1409690009f8b05e37c2604177993
 三立都會台HD,p2p://fccseuro.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73#p2p://fccsovh.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73#mitv://fccseuro.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73#mitv://fccsovh.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73
 衛視中文台HD,mitv://fccseuro.pvbox.live:18912/5c2dd752000079beb0932687f970bd9e#mitv://fccsovh.pvbox.live:18912/5c2dd752000079beb0932687f970bd9e
 東森綜合台HD,p2p://fccseuro.pvbox.live:18912/5c2dd75500095b3b674c205e3f098061#p2p://fccsovh.pvbox.live:18912/5c2dd75500095b3b674c205e3f098061#mitv://fccseuro.pvbox.live:18912/5c2dd75500095b3b674c205e3f098061#mitv://fccsovh.pvbox.live:18912/5c2dd75500095b3b674c205e3f098061
-超視HD,rtmp://59.124.75.130/sat/tv772#rtmp://59.124.75.130:1935/sat/tv771#rtmp://59.124.75.130/sat/tv771
+超視HD,
 金光布袋戲,p2p://ns2.hellotvvod.com:9906/5ff3fa8c000050cf6034f91716c47e45.ts
 TVBS精采台HD,p2p://fccseuro.pvbox.live:18912/5bdbf3b20000e966127226d088c6564d#p2p://fccsovh.pvbox.live:18912/5bdbf3b20000e966127226d088c6564d#mitv://fccseuro.pvbox.live:18912/5bdbf3b20000e966127226d088c6564d#mitv://fccsovh.pvbox.live:18912/5bdbf3b20000e966127226d088c6564d
 中天綜合台HD,p2p://fccseuro.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4#p2p://fccsovh.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4#mitv://fccseuro.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4#mitv://fccsovh.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4
-東風衛視台HD,http://50.7.59.216:61980/myplay/cn_2_12015/index.m3u8?key=84797b799ae18d1b#mitv://fccseuro.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4#mitv://fccsovh.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4#p2p://fccseuro.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4#p2p://fccsovh.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4
+東風衛視台HD,mitv://fccseuro.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4#mitv://fccsovh.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4#p2p://fccseuro.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4#p2p://fccsovh.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4
 年代MUCH台HD,mitv://fccseuro.pvbox.live:18912/5b3c4f9d00057620627ef7cc381e3197#mitv://fccsovh.pvbox.live:18912/5b3c4f9d00057620627ef7cc381e3197#p2p://fccseuro.pvbox.live:18912/5b3c4f9d00057620627ef7cc381e3197#p2p://fccsovh.pvbox.live:18912/5b3c4f9d00057620627ef7cc381e3197
 中天娛樂台HD,mitv://147.135.39.171:9906/5defdaa0000974136ea066475c980b2d.ts#p2p://fccseuro.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520#p2p://fccsovh.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520#mitv://fccseuro.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520#mitv://fccsovh.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520
 東森戲劇台HD,p2p://fccseuro.pvbox.live:18912/5b1409f20000320bffd8fe47d4aa4282#p2p://fccsovh.pvbox.live:18912/5b1409f20000320bffd8fe47d4aa4282#mitv://fccseuro.pvbox.live:18912/5b1409f20000320bffd8fe47d4aa4282#mitv://fccsovh.pvbox.live:18912/5b1409f20000320bffd8fe47d4aa4282
 八大戲劇台HD,p2p://fccseuro.pvbox.live:18912/5b1409690000706aa2b351f989915dc3#p2p://fccsovh.pvbox.live:18912/5b1409690000706aa2b351f989915dc3#mitv://fccseuro.pvbox.live:18912/5b1409690000706aa2b351f989915dc3#mitv://fccsovh.pvbox.live:18912/5b1409690000706aa2b351f989915dc3
-TVBS歡樂台HD,rtmp://59.124.75.130/sat/tv422#rtmp://59.124.75.130/sat/tv421#rtmp://59.124.75.130:1935/sat/tv421#p2p://fccseuro.pvbox.live:18912/5b1409600006657bf3521814c47521af#p2p://fccsovh.pvbox.live:18912/5b1409600006657bf3521814c47521af#mitv://fccseuro.pvbox.live:18912/5b1409600006657bf3521814c47521af#mitv://fccsovh.pvbox.live:18912/5b1409600006657bf3521814c47521af
+TVBS歡樂台HD,p2p://fccseuro.pvbox.live:18912/5b1409600006657bf3521814c47521af#p2p://fccsovh.pvbox.live:18912/5b1409600006657bf3521814c47521af#mitv://fccseuro.pvbox.live:18912/5b1409600006657bf3521814c47521af#mitv://fccsovh.pvbox.live:18912/5b1409600006657bf3521814c47521af
 緯來戲劇台HD,p2p://fccseuro.pvbox.live:18912/5b1409f3000a72b5e945fde38f88c8aa#p2p://fccsovh.pvbox.live:18912/5b1409f3000a72b5e945fde38f88c8aa#mitv://fccseuro.pvbox.live:18912/5b1409f3000a72b5e945fde38f88c8aa#mitv://fccsovh.pvbox.live:18912/5b1409f3000a72b5e945fde38f88c8aa
 高點電視台HD,
 JET 綜合台HD,mitv://fccseuro.pvbox.live:18912/5b1409f30001262751180c32d7f81d19#mitv://fccsovh.pvbox.live:18912/5b1409f30001262751180c32d7f81d19#p2p://fccseuro.pvbox.live:18912/5b1409f30001262751180c32d7f81d19#p2p://fccsovh.pvbox.live:18912/5b1409f30001262751180c32d7f81d19
@@ -68,13 +68,13 @@ AXN HD,p2p://fccseuro.pvbox.live:18912/5b140922000388777809b9c6f83f6c7c#p2p://fc
 好萊塢電影台HD,p2p://fccseuro.pvbox.live:18912/5b1409f3000c1df591cff1add8163783#p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df591cff1add8163783#mitv://fccseuro.pvbox.live:18912/5b1409f3000c1df591cff1add8163783#mitv://fccsovh.pvbox.live:18912/5b1409f3000c1df591cff1add8163783
 FOX MOVIES HD,p2p://fccseuro.pvbox.live:18912/5b3c4f9c000341469570bb9241e0decd#p2p://fccsovh.pvbox.live:18912/5b3c4f9c000341469570bb9241e0decd#p2p://fccseuro.pvbox.live:18912/5b14096a000dc917c7befde7c4a48ba6#p2p://fccsovh.pvbox.live:18912/5b14096a000dc917c7befde7c4a48ba6#mitv://fccseuro.pvbox.live:18912/5b3c4f9c000341469570bb9241e0decd#mitv://fccsovh.pvbox.live:18912/5b3c4f9c000341469570bb9241e0decd
 CINEMAX HD,mitv://fccseuro.pvbox.live:18912/5b14096000043ff93465352634ceaed5#mitv://fccsovh.pvbox.live:18912/5b14096000043ff93465352634ceaed5
-緯來育樂台HD,rtmp://59.124.75.130/sat/tv701#rtmp://59.124.75.130/sat/tv702#rtmp://59.124.75.130:1935/sat/tv701#p2p://fccseuro.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3#p2p://fccsovh.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3#mitv://fccseuro.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3#mitv://fccsovh.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3
-緯來體育台HD,rtmp://59.124.75.130/sat/tv721#rtmp://59.124.75.130:1935/sat/tv721#p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e333b9b846b79e65ed3#p2p://fccsovh.pvbox.live:18912/5c2dd76e00049e333b9b846b79e65ed3#mitv://fccseuro.pvbox.live:18912/5c2dd76e00049e333b9b846b79e65ed3#mitv://fccsovh.pvbox.live:18912/5c2dd76e00049e333b9b846b79e65ed3
+緯來育樂台HD,p2p://fccseuro.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3#p2p://fccsovh.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3#mitv://fccseuro.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3#mitv://fccsovh.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3
+緯來體育台HD,p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e333b9b846b79e65ed3#p2p://fccsovh.pvbox.live:18912/5c2dd76e00049e333b9b846b79e65ed3#mitv://fccseuro.pvbox.live:18912/5c2dd76e00049e333b9b846b79e65ed3#mitv://fccsovh.pvbox.live:18912/5c2dd76e00049e333b9b846b79e65ed3
 ELEVEN SPORTS 1 HD,p2p://fccseuro.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc#p2p://fccsovh.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc#mitv://fccseuro.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc#mitv://fccsovh.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc
 ELEVEN SPORTS 2 HD,p2p://fccseuro.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e#p2p://fccsovh.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e#mitv://fccseuro.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e#mitv://fccsovh.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e
-MOMO綜合台HD,rtmp://59.124.75.130/sat/tv761#rtmp://59.124.75.130:1935/sat/tv761
+MOMO綜合台HD,
 博斯運動一台,mitv://fccsovh.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts#mitv://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts#p2p://fccsovh.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts#p2p://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts
-緯來日本台HD,rtmp://59.124.75.130:1935/sat/tv521#rtmp://59.124.75.130/sat/tv522#p2p://fccseuro.pvbox.live:18912/5b14092b000efa4c233af0e8a75243d8#p2p://fccsovh.pvbox.live:18912/5b14092b000efa4c233af0e8a75243d8#mitv://fccseuro.pvbox.live:18912/5b14092b000efa4c233af0e8a75243d8#mitv://fccsovh.pvbox.live:18912/5b14092b000efa4c233af0e8a75243d8
+緯來日本台HD,p2p://fccseuro.pvbox.live:18912/5b14092b000efa4c233af0e8a75243d8#p2p://fccsovh.pvbox.live:18912/5b14092b000efa4c233af0e8a75243d8#mitv://fccseuro.pvbox.live:18912/5b14092b000efa4c233af0e8a75243d8#mitv://fccsovh.pvbox.live:18912/5b14092b000efa4c233af0e8a75243d8
 國興衛視HD,p2p://fccseuro.pvbox.live:18912/5b1409f2000ebd78d6d3484d2e182303#p2p://fccsovh.pvbox.live:18912/5b1409f2000ebd78d6d3484d2e182303#mitv://fccseuro.pvbox.live:18912/5b1409f2000ebd78d6d3484d2e182303#mitv://fccsovh.pvbox.live:18912/5b1409f2000ebd78d6d3484d2e182303
 FOX HD,mitv://fccsovh.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts#mitv://fccseuro.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts#p2p://fccsovh.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts#p2p://fccseuro.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts
 WakuWaku Japan,http://140.249.31.22:80/txdirect.hls.huya.com/huyalive/7464053401-7464053401-083827dbf6838d0d5c1153da378426aa-1464498339-10057-A-0-1.m3u8
@@ -140,14 +140,14 @@ i-Fun動漫台,mitv://147.135.39.171:9906/5f61fe50000d7dad3e1139d934600a37.ts
 靖天映畫台,http://61.58.60.230:9319/live/243.m3u8#p2p://fccseuro.pvbox.live:18912/5b14093f0002d1c221d1c19922d41932#p2p://fccsovh.pvbox.live:18912/5b14093f0002d1c221d1c19922d41932#mitv://fccseuro.pvbox.live:18912/5b14093f0002d1c221d1c19922d41932#mitv://fccsovh.pvbox.live:18912/5b14093f0002d1c221d1c19922d41932
 靖洋卡通台,http://61.58.60.230:9319/live/206.m3u8
 靖洋戲劇台,http://61.58.60.230:9319/live/203.m3u8#p2p://fccseuro.pvbox.live:18912/5b140917000666031b44053492b428cc#p2p://fccsovh.pvbox.live:18912/5b140917000666031b44053492b428cc#mitv://fccseuro.pvbox.live:18912/5b140917000666031b44053492b428cc#mitv://fccsovh.pvbox.live:18912/5b140917000666031b44053492b428cc
-ELTA體育1台,rtmp://59.124.75.130/sat/md011#p2p://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5#p2p://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5#mitv://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5#mitv://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5
+ELTA體育1台,p2p://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5#p2p://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5#mitv://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5#mitv://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5
 ELTA體育2台,p2p://fccseuro.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547#p2p://fccsovh.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547#mitv://fccseuro.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547#mitv://fccsovh.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547
 ELTA體育3台,p2p://fccseuro.pvbox.live:18912/5b25fc8c00046f122dd8a5d154bcf87a#p2p://fccsovh.pvbox.live:18912/5b25fc8c00046f122dd8a5d154bcf87a#mitv://fccseuro.pvbox.live:18912/5b25fc8c00046f122dd8a5d154bcf87a#mitv://fccsovh.pvbox.live:18912/5b25fc8c00046f122dd8a5d154bcf87a
 FOX_SPORTS_1,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8#http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
-FOX_SPORTS_2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8#http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
+FOX_SPORTS_2,http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
 FOX_SPORTS_3,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8#http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
-WWE Network,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8#p2p://fccsovh.pvbox.live:18912/5ee9c935000d41056d22ffba2be96c45#p2p://fccseuro.pvbox.live:18912/5ee9c935000d41056d22ffba2be96c45#mitv://fccsovh.pvbox.live:18912/5ee9c935000d41056d22ffba2be96c45.ts#mitv://fccseuro.pvbox.live:18912/5ee9c935000d41056d22ffba2be96c45.ts#mitv://fccsovh.pvbox.live:18912/5b593cdd0007b4d4995d9a5887d75c71.ts#mitv://fccseuro.pvbox.live:18912/5b593cdd0007b4d4995d9a5887d75c71.ts
-WWE Superslam,http://47.242.54.220/daili/ce50.php?gun=3&id=wwe_pye#mitv://fccsovh.pvbox.live:18912/5cffd5d900072496c2c9b7c5d8c9ac44.ts#mitv://fccseuro.pvbox.live:18912/5cffd5d900072496c2c9b7c5d8c9ac44.ts
+WWE Network,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8#http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
+WWE Superslam,mitv://fccsovh.pvbox.live:18912/5cffd5d900072496c2c9b7c5d8c9ac44.ts#mitv://fccseuro.pvbox.live:18912/5cffd5d900072496c2c9b7c5d8c9ac44.ts
 民視第一台HD,http://seb.sason.top/ptv/ftv.php?id=dy
 民視台灣台HD,http://seb.sason.top/ptv/ftv.php?id=tw
 中視菁采台HD,
@@ -171,7 +171,7 @@ Fight Sport,
 NBA,mitv://fccsovh.pvbox.live:18912/5b593bea000144c6daeee1360e5f80f7.ts#mitv://fccseuro.pvbox.live:18912/5b593bea000144c6daeee1360e5f80f7.ts#mitv://fccsovh.pvbox.live:18912/5ee9c968000a63be6d23c63663fc661a.ts#mitv://fccseuro.pvbox.live:18912/5ee9c968000a63be6d23c63663fc661a.ts
 MLB,mitv://fccsovh.pvbox.live:18912/5ee9c8e6000e36236d21cb6030021e3c.ts#mitv://fccseuro.pvbox.live:18912/5ee9c8e6000e36236d21cb6030021e3c.ts#mitv://fccsovh.pvbox.live:18912/5b593bda000bf009f671f7f9b3653205.ts#mitv://fccseuro.pvbox.live:18912/5b593bda000bf009f671f7f9b3653205.ts
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8#https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8#https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-NBC_Sports_Network,mitv://fccsovh.pvbox.live:18912/5ee9c96b0008f5876d23d191319e5e16.ts#mitv://fccseuro.pvbox.live:18912/5ee9c96b0008f5876d23d191319e5e16.ts
+NBC_Sports_Network,
 viutv,mitv://fccseuro.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800.ts#mitv://fccsovh.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800.ts
 衛視卡式台,
 FOX警匪電影台,p2p://fccseuro.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626#p2p://fccsovh.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626#mitv://fccseuro.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626#mitv://fccsovh.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626
@@ -244,7 +244,7 @@ Eurosp2,p2p://fccseuro.pvbox.live:18912/5bee51c80006548a612b9eeed2e2ace0#p2p://f
 博斯高球台HD,p2p://fccseuro.pvbox.live:18912/5bdbf395000ad5cb2607f86ed2c7a380#p2p://fccsovh.pvbox.live:18912/5bdbf395000ad5cb2607f86ed2c7a380#mitv://fccseuro.pvbox.live:18912/5bdbf395000ad5cb2607f86ed2c7a380#mitv://fccsovh.pvbox.live:18912/5bdbf395000ad5cb2607f86ed2c7a380
 博斯高球2台,p2p://fccseuro.pvbox.live:18912/5b1409dc00088a66ae0878955c9b580a#p2p://fccsovh.pvbox.live:18912/5b1409dc00088a66ae0878955c9b580a#mitv://fccseuro.pvbox.live:18912/5b1409dc00088a66ae0878955c9b580a#mitv://fccsovh.pvbox.live:18912/5b1409dc00088a66ae0878955c9b580a
 博斯無限二台,
-博斯魅力台,rtmp://59.124.75.130/sat/md042
+博斯魅力台,
 博斯網球台,
 博斯運動 II,p2p://fccseuro.pvbox.live:18912/5b13f6f0000c1dd644ffd30c719c308f#p2p://fccsovh.pvbox.live:18912/5b13f6f0000c1dd644ffd30c719c308f#p2p://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849#p2p://fccsovh.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849#mitv://fccseuro.pvbox.live:18912/5b13f6f0000c1dd644ffd30c719c308f#mitv://fccsovh.pvbox.live:18912/5b13f6f0000c1dd644ffd30c719c308f#mitv://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849#mitv://fccsovh.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849
 博斯無限台,
@@ -270,7 +270,7 @@ GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
 彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 三立戲劇,p2p://fccseuro.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b#p2p://fccsovh.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b#mitv://fccseuro.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b#mitv://fccsovh.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b
 新視覺,mitv://fccseuro.pvbox.live:18912/5b1409230000ac47dc854141c2c16098#mitv://fccsovh.pvbox.live:18912/5b1409230000ac47dc854141c2c16098
-love nature,mitv://fccseuro.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40#mitv://fccsovh.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40
+愛自然Love Nature,p2p://fccsovh.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40#p2p://fccseuro.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40
 MY KIDS,mitv://fccseuro.pvbox.live:18912/5b1409da000a356eaf4555bfced52957#mitv://fccsovh.pvbox.live:18912/5b1409da000a356eaf4555bfced52957
 LIFETIME,mitv://fccseuro.pvbox.live:18912/5b593bd20009b7c897de5601f6c21c86#mitv://fccsovh.pvbox.live:18912/5b593bd20009b7c897de5601f6c21c86
 新唐人美東台,https://live.ntdimg.com/live400/playlist.m3u8#https://live2.ntdimg.com/live330/playlist.m3u8
@@ -280,6 +280,23 @@ LIFETIME,mitv://fccseuro.pvbox.live:18912/5b593bd20009b7c897de5601f6c21c86#mitv:
 新唐人加東台,https://live.ntdimg.com/mllive860/playlist.m3u8#https://live.ntdimg.com/mllive220/playlist.m3u8
 新唐人加西台,https://live.ntdimg.com/cwlive220/playlist.m3u8
 GOOD好消息,http://live.streamingfast.net/osmflivech1.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
