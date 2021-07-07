@@ -15,10 +15,10 @@ ELTA綜合台HD,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u
 豬哥亮歌廳秀,tvbus://66az2LHXLAdGzxupW7Wr6w4ZYRDG6AYHu5snfsnqCc4QQdXbfJuSeDrz6zt8G
 公視台語台HD,tvbus://6qkEzW3LhZ8DgVL5ivQFaJwKUXJXXrGsi3aQnSHZAHRNFeSoy8
 公視台語台HD,tvbus://5TiPr2DjeUVndyJeyKN4scd8hyRYWMSYHcvLpK6XMHKzowB3vrMx9oVvxBJf2
-CNN HD,tvbus://7rJDsdLVF4hzEvTfkaUX7ehp9SVQoYgvRLmJBeBZzVN9Cf4LuH
-CNN HD,tvbus://6hXWXCdb87JurbTRCHk5jcoQshcAbpEUto4UatTdMvGwpRhefph7Kw9HgUs2V
-CNN HD,mitv://fccsovh.pvbox.live:18912/5b140954000dc92a375d63ea7e478ea8.ts
-CNN HD,mitv://fccseuro.pvbox.live:18912/5b140954000dc92a375d63ea7e478ea8.ts
+CNN,tvbus://7rJDsdLVF4hzEvTfkaUX7ehp9SVQoYgvRLmJBeBZzVN9Cf4LuH
+CNN,tvbus://6hXWXCdb87JurbTRCHk5jcoQshcAbpEUto4UatTdMvGwpRhefph7Kw9HgUs2V
+CNN,mitv://fccsovh.pvbox.live:18912/5b140954000dc92a375d63ea7e478ea8.ts
+CNN,mitv://fccseuro.pvbox.live:18912/5b140954000dc92a375d63ea7e478ea8.ts
 民視HD,tvbus://6Lj9rFEdKejTmFCH2Kv7jX2G56jH6y1zu7sNmRWp1qGYpyWzZk4tgPKnwWSi2
 民視HD,tvbus://83WXpNj2LANa9a9K37rfRY6pjfw41JwJbDwjeBMYbSZPNBECTp
 民視HD,tvbus://6GwMH4m2UbVfWAMzAs38fnm1rmpMyqrwkPtBFZdrZkiBsmBrmSeQYonMVKusd
@@ -32,7 +32,7 @@ CNN HD,mitv://fccseuro.pvbox.live:18912/5b140954000dc92a375d63ea7e478ea8.ts
 民視HD,rtmp://161.202.204.248/sat/tv052
 民視HD,rtmp://161.202.204.248:1935/sat/tv051
 民視HD,rtmp://59.124.75.153/sat/tv051
-人間衛視HD,
+人間衛視,tvbus://5uA9xkrnZnnrQq4kwjDfkEvX9m1h929DSFnFiJACuAXDiyKWDh8Mv2QEMwzvn
 台視HD,tvbus://7t2ivyBLp7Dy8j2NQdnHPxrJRLs8qUDAQjKUiZmAD7y3k6QtTb
 台視HD,tvbus://6Q1Sse26Zx4Bb33LwYrUXekJwjGu5ogGDiBiqTbonztTEr7bESCCm5BY4s1xb
 台視HD,tvbus://6Uz6j3KQTSS5GjDTezuHHSozxzwZhEsBi6h39pUAkJfHvu5Ybsc9UMcnBcLgc
@@ -109,16 +109,16 @@ Discovery 頻道HD,p2p://fccseuro.pvbox.live:18912/5b14092b000cd4e0b31a629500c1a
 Discovery 頻道HD,p2p://fccsovh.pvbox.live:18912/5b14092b000cd4e0b31a629500c1a30f
 Discovery 頻道HD,mitv://fccseuro.pvbox.live:18912/5b14092b000cd4e0b31a629500c1a30f
 Discovery 頻道HD,mitv://fccsovh.pvbox.live:18912/5b14092b000cd4e0b31a629500c1a30f
-TLC 旅遊生活頻道HD,p2p://fccseuro.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0f4a1b
-TLC 旅遊生活頻道HD,p2p://fccsovh.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0f4a1b
-TLC 旅遊生活頻道HD,mitv://fccseuro.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0f4a1b
-TLC 旅遊生活頻道HD,mitv://fccsovh.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0f4a1b
 動物星球頻道HD,tvbus://5nhzzhHBzBCjRWBx6LYCiRLuBNmJLnTfhqnpMaQir8mpYASyXPA6rYXmacP6Y
 動物星球頻道HD,tvbus://8bwqTjQgxzwukjMho947qg83SKhuo4hThVwj1p1udAYjCpqo13
 動物星球頻道HD,p2p://fccseuro.pvbox.live:18912/5b14096100006f339d699b1699f3896d
 動物星球頻道HD,p2p://fccsovh.pvbox.live:18912/5b14096100006f339d699b1699f3896d
 動物星球頻道HD,mitv://fccseuro.pvbox.live:18912/5b14096100006f339d699b1699f3896d
 動物星球頻道HD,mitv://fccsovh.pvbox.live:18912/5b14096100006f339d699b1699f3896d
+TLC 旅遊生活頻道HD,p2p://fccseuro.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0f4a1b
+TLC 旅遊生活頻道HD,p2p://fccsovh.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0f4a1b
+TLC 旅遊生活頻道HD,mitv://fccseuro.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0f4a1b
+TLC 旅遊生活頻道HD,mitv://fccsovh.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0f4a1b
 CN卡通頻道HD,mitv://fccsovh.pvbox.live:18912/5b140917000efaac21db0941c02449d8.ts
 CN卡通頻道HD,mitv://fccseuro.pvbox.live:18912/5b140917000efaac21db0941c02449d8.ts
 CN卡通頻道HD,p2p://fccseuro.pvbox.live:18912/5b140917000efaac21db0941c02449d8
@@ -467,24 +467,8 @@ CINEMAX HD,tvbus://6qfbj5CfC7wqNJWkv2t5fnxHNk1Sx4eB8LfMWWhCPxvUqruCLP
 緯來體育台HD,rtmp://59.124.75.153/sat/tv721
 緯來體育台HD,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
 緯來體育台HD,rtmp://59.124.75.153:1935/sat/tv721
-ELEVEN +,p2p://fccseuro.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc
-ELEVEN +,p2p://fccsovh.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc
-ELEVEN +,mitv://fccseuro.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc
-ELEVEN +,mitv://fccsovh.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc
-ELEVEN 1,tvbus://5NrQ5pvLs9nQVyZtWJYJQaobzbEa1uTQwg2D4P1mwrtAh7ZsWZfpG2hA9FM2P
-ELEVEN 1,tvbus://7TQ2t52MTCykoWYFEGU39rQkJ5QzcQSfefoVrNCeP9boy9AS5n
-ELEVEN 2,tvbus://6SxHQswLudukLP996c4UcgZPuWG7HDvp2PM2mRg8ahfkJG9AjKTCJwZQjaKUL
-ELEVEN 2,tvbus://8hEdnTPJhq69QcwbkqZXsPZPLDoH8tu65sE2gVk77hRYrggwFL
-ELEVEN 2,p2p://fccseuro.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e
-ELEVEN 2,p2p://fccsovh.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e
-ELEVEN 2,mitv://fccseuro.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e
-ELEVEN 2,mitv://fccsovh.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e
-ELEVEN 2,rtmp://59.124.75.153:1935/sat/md041
-ELEVEN 2,rtmp://161.202.204.248:1935/sat/md041
-ELEVEN 2,rtmp://59.124.75.153:1935/sat/md041
-ELEVEN 2,rtmp://161.202.204.248/sat/md041
-ELEVEN 2,rtmp://161.202.204.248/sat/md042
-ELEVEN 2,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
+ELEVEN SPORTS1,http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+ELEVEN SPORTS2,http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 MoMo綜合台,rtmp://59.124.75.153/sat/tv761
 MoMo綜合台,rtmp://59.124.75.153:1935/sat/tv761
 MoMo綜合台,rtmp://161.202.204.248/sat/tv761
@@ -522,8 +506,11 @@ FOX,mitv://fccseuro.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts
 FOX,p2p://fccsovh.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts
 FOX,p2p://fccseuro.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts
 FOX,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
-Waku Waku Japan,tvbus://6Gm8Y5FHHsCMWmubtYX8HatkYvZbpHaE5BwwwywpUufPC1LcHMrTxQG5RxTMn
-Waku Waku Japan,tvbus://6FvygsEHnZgMxxhQRLQVxWYwM53dCPMMbwk8xzdci1L2MEUeM3FsZ3aW1kAoU
+三立戲劇,tvbus://8TNVsoqe7ULzyCimBACzQMNeMopXB4dFx1xsqDk3TGVR6Vm3CN
+三立戲劇,p2p://fccseuro.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b
+三立戲劇,p2p://fccsovh.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b
+三立戲劇,mitv://fccseuro.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b
+三立戲劇,mitv://fccsovh.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b
 Z頻道HD,tvbus://76QSuKAXb42jbKAecjA8qdaSN3SqC59akMfpCNRutsMM2yJmSb 
 Z頻道HD,tvbus://6R1Mb1nKR5CvDNMeoPgdwFbgR4hAT8GoYmjAmg71KpcS1CnCZNqcsb5gvj6vq
 Z頻道HD,p2p://fccseuro.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc
@@ -565,6 +552,8 @@ NHK華語視界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.
 非凡商業台HD,mitv://fccsovh.pvbox.live:18912/5b140a9a0001dd5bdc536c45f7b967f6
 非凡商業台HD,p2p://fccseuro.pvbox.live:18912/5b140a9a0001dd5bdc536c45f7b967f6
 非凡商業台HD,p2p://fccsovh.pvbox.live:18912/5b140a9a0001dd5bdc536c45f7b967f6
+Waku Waku Japan,tvbus://6Gm8Y5FHHsCMWmubtYX8HatkYvZbpHaE5BwwwywpUufPC1LcHMrTxQG5RxTMn
+Waku Waku Japan,tvbus://6FvygsEHnZgMxxhQRLQVxWYwM53dCPMMbwk8xzdci1L2MEUeM3FsZ3aW1kAoU
 環宇財經台,p2p://fccseuro.pvbox.live:18912/5b1408f30002585a33caea38616d5414
 環宇財經台,p2p://fccsovh.pvbox.live:18912/5b1408f30002585a33caea38616d5414
 環宇財經台,mitv://fccseuro.pvbox.live:18912/5b1408f30002585a33caea38616d5414
@@ -579,11 +568,13 @@ NHK華語視界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.
 新歌速遞,rtmp://tx.rtmp.huya.com:1935/huyalive/1099531740262-1099531740262-86382469611257856-2199063603980-10057-A-0-1
 NHK,tvbus://6FcARLDgSmAAy8nbHF5GxhSJ6GVskUb1ce2sptPoQ2i5MP6W9HWGdzxNdKxGK
 NHK,tvbus://6i2FdTGctUdhaHFbLTJGQ97E3FbouWbrrkaDeyQVf8EDA1rwiALn3aeJAN3EC
-ELEVEN SPORTS1,http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-ELEVEN SPORTS2,http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 幸福空間,http://61.58.60.230:9319/live/80.m3u8
 Thrill恐怖電影,tvbus://6ffsBkiFt76YsMvAsynuZRMEm6u5YtvaJoPmiuwZLUVWK2Yg6TLDy5igYN88h
 AXN亞洲HD,tvbus://6WG8BTRFzxnJwQSo2vpcuiSmRxGHRavo1Ci5YxzM3Yd4QPenhQx56gxkzeWh4
+新視覺,mitv://fccseuro.pvbox.live:18912/5b1409230000ac47dc854141c2c16098
+新視覺,mitv://fccsovh.pvbox.live:18912/5b1409230000ac47dc854141c2c16098
+愛自然Love Nature,p2p://fccsovh.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40
+愛自然Love Nature,p2p://fccseuro.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40
 信吉電視台HD,
 華藏電視台HD,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 華藏電視台HD,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8?fbclid=IwAR2uErpXmasWyKXdAsf_7CmAt16pfI_p8LnqdgrwtxWmErj7tq4NSTRtnPc
@@ -597,6 +588,7 @@ AXN亞洲HD,tvbus://6WG8BTRFzxnJwQSo2vpcuiSmRxGHRavo1Ci5YxzM3Yd4QPenhQx56gxkzeWh
 中華美食,p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45
 中華美食,mitv://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45
 中華美食,mitv://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45
+中華美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 佛衛慈悲台HD,tvbus://5kjWfXsFo8XVV4b31i5v7nWRG5E4U9Hd4sciiuJzrvWgV6LMMEF9b2PmJvRAK
 佛衛慈悲台HD,http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8?fbclid=IwAR0tOOH5nMOCvkCFTXbHgyO6P95nuOS3MNCfYDflXYkqsUVGfApmPOLWeR0
 佛衛慈悲台HD,http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/playlist.m3u8
@@ -841,21 +833,40 @@ CINEMA WORLD,p2p://fccsovh.pvbox.live:18912/5bdbf3aa000b9c3128b3d5f10eb6a4ae
 CINEMA WORLD,mitv://fccseuro.pvbox.live:18912/5bdbf3aa000b9c3128b3d5f10eb6a4ae
 CINEMA WORLD,mitv://fccsovh.pvbox.live:18912/5bdbf3aa000b9c3128b3d5f10eb6a4ae
 東森亞洲幼幼,tvbus://5VquV1gHN55p1tPjRKANnx2BJqJ7Qz8QpW1ZPFikD9axzcGNE2yyFKq8A4ZV5
-GOOD2真理台,http://live.streamingfast.net/osmflivech2.m3u8
+MY KIDS,mitv://fccseuro.pvbox.live:18912/5b1409da000a356eaf4555bfced52957
+MY KIDS,mitv://fccsovh.pvbox.live:18912/5b1409da000a356eaf4555bfced52957
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
-GOOD葉光明,http://live.streamingfast.net/osmflivech16.m3u8
-GOOD真情之夜,http://live.streamingfast.net/osmflivech15.m3u8
+LIFETIME,mitv://fccseuro.pvbox.live:18912/5b593bd20009b7c897de5601f6c21c86
+LIFETIME,mitv://fccsovh.pvbox.live:18912/5b593bd20009b7c897de5601f6c21c86
+ELEVEN +,p2p://fccseuro.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc
+ELEVEN +,p2p://fccsovh.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc
+ELEVEN +,mitv://fccseuro.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc
+ELEVEN +,mitv://fccsovh.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc
 GEM,tvbus://5mGGeG84KNySnRUhno6N1H1Ntp9RaoT447UWSkc4fFXAYsw8WrYUjypawDrbR
 佛衛慈悲台2,http://btsu4k5-hisng.cdn.hinet.net/live/pool/btsLive2/hievent-hls/btsLive2.m3u8
-大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 孝廉電視台,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
 生命台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 淨空老法師,http://amtbsg.cloudapp.net/liveedge/_definst_/livetv/chunklist_w577962608.m3u8
-GOOD禱告大軍,http://live.streamingfast.net/osmflivech7.m3u8
+ELEVEN 1,tvbus://5NrQ5pvLs9nQVyZtWJYJQaobzbEa1uTQwg2D4P1mwrtAh7ZsWZfpG2hA9FM2P
+ELEVEN 1,tvbus://7TQ2t52MTCykoWYFEGU39rQkJ5QzcQSfefoVrNCeP9boy9AS5n
 France法國24小時,tvbus://6Va3AMKgbYS1TfWV5BiZxEvw5FvqTesvp45aHC7FnLiRwJQR6bA2tEXDHmhtM
-Fashion TV,
-新唐人亞太台,https://live.ntdimg.com/aplive200/playlist.m3u8
+Fashion TV,http://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
+Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+ELEVEN 2,tvbus://6SxHQswLudukLP996c4UcgZPuWG7HDvp2PM2mRg8ahfkJG9AjKTCJwZQjaKUL
+ELEVEN 2,tvbus://8hEdnTPJhq69QcwbkqZXsPZPLDoH8tu65sE2gVk77hRYrggwFL
+ELEVEN 2,p2p://fccseuro.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e
+ELEVEN 2,p2p://fccsovh.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e
+ELEVEN 2,mitv://fccseuro.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e
+ELEVEN 2,mitv://fccsovh.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e
+ELEVEN 2,rtmp://59.124.75.153:1935/sat/md041
+ELEVEN 2,rtmp://161.202.204.248:1935/sat/md041
+ELEVEN 2,rtmp://59.124.75.153:1935/sat/md041
+ELEVEN 2,rtmp://161.202.204.248/sat/md041
+ELEVEN 2,rtmp://161.202.204.248/sat/md042
+ELEVEN 2,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
+周星馳,http://auney.gearhostpreview.com/huya.php?id=11342412
 公視3台HD,tvbus://6F5LQ73o1ic8HGkwvdC5Zw9m2xz9KQpEgrb1pTz9dvRLP6neoj8SD7Q511Maq
 公視3台HD,tvbus://8RT5B4va9wkfC7a6twDMtKQiQAhu8HcNNmVdi7Rhnri1nSnv9b
 MOMO追劇台HD,mitv://fccseuro.pvbox.live:18912/5b140a97000b668417d6fc134b0d417e
@@ -901,7 +912,7 @@ tvN HD,p2p://fccseuro.pvbox.live:18912/5bdbf3a70003296c1991afcf478c85b7
 tvN HD,p2p://fccsovh.pvbox.live:18912/5bdbf3a70003296c1991afcf478c85b7
 tvN HD,mitv://fccseuro.pvbox.live:18912/5bdbf3a70003296c1991afcf478c85b7
 tvN HD,mitv://fccsovh.pvbox.live:18912/5bdbf3a70003296c1991afcf478c85b7
-DREAMWORKS,
+DREAM WORKS夢工廠,
 星衛娛樂台HD,p2p://fccseuro.pvbox.live:18912/5b1408f1000d1249aac093fa7393f873
 星衛娛樂台HD,p2p://fccsovh.pvbox.live:18912/5b1408f1000d1249aac093fa7393f873
 星衛娛樂台HD,mitv://fccseuro.pvbox.live:18912/5b1408f1000d1249aac093fa7393f873
@@ -926,8 +937,8 @@ eve HD,mitv://fccsovh.pvbox.live:18912/5b14093f00043fac039c9178695b6e25
 eve HD,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
 FX,p2p://fccseuro.pvbox.live:18912/5b1409da000ebd47ecf41861c902cf0f
 FX,p2p://fccsovh.pvbox.live:18912/5b1409da000ebd47ecf41861c902cf0f
-GOOD健康新煮流,http://live.streamingfast.net/osmflivech13.m3u8
-GOOD真情部落格,http://live.streamingfast.net/osmflivech14.m3u8
+林正英,http://auney.gearhostpreview.com/huya.php?id=11342421
+成龍,http://auney.gearhostpreview.com/huya.php?id=11342386
 寰宇新聞台,tvbus://6JKuKpFKftPN5faMaHje6597pVufZ44XiP8oC8uGCmw12E2XX1VNho9cNnR2c
 寰宇新聞台,tvbus://7beSKBhbYwem2JMcyAPiw9Lq15919uQamc7r6Srh1Kq6TyFLWm
 寰宇新聞台,mitv://fccsovh.pvbox.live:18912/5b1408f30005adec057583980131e1ee.ts
@@ -947,7 +958,6 @@ BBC Lifestyle宏觀設計,mitv://fccsovh.pvbox.live:18912/5b1408f2000906bdb5da58
 亞洲美食頻道,p2p://fccsovh.pvbox.live:18912/5b1409da000c98012b21065a2d054373
 亞洲美食頻道,mitv://fccseuro.pvbox.live:18912/5b1409da000c98012b21065a2d054373
 亞洲美食頻道,mitv://fccsovh.pvbox.live:18912/5b1409da000c98012b21065a2d054373
-亞洲美食頻道,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 HGTV居家樂活頻道,tvbus://6RKhBXY47ywabEErgG5XQcMxKYRPBzL1RkG8oNyHvfWsvmpjM7UFofedsRTtT
 HGTV居家樂活頻道,mitv://fccsovh.pvbox.live:18912/5b593bc300073eb4da590cc0ddf6132e.ts
 HGTV居家樂活頻道,mitv://fccseuro.pvbox.live:18912/5b593bc300073eb4da590cc0ddf6132e.ts
@@ -966,7 +976,7 @@ TV5法式生活頻道HD,p2p://fccseuro.pvbox.live:18912/5b1409220005714cfe68dd00
 三立國際,tvbus://67jD3VftcMR8qp8HCnFNcHPUeHDHXF7WLMsT6Zwu5HXtuMbDjLrWUYRTVFR9P
 DMAX,tvbus://5smJA9nq9pWPSDZHgad2rkZ9PE8AzJBRo6cfQVZB9voKy568mtGDb8mAucoRU
 DMAX,tvbus://874a6KPRGwFtaEE5NnSUG4SpLz4nLvTYyypYupFCsw3UUSvmSi
-GOOD福氣人生,http://live.streamingfast.net/osmflivech25.m3u8
+李連杰,http://auney.gearhostpreview.com/huya.php?id=11342390
 CATCHPLAY電影台,mitv://fccseuro.pvbox.live:18912/5b1409db000126a9711886b8313f331d
 CATCHPLAY電影台,mitv://fccsovh.pvbox.live:18912/5b1409db000126a9711886b8313f331d
 CATCHPLAY電影台,p2p://fccseuro.pvbox.live:18912/5b1409db000126a9711886b8313f331d
@@ -981,15 +991,15 @@ HBO HD頻道,mitv://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68
 HBO HD頻道,mitv://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68
 HBO HD頻道,mitv://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
 HBO HD頻道,mitv://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
-HBO強檔鉅獻HD,p2p://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52
-HBO強檔鉅獻HD,p2p://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52
-HBO強檔鉅獻HD,mitv://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52
-HBO強檔鉅獻HD,mitv://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52
-HBO原創鉅獻HD,P2p://147.135.39.171:9906/5eb3cc99000aa55e13ec5a6e1cb7093f.ts
-HBO原創鉅獻HD,tvbus://5KQoHz5FKQMhQt1DLMKsmP8qMXvFJ53k7fQ24t7x1h2icmny9UEbhZZRFHZZs
-HBO原創鉅獻HD,p2p://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
-HBO原創鉅獻HD,p2p://fccsovh.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
-HBO原創鉅獻HD,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+HBO強檔Hits,p2p://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52
+HBO強檔Hits,p2p://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52
+HBO強檔Hits,mitv://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52
+HBO強檔Hits,mitv://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52
+HBO原創Signature,P2p://147.135.39.171:9906/5eb3cc99000aa55e13ec5a6e1cb7093f.ts
+HBO原創Signature,tvbus://5KQoHz5FKQMhQt1DLMKsmP8qMXvFJ53k7fQ24t7x1h2icmny9UEbhZZRFHZZs
+HBO原創Signature,p2p://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
+HBO原創Signature,p2p://fccsovh.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
+HBO原創Signature,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 HBO溫馨家庭HD,
 星衛HD電影台,tvbus://6HEgk6v2dcFEp48HohXkhC73Pdye4wZ1Mgws8KK833aq6rAzythmo9Z4ZDnP9
 星衛HD電影台,tvbus://5ixd4eARkmWRUdmjnAu17xUsC7ngBWDaxsmgk4LcxkFCkXELGn8CrfBYQijmA
@@ -1063,6 +1073,17 @@ Eurosp2,p2p://fccsovh.pvbox.live:18912/5bee549b0004e9ee19e204725b7a0321
 好消息2台HD,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 好消息2台HD,mitv://fccseuro.pvbox.live:18912/5b140922000a72b215ca7b7f6b969c00
 好消息2台HD,mitv://fccsovh.pvbox.live:18912/5b140922000a72b215ca7b7f6b969c00
+彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+吳京,http://auney.gearhostpreview.com/huya.php?id=11602045
+甄子丹,http://auney.gearhostpreview.com/huya.php?id=11352935
+周潤發,http://auney.gearhostpreview.com/huya.php?id=11342387
+沈騰,http://auney.gearhostpreview.com/huya.php?id=11601968
+洪金寶,http://auney.gearhostpreview.com/huya.php?id=11342427
+徐崢,http://auney.gearhostpreview.com/huya.php?id=11602043
+劉德華,http://auney.gearhostpreview.com/huya.php?id=11342424
+金庸電影,http://auney.gearhostpreview.com/huya.php?id=11352897
+許氏電影,http://auney.gearhostpreview.com/huya.php?id=11602033
+
 GOOD特會系列：禱告與轉化,http://live.streamingfast.net/osmflivech32.m3u8
 GOOD特會系列：研經培靈,http://live.streamingfast.net/osmflivech33.m3u8
 GOOD天國文化特會,http://live.streamingfast.net/osmflivech34.m3u8
@@ -1074,39 +1095,20 @@ GOOD全家歸主有良方,http://live.streamingfast.net/osmflivech39.m3u8
 GOOD轉轉發現愛,http://live.streamingfast.net/osmflivech40.m3u8
 GOOD幸福學堂,http://live.streamingfast.net/osmflivech41.m3u8
 GOOD愛+醫生,http://live.streamingfast.net/osmflivech42.m3u8
+GOOD愛+醫生,http://live.streamingfast.net/osmflivech9.m3u8
 GOOD我們EYE旅行,http://live.streamingfast.net/osmflivech43.m3u8
+GOOD我們EYE旅行,http://live.streamingfast.net/osmflivech11.m3u8
 GOOD烤箱讀書會,http://live.streamingfast.net/osmflivech44.m3u8
+GOOD烤箱讀書會,http://live.streamingfast.net/osmflivech10.m3u8
 GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
 GOOD少年體驗隊,http://live.streamingfast.net/osmflivech46.m3u8
 GOOD蒙福人生,http://live.streamingfast.net/osmflivech47.m3u8
 GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
-彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-三立戲劇,tvbus://8TNVsoqe7ULzyCimBACzQMNeMopXB4dFx1xsqDk3TGVR6Vm3CN
-三立戲劇,p2p://fccseuro.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b
-三立戲劇,p2p://fccsovh.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b
-三立戲劇,mitv://fccseuro.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b
-三立戲劇,mitv://fccsovh.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b
-新視覺,mitv://fccseuro.pvbox.live:18912/5b1409230000ac47dc854141c2c16098
-新視覺,mitv://fccsovh.pvbox.live:18912/5b1409230000ac47dc854141c2c16098
-愛自然Love Nature,p2p://fccsovh.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40
-愛自然Love Nature,p2p://fccseuro.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40
-MY KIDS,mitv://fccseuro.pvbox.live:18912/5b1409da000a356eaf4555bfced52957
-MY KIDS,mitv://fccsovh.pvbox.live:18912/5b1409da000a356eaf4555bfced52957
-LIFETIME,mitv://fccseuro.pvbox.live:18912/5b593bd20009b7c897de5601f6c21c86
-LIFETIME,mitv://fccsovh.pvbox.live:18912/5b593bd20009b7c897de5601f6c21c86
-新唐人美東台,https://live.ntdimg.com/live400/playlist.m3u8
-新唐人美東台,https://live2.ntdimg.com/live330/playlist.m3u8
-新唐人美西台,https://live.ntdimg.com/uwlive990/playlist.m3u8
-新唐人美西台,https://live.ntdimg.com/uwlive520/playlist.m3u8
-新唐人美西台,https://live.ntdimg.com/sflive220/playlist.m3u8
-新唐人舊金山台,https://live.ntdimg.com/sflive990/playlist.m3u8
-新唐人中國台,https://live2.ntdimg.com/cnlive/playlist.m3u8
-新唐人加東台,https://live.ntdimg.com/mllive860/playlist.m3u8
-新唐人加東台,https://live.ntdimg.com/mllive220/playlist.m3u8
-新唐人加西台,https://live.ntdimg.com/cwlive220/playlist.m3u8
+GOOD葉光明,http://live.streamingfast.net/osmflivech16.m3u8
+GOOD福氣人生,http://live.streamingfast.net/osmflivech25.m3u8
 GOOD好消息,http://live.streamingfast.net/osmflivech1.m3u8
 GOOD共享觀點,http://live.streamingfast.net/osmflivech19.m3u8
-GOOD愛+好醫生,http://live.streamingfast.net/osmflivech9.m3u8
+GOOD共享觀點,http://live.streamingfast.net/osmflivech5.m3u8
 GOOD詩歌精選,http://live.streamingfast.net/osmflivech28.m3u8
 GOOD恩典時分,http://live.streamingfast.net/osmflivech20.m3u8
 GOOD大衛鮑森,http://live.streamingfast.net/osmflivech17.m3u8
@@ -1117,29 +1119,39 @@ GOOD福音佈道音樂會,http://live.streamingfast.net/osmflivech31.m3u8
 GOOD孫叔唱副歌,http://live.streamingfast.net/osmflivech12.m3u8
 GOOD國際講員,http://live.streamingfast.net/osmflivech18.m3u8
 GOOD職場新視野,http://live.streamingfast.net/osmflivech22.m3u8
-GOOD我們EYE旅行,http://live.streamingfast.net/osmflivech11.m3u8
-GOOD烤箱讀書會,http://live.streamingfast.net/osmflivech10.m3u8
+GOOD真情部落格,http://live.streamingfast.net/osmflivech14.m3u8
 GOOD真情部落格,http://live.streamingfast.net/osmflivech3.m3u8
-GOOD共享觀點,http://live.streamingfast.net/osmflivech5.m3u8
 GOOD經典音樂,http://live.streamingfast.net/osmflivech6.m3u8
-GOOD華語講員,http://live.streamingfast.net/osmflivech21.m3u8
-GOOD空中主日學 生活,http://live.streamingfast.net/osmflivech23.m3u8
-GOOD空中主日學 查經,http://live.streamingfast.net/osmflivech26.m3u8
 GOOD劉三講古,http://live.streamingfast.net/osmflivech24.m3u8
+GOOD空中主日學 查經,http://live.streamingfast.net/osmflivech26.m3u8
+GOOD空中主日學 生活,http://live.streamingfast.net/osmflivech23.m3u8
+GOOD真理台,http://live.streamingfast.net/osmflivech2.m3u8
+GOOD真情之夜,http://live.streamingfast.net/osmflivech15.m3u8
+GOOD禱告大軍,http://live.streamingfast.net/osmflivech7.m3u8
+GOOD華語講員,http://live.streamingfast.net/osmflivech21.m3u8
+GOOD健康新煮流,http://live.streamingfast.net/osmflivech13.m3u8
 
-周星馳,http://auney.gearhostpreview.com/huya.php?id=11342412
-林正英,http://auney.gearhostpreview.com/huya.php?id=11342421
-成龍,http://auney.gearhostpreview.com/huya.php?id=11342386
-李連杰,http://auney.gearhostpreview.com/huya.php?id=11342390
-吳京,http://auney.gearhostpreview.com/huya.php?id=11602045
-甄子丹,http://auney.gearhostpreview.com/huya.php?id=11352935
-周潤發,http://auney.gearhostpreview.com/huya.php?id=11342387
-沈騰,http://auney.gearhostpreview.com/huya.php?id=11601968
-洪金寶,http://auney.gearhostpreview.com/huya.php?id=11342427
-徐崢,http://auney.gearhostpreview.com/huya.php?id=11602043
-劉德華,http://auney.gearhostpreview.com/huya.php?id=11342424
-金庸電影,http://auney.gearhostpreview.com/huya.php?id=11352897
-許氏電影,http://auney.gearhostpreview.com/huya.php?id=11602033
+新唐人亞太台,https://live.ntdimg.com/aplive200/playlist.m3u8
+新唐人美東台,https://live.ntdimg.com/live400/playlist.m3u8
+新唐人美東台,https://live2.ntdimg.com/live330/playlist.m3u8
+新唐人美西台,https://live.ntdimg.com/uwlive990/playlist.m3u8
+新唐人美西台,https://live.ntdimg.com/uwlive520/playlist.m3u8
+新唐人美西台,https://live.ntdimg.com/sflive220/playlist.m3u8
+新唐人舊金山台,https://live.ntdimg.com/sflive990/playlist.m3u8
+新唐人中國台,https://live2.ntdimg.com/cnlive/playlist.m3u8
+新唐人加東台,https://live.ntdimg.com/mllive860/playlist.m3u8
+新唐人加東台,https://live.ntdimg.com/mllive220/playlist.m3u8
+新唐人加西台,https://live.ntdimg.com/cwlive220/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
