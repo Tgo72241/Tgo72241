@@ -565,7 +565,6 @@ Waku Waku Japan,tvbus://6FvygsEHnZgMxxhQRLQVxWYwM53dCPMMbwk8xzdci1L2MEUeM3FsZ3aW
 地理悠人頻道HD,p2p://fccsovh.pvbox.live:18912/5b14093f000b29ff7371d28209f33f5f
 地理悠人頻道HD,mitv://fccseuro.pvbox.live:18912/5b14093f000b29ff7371d28209f33f5f
 地理悠人頻道HD,mitv://fccsovh.pvbox.live:18912/5b14093f000b29ff7371d28209f33f5f
-新歌速遞,rtmp://tx.rtmp.huya.com:1935/huyalive/1099531740262-1099531740262-86382469611257856-2199063603980-10057-A-0-1
 NHK,tvbus://6FcARLDgSmAAy8nbHF5GxhSJ6GVskUb1ce2sptPoQ2i5MP6W9HWGdzxNdKxGK
 NHK,tvbus://6i2FdTGctUdhaHFbLTJGQ97E3FbouWbrrkaDeyQVf8EDA1rwiALn3aeJAN3EC
 幸福空間,http://61.58.60.230:9319/live/80.m3u8
@@ -710,7 +709,7 @@ ELTA體育1台,p2p://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5
 ELTA體育1台,p2p://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5
 ELTA體育1台,mitv://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5
 ELTA體育1台,mitv://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5
-ELTS體育2台,tvbus://5hfsk3SxhLLVMowdFbbrYLK77WGeDeuP2PosHg8y8YFj8kBiheeTxp3fXKXfb
+ELTA體育2台,tvbus://5hfsk3SxhLLVMowdFbbrYLK77WGeDeuP2PosHg8y8YFj8kBiheeTxp3fXKXfb
 ELTA體育2台,tvbus://6eUVgb2q6mR2wN3TuPNmKkqPmQvzaqgQQS6KEqahbV6rRSz1GSabpqWfnoCwb
 ELTA體育2台,tvbus://7EsoS5HVtrc5JCnFj9Rg2GvZh4Ghi31LcYBm6v8z1gzzsb1nfM
 ELTA體育2台,p2p://fccseuro.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547
@@ -741,7 +740,7 @@ FOX_SPORTS_3,http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 WWE Network,tvbus://69jvf5kMznUvkAByoJzjszmeEKiXzzgP1JXWLHUqwH9DZJUEqxQ2NbpwzyvE3
 WWE Network,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 WWE Network,http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
-WWE Superslam/4565,tvbus://6A4sR3i8udw9aXezg9Ej3UKztcoYrSfirdS2Za2jh3S5pya9orQbDAjaw7FYq
+WWE Superslam,tvbus://6A4sR3i8udw9aXezg9Ej3UKztcoYrSfirdS2Za2jh3S5pya9orQbDAjaw7FYq
 WWE Superslam,mitv://fccsovh.pvbox.live:18912/5cffd5d900072496c2c9b7c5d8c9ac44.ts
 WWE Superslam,mitv://fccseuro.pvbox.live:18912/5cffd5d900072496c2c9b7c5d8c9ac44.ts
 民視第一台HD,tvbus://6ednGj6km9MMnYffReGPEqn5nkuGF9JeeS8KYs1FfWdZD7TNDfeeHbjzWTS37
@@ -749,7 +748,7 @@ WWE Superslam,mitv://fccseuro.pvbox.live:18912/5cffd5d900072496c2c9b7c5d8c9ac44.
 民視台灣台HD,tvbus://5qUwVXwdT4DdpcNKXRi77GdzH9Gb2ZQD5WWueA5WkZ7kpuvmC53oDoSCDVRTd
 民視台灣台HD,http://seb.sason.top/ptv/ftv.php?id=tw
 民視台灣台HD,http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
-中視菁采台HD,tvbus://6edxsRpsnrGgn46ccQM5ZBXK7pscfDaqz45pGKWP8W9QfbuGeZbJE31cKeyiY
+中視菁采台,tvbus://6edxsRpsnrGgn46ccQM5ZBXK7pscfDaqz45pGKWP8W9QfbuGeZbJE31cKeyiY
 中視菁采台,tvbus://8jQZXR3YkjrgsK8v68Fm52KtNjnXg2auM4b46tb1XUXjkCQ3rH
 中視新聞台HD,tvbus://5R9W8Pyu2dnVpue6Jsfx74SJwa1Vn2VtWxuDHCWihBMMFkrCMeMr7Wz1hdFdQ
 中視新聞台HD,tvbus://79k2QZQw4r59enLjCFc5SWXQSP1W5oaC1J4XmtNjY44hWjRxs7
@@ -1083,6 +1082,7 @@ Eurosp2,p2p://fccsovh.pvbox.live:18912/5bee549b0004e9ee19e204725b7a0321
 劉德華,http://auney.gearhostpreview.com/huya.php?id=11342424
 金庸電影,http://auney.gearhostpreview.com/huya.php?id=11352897
 許氏電影,http://auney.gearhostpreview.com/huya.php?id=11602033
+新歌速遞,rtmp://tx.rtmp.huya.com:1935/huyalive/1099531740262-1099531740262-86382469611257856-2199063603980-10057-A-0-1
 
 GOOD特會系列：禱告與轉化,http://live.streamingfast.net/osmflivech32.m3u8
 GOOD特會系列：研經培靈,http://live.streamingfast.net/osmflivech33.m3u8
