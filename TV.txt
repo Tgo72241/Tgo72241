@@ -9,7 +9,7 @@ CNN,mitv://fccseuro.pvbox.live:18912/5b140954000dc92a375d63ea7e478ea8.ts
 台視ᴴᴰ,rtmp://59.124.75.153/sat/tv071
 大愛,http://61.58.60.230:9319/live/10.m3u8
 中視ᴴᴰ,rtmp://161.202.204.248:1935/sat/tv091
-霹靂台灣台HD,
+霹靂台灣台,p5p://fccs.123178.top:9906/60443eff000b560c00a8f97ad079a022.ts
 華視ᴴᴰ,rtmp://161.202.204.248/sat/tv112
 公視,p2p://fccsovh.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
@@ -78,19 +78,19 @@ MoMo綜合台,rtmp://59.124.75.153/sat/tv761
 緯來日本ᴴᴰ,http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
 國興衛視,p2p://fccseuro.pvbox.live:18912/5b1409f2000ebd78d6d3484d2e182303
 FOX,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
-三立戲劇,
+三立戲劇台,p2p://fccsovh.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b
 Z頻道,p2p://fccseuro.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc
 Animax(HD),
 MTV,p2p://fccseuro.pvbox.live:18912/5b593be200077048bf597b7545d9709a
 momo,
-衛視洋片台HD,
+衛視西片,p5p://fccs.123178.top:9906/604416620003377d000a521e160e3141.ts
 寰宇新聞台灣台,
 NHK華語視界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 八大娛樂台HD,
 三立iNEWS HD,
 非凡商業ᴴᴰ,mitv://fccseuro.pvbox.live:18912/5b140a9a0001dd5bdc536c45f7b967f6
 Waku Waku Japan,
-環宇財經台,
+環宇財經,mitv://fccsovh.pvbox.live:18912/5b1408f30002585a33caea38616d5414
 音樂20,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 地理悠人,http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
 NHK,
@@ -98,16 +98,16 @@ NHK,
 Thrill恐怖電影,
 AXN亞洲HD,
 新視覺,mitv://fccseuro.pvbox.live:18912/5b1409230000ac47dc854141c2c16098
-愛自然Love Nature,
+愛自然Love Nature,mitv://fccsovh.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40
 信吉電視台HD,
 華藏電視台,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
 中華美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 佛衛慈悲台,http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8?fbclid=IwAR0tOOH5nMOCvkCFTXbHgyO6P95nuOS3MNCfYDflXYkqsUVGfApmPOLWeR0
-EYE TV旅遊,
-Ci罪案偵緝,
-H歷史,
-H II歷史2,
+EYE TV旅遊ᴴᴰ,p5p://fccs.123178.top:9906/60494553000b340f1449b191f22032d6.ts
+Ci罪案偵緝,p2p://fccseuro.pvbox.live:18912/5b14098e0006282acdf2f0e199545870
+H HISTORY歷史,p2p://fccsovh.pvbox.live:18912/5b1408f300071d3b1901e3975b5ba4f5
+H2 HISTORY歷史,p2p://fccsovh.pvbox.live:18912/5b1408f3000402b2e5f4077233c38acb
 天良綜合台HD,
 寰宇綜合台HD,
 壹電視綜合台HD,
@@ -118,19 +118,19 @@ H II歷史2,
 龍華電影台,
 龍華洋片,p2p://fccsovh.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e.ts
 大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-龍華戲劇台,
-龍華偶像,
+龍華戲劇,mitv://fccsovh.pvbox.live:18912/5b14091600088a8cf0a6ac755e513bbf.ts
+龍華偶像,mitv://fccsovh.pvbox.live:18912/5b14091800012626e4990840ffbdbf3c.ts
 龍華日韓,
 國會頻道1台HD,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2台HD,http://185.207.176.189:8080/channels/tw-505/playlist.m3u8
 幸福空間居家台HD,http://61.58.60.230:9319/live/125.m3u8
 高點育樂台HD,
-LUXE TV,
+LUXE TV,mitv://fccsovh.pvbox.live:18912/5b1408f2000402a99aae1b7772b9af31
 新傳媒 U,http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
 中視經典ᴴᴰ,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 唯心電視台,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 曼迪日本臺,
-i-Fun動漫台,
+i-Fun動漫台,p5p://fccs.123178.top:9906/60447b1e000e9a430193d36877b2a95b.ts
 大愛海外,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 靖天歡樂台,http://61.58.60.230:9319/live/201.m3u8
 靖天育樂台,http://61.58.60.230:9319/live/204.m3u8
@@ -142,7 +142,7 @@ i-Fun動漫台,
 靖洋卡通台,http://61.58.60.230:9319/live/206.m3u8
 靖洋戲劇台,http://61.58.60.230:9319/live/203.m3u8
 ELTA體育1台,rtmp://59.124.75.153:1935/sat/md031 
-ELTA體育2台,
+ELTA體育2台,p2p://fccseuro.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547
 ELTA體育3台,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
 FOX_SPORTS_1,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 FOX_SPORTS_2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
@@ -156,7 +156,7 @@ WWE Superslam,http://stream.tvtap.live:8081/live/wwe.stream/chunks.m3u8
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
 台視財經台HD,
 台視綜合台HD,
-EYE TV戲劇台,
+EYE TV戲劇ᴴᴰ,mitv://fccsovh.pvbox.live:18912/5b14093e000e4339becc35909c2d54ae
 FOX動作電影Action,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 Outdoor戶外,
 one,
@@ -204,15 +204,14 @@ BABY TV,http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
 CBeebies卡通台,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 Boomerang卡通台,
 達文西頻道,
-Discovery Asia,
+Discovery Asia,p2p://fccsovh.pvbox.live:18912/5b1409db00071c0517d41c9937e70bf0
 BBC Earth自然知性,p2p://fccseuro.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb.ts
 國家地理國際頻道,
 國家地理野生,p2p://fccsovh.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8.ts
-
 Discovery科學,p2p://fccsovh.pvbox.live:18912/5b14093f000e802bdf2de39b32af6f43.ts
 tvN,p2p://fccseuro.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts
 DREAM WORKS夢工廠,
-星衛娛樂台HD,
+星衛娛樂台,mitv://fccsovh.pvbox.live:18912/5b1408f1000d1249aac093fa7393f873
 緯來精采ᴴᴰ,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
 韓國娛樂台KMTV,
 Nick Jr,http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
@@ -221,17 +220,17 @@ DISCOVERY EVE,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
 FX,p2p://fccsovh.pvbox.live:18912/5b1409da000ebd47ecf41861c902cf0f.ts
 林正英,http://auney.gearhostpreview.com/huya.php?id=11342421
 成龍,http://auney.gearhostpreview.com/huya.php?id=11342386
-寰宇新聞台,
-亞洲旅遊台,
+環宇新聞,mitv://fccsovh.pvbox.live:18912/5b1408f30005adec057583980131e1ee
+亞洲旅遊台,p2p://fccsovh.pvbox.live:18912/5b140917000941832426c7a7c76903f7
 BBC Lifestyle宏觀設計,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-Food亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+Food亞洲美食,p2p://fccsovh.pvbox.live:18912/5b1409da000c98012b21065a2d054373
 HGTV居家樂活頻道,
 MTV Live,http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
 TV5法式生活頻道HD,
 古典音樂台,
 三立國際,
 DMAX,
-李連杰,http://auney.gearhostpreview.com/huya.php?id=11342390
+Food美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 CatchPlay,mitv://fccseuro.pvbox.live:18912/5b1409db000126a9711886b8313f331d
 amc最愛電影,
 HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
@@ -250,9 +249,10 @@ Eurosp2,p2p://fccseuro.pvbox.live:18912/5bee549b0004e9ee19e204725b7a0321
 博斯網球,
 博斯運動 II,
 博斯無限台,
-大愛2台HD,
+大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 好消息2台,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 彭博財經台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+李連杰,http://auney.gearhostpreview.com/huya.php?id=11342390
 吳京,http://auney.gearhostpreview.com/huya.php?id=11602045
 甄子丹,http://auney.gearhostpreview.com/huya.php?id=11352935
 周潤發,http://auney.gearhostpreview.com/huya.php?id=11342387
@@ -328,6 +328,9 @@ GOOD健康新煮流,http://live.streamingfast.net/osmflivech13.m3u8
 ELTA奧運1台,rtmp://59.124.75.153/sat/md051 
 
 ELTA奧運3台,rtmp://59.124.75.153/sat/md011 
+
+
+
 
 
 
