@@ -4,25 +4,25 @@ ELTA綜合台ᴴᴰ,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist
 豬哥亮歌廳秀,
 公視台語台HD,
 CNN,mitv://fccseuro.pvbox.live:18912/5b140954000dc92a375d63ea7e478ea8.ts
-民視 ᴴᴰ,http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
-人間衛視,
+民視ᴴᴰ,rtmp://161.202.204.248/sat/tv052
+人間衛視,P2p://ns2.hellotvvod.com:9906/85f9778abf5b472699d87d46c3cb6633
 台視ᴴᴰ,rtmp://59.124.75.153/sat/tv071
 大愛,http://61.58.60.230:9319/live/10.m3u8
 中視ᴴᴰ,rtmp://161.202.204.248:1935/sat/tv091
-霹靂台灣台,p5p://fccs.123178.top:9906/60443eff000b560c00a8f97ad079a022.ts
+霹靂台灣台,P2p://ns2.hellotvvod.com:9906/2e65189755b94bda9de7275e40f80eb3
 華視ᴴᴰ,rtmp://161.202.204.248/sat/tv112
-公視,mitv://fccsovh.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0
+公視,P2p://ns2.hellotvvod.com:9906/07b3b44aea1340b092ac6ff18042c127
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-客家電視台HD,
+客家電視台,P2p://ns2.hellotvvod.com:9906/7f0f992ca71449129bdc1aa029af2edd
 國家地理頻道,rtmp://58.200.131.2/livetv/natlgeo
 Discovery探索,rtmp://58.200.131.2:1935/livetv/discovery
 動物星球頻道,p2p://fccseuro.pvbox.live:18912/5b14096100006f339d699b1699f3896d
-TLC 旅遊生活頻道,p2p://fccseuro.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0f4a1b
+TLC旅遊生活頻道,P2p://ns2.hellotvvod.com:9906/a1ee2b204b284c5e8aea65bf8e5ea654
 CN卡通頻道,http://125.227.210.37:16671/VideoInput/play.ts 
 迪士尼頻道,p2p://fccseuro.pvbox.live:18912/5b1409f30004f6ece892d1065e09745c
-momo親子台,mitv://fccseuro.pvbox.live:18912/5b1409690009f8b05e37c26041779937
+momo親子台,http://125.227.210.37:11055/VideoInput/play.ts
 東森幼幼台ᴴᴰ,p2p://fccseuro.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc
 緯來綜合ᴴᴰ,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
 八大第一台ᴴᴰ,p2p://fccseuro.pvbox.live:18912/5b14096a0004400315488cff3fdbf3b5
@@ -49,16 +49,16 @@ JET綜合,mitv://fccseuro.pvbox.live:18912/5b1409f30001262751180c32d7f81d19
 中天亞洲台HD,
 壹新聞ᴴᴰ,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 年代新聞ᴴᴰ,http://198.16.106.62:8278/streams/d/niandainews_twn/playlist.m3u8
-東森新聞ᴴᴰ,p2p://fccseuro.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2
+東森新聞ᴴᴰ,http://seb.sason.top/sc/dsxw_fhd.m3u8
 華視新聞資訊ᴴᴰ,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 民視新聞台ᴴᴰ,http://seb.sason.top/sc/msxw_fhd.m3u8
-三立新聞,http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8
+三立新聞,P2p://ns2.hellotvvod.com:9906/dc91718689fd490288ac4ce5a374bd9e
 TVBS新聞台ᴴᴰ,rtmp://161.202.204.248:1935/sat/tv551
-TVBSᴴᴰ,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
-東森財經新聞ᴴᴰ,rtmp://161.202.204.248:1935/sat/tv571
+TVBSᴴᴰ,p5p://0198.02686.cc:16871/5f2f921c0007177d224bec7d6634f95e
+東森財經新聞ᴴᴰ,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 非凡新聞ᴴᴰ,http://125.227.210.37:15078/VideoInput/play.ts
 中天新聞YT,http://seb.sason.top/sc/ztxw_fhd.m3u8
-三立Live新聞HD,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 衛視電影台ᴴᴰ,p2p://fccseuro.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad
 東森電影ᴴᴰ,p2p://fccseuro.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231
 緯來電影ᴴᴰ,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
@@ -79,16 +79,16 @@ MoMo綜合台,rtmp://59.124.75.153/sat/tv761
 國興衛視,p2p://fccseuro.pvbox.live:18912/5b1409f2000ebd78d6d3484d2e182303
 FOX,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
 三立戲劇台,p2p://fccsovh.pvbox.live:18912/5b140916000e8094fa2b8bc1d6bc755b
-Z頻道,p2p://fccseuro.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc
+Z頻道,p5p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017
 Animax(HD),
 MTV,p2p://fccseuro.pvbox.live:18912/5b593be200077048bf597b7545d9709a
-momo,
+momo,P2p://ns2.hellotvvod.com:9906/03ec8f94da63413e9cdff45f183e1d1f
 衛視西片,p5p://fccs.123178.top:9906/604416620003377d000a521e160e3141.ts
-寰宇新聞台灣台,
+寰宇新聞台灣台,P2p://ns2.hellotvvod.com:9906/c00914fede52442c8867ff68d7a40753
 NHK華語視界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 八大娛樂台HD,
-三立iNEWS HD,
-非凡商業ᴴᴰ,mitv://fccseuro.pvbox.live:18912/5b140a9a0001dd5bdc536c45f7b967f6
+三立iNEWS,http://seb.sason.top/sc/slinews_fhd.m3u8
+非凡商業ᴴᴰ,P2p://ns2.hellotvvod.com:9906/f8efab8a9dda48a0b39783706067d8d2
 Waku Waku Japan,
 環宇財經,mitv://fccsovh.pvbox.live:18912/5b1408f30002585a33caea38616d5414
 音樂20,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
@@ -187,7 +187,7 @@ CINEMA WORLD,p2p://fccsovh.pvbox.live:18912/5b1409770005ae3cb85008d8b6793772.ts
 Kids TV卡通台,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 LIFETIME,
-ELEVEN+,rtmp://59.124.75.153/sat/md021 
+ELEVEN+,
 GEM,
 佛衛慈悲台2,http://btsu4k5-hisng.cdn.hinet.net/live/pool/btsLive2/hievent-hls/btsLive2.m3u8
 孝廉電視台,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
@@ -196,7 +196,7 @@ GEM,
 ELEVEN1,rtmp://161.202.204.248:1935/sat/tv731 
 France法國24小時,
 Fashion TV,http://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
-ELEVEN2,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
+ELEVEN2,rtmp://161.202.204.248:1935/sat/tv741
 周星馳,http://auney.gearhostpreview.com/huya.php?id=11342412
 公視3台HD,
 MOMO追劇台HD,
@@ -204,7 +204,7 @@ BABY TV,http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
 CBeebies卡通台,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 Boomerang卡通台,
 達文西頻道,
-Discovery Asia,p2p://fccsovh.pvbox.live:18912/5b1409db00071c0517d41c9937e70bf0
+探索亞洲頻道,P2p://ns2.hellotvvod.com:9906/6a9d03c94018427bae4625f4133380d2
 BBC Earth自然知性,p2p://fccseuro.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb.ts
 國家地理國際頻道,
 國家地理野生,p2p://fccsovh.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8.ts
@@ -223,13 +223,13 @@ FX,p2p://fccsovh.pvbox.live:18912/5b1409da000ebd47ecf41861c902cf0f.ts
 環宇新聞,mitv://fccsovh.pvbox.live:18912/5b1408f30005adec057583980131e1ee
 亞洲旅遊台,p2p://fccsovh.pvbox.live:18912/5b140917000941832426c7a7c76903f7
 BBC Lifestyle宏觀設計,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-Food亞洲美食,p2p://fccsovh.pvbox.live:18912/5b1409da000c98012b21065a2d054373
-HGTV居家樂活頻道,
+亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+HGTV居家樂活頻道,P2p://ns2.hellotvvod.com:9906/c34ed0f086aa4c4abb11169ebbfd310f
 MTV Live,http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
 TV5法式生活頻道HD,
 古典音樂台,
 三立國際,
-DMAX,
+DMAX,P2p://ns2.hellotvvod.com:9906/e653945a8ed94df88c311705536b1af7
 Food美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 CatchPlay,mitv://fccseuro.pvbox.live:18912/5b1409db000126a9711886b8313f331d
 amc最愛電影,
@@ -324,5 +324,7 @@ GOOD健康新煮流,http://live.streamingfast.net/osmflivech13.m3u8
 新唐人加東台,https://live.ntdimg.com/mllive860/playlist.m3u8
 新唐人加東台,https://live.ntdimg.com/mllive220/playlist.m3u8
 新唐人加西台,https://live.ntdimg.com/cwlive220/playlist.m3u8
+
+
 
 
