@@ -144,9 +144,9 @@ i-Fun動漫台,p5p://fccs.123178.top:9906/60447b1e000e9a430193d36877b2a95b.ts
 ELTA體育1台,rtmp://59.124.75.153:1935/sat/md031 
 ELTA體育2台,p2p://fccseuro.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547
 ELTA體育3台,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
-FOX_SPORTS_1,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-FOX_SPORTS_2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-FOX_SPORTS_3,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+FOX體育一台,https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+FOX體育二台,https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+FOX體育三台,https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 WWE Network,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 WWE Superslam,http://stream.tvtap.live:8081/live/wwe.stream/chunks.m3u8
 民視第一台ᴴᴰ,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
