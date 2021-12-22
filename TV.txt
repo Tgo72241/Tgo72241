@@ -49,7 +49,7 @@ JET綜合,http://50.7.61.147:30080/Entry/jet
 中天亞洲台ᴴᴰ,P2p://ns2.hellotvvod.com:9906/1c191cbfb24547d7be6f91d352266efa
 壹新聞ᴴᴰ,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 年代新聞ᴴᴰ,p5p://fccs.123178.top:9906/618894540002fa6c0186e66d066b3e56
-東森新聞ᴴᴰ,mitv://ns2.hellotvvod.com:9906/d98879e5737d4c44b3dd85bc349775e0
+東森新聞ᴴᴰ,http://seb.sason.top/sc/dsxw_fhd.m3u8
 華視新聞資訊ᴴᴰ,P2p://ns2.hellotvvod.com:9906/412a06626d254822954dd29b235f9366
 民視新聞台ᴴᴰ,mitv://ns2.hellotvvod.com:9906/f2f4daa81a39490396bc2eea99fd9fd9
 三立新聞,mitv://ns2.hellotvvod.com:9906/3fc8adf766954da4bc9908ecb81184bc
