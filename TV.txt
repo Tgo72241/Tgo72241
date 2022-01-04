@@ -1,4 +1,4 @@
-🇹🇼📺🆕⚡🏅🎥,#genre#
+🇹🇼📺🛰️🆕⚡🏅🚀🎥,#genre#
 ELTA影劇台,P2p://ns2.hellotvvod.com:9906/7964972106564c79bee0dbe6dde23c81
 ELTA綜合台,P2p://ns2.hellotvvod.com:9906/e207ede75e604b4dadf4f8373184c6de
 豬哥亮歌廳秀,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv006
@@ -9,7 +9,7 @@ CNN,http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8
 台視,rtmp://59.124.75.138/sat/tv071
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 中視,rtmp://59.124.75.138/sat/tv091
-霹靂台灣台,P2p://ns2.hellotvvod.com:9906/85d6caf44ce4449e8600dc86d1c7be21
+霹霹靂台灣台,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch59.m3u8?token=
 華視,rtmp://59.124.75.157/sat/tv111
 公視,p5p://fccs.123178.top:9906/615cef60000555d20c57346a9856fc87
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
@@ -21,7 +21,7 @@ Discovery探索,P2p://ns2.hellotvvod.com:9906/9c0a057219044213ac643c8a8e5d50c0
 動物星球頻道,P2p://ns2.hellotvvod.com:9906/8df6a02edb7946eebae8115ab6fd8ec7
 TLC旅遊生活頻道,http://50.7.61.147:30080/Entry/tlc
 CN卡通,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch58.m3u8?token=
-迪士尼卡通,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
+Boomerang,http://211.23.114.106:8581/http/61.221.81.94:8088/hls/70/812/ch40.m3u8
 momo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
 緯來綜合,P2p://ns2.hellotvvod.com:9906/30dab7cccf3842838ef7edfdabcf57c2
@@ -54,12 +54,12 @@ JET綜合,http://50.7.61.147:30080/Entry/jet
 民視新聞台,mitv://ns2.hellotvvod.com:9906/f2f4daa81a39490396bc2eea99fd9fd9
 三立新聞,mitv://ns2.hellotvvod.com:9906/3fc8adf766954da4bc9908ecb81184bc
 TVBS新聞台,http://50.7.61.148:30080/Entry/tvbsnews
-TVBS,http://50.7.61.148:30080/Entry/tvbs
+TVBS,mitv://ns2.hellotvvod.com:9906/95ef54ef56944f0a947ea0e87f6f15bc
 東森財經新聞,P2p://ns2.hellotvvod.com:9906/e992de48ddda440ebc55984766d0ab8f
 非凡新聞,P2p://ns2.hellotvvod.com:9906/3801d29839174353a940a8c0cfae6e47
 中天新聞YT,http://seb.sason.top/sc/ztxw_fhd.m3u8
 三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
-衛視電影台,http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
+衛視電影台,mitv://ns2.hellotvvod.com:9906/e7682ac33dfd41fc8f028f1652b6117f
 東森電影,P2p://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
 緯來電影,P2p://ns2.hellotvvod.com:9906/67d49ff2fc594674a3969022f0c55ded
 LS龍祥時代,P2p://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
@@ -363,7 +363,3 @@ GOOD健康新煮流,http://live.streamingfast.net/osmflivech13.m3u8
 新唐人加東台,https://live.ntdimg.com/mllive860/playlist.m3u8
 新唐人加東台,https://live.ntdimg.com/mllive220/playlist.m3u8
 新唐人加西台,https://live.ntdimg.com/cwlive220/playlist.m3u8
-
-
-
-
