@@ -54,7 +54,7 @@ JET綜合,http://50.7.61.147:30080/Entry/jet
 民視新聞台,mitv://ns2.hellotvvod.com:9906/f2f4daa81a39490396bc2eea99fd9fd9
 三立新聞,mitv://ns2.hellotvvod.com:9906/3fc8adf766954da4bc9908ecb81184bc
 TVBS新聞台,http://50.7.61.148:30080/Entry/tvbsnews
-TVBS,mitv://ns2.hellotvvod.com:9906/95ef54ef56944f0a947ea0e87f6f15bc
+TVBS,p5p://45.92.126.18:9906/61495191000f04ab0d7f8024a458a528
 東森財經新聞,P2p://ns2.hellotvvod.com:9906/e992de48ddda440ebc55984766d0ab8f
 非凡新聞,P2p://ns2.hellotvvod.com:9906/3801d29839174353a940a8c0cfae6e47
 中天新聞YT,http://seb.sason.top/sc/ztxw_fhd.m3u8
