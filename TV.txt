@@ -44,7 +44,7 @@ TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
 緯來戲劇,http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
 高點綜合,P2p://ns2.hellotvvod.com:9906/ab09bd3fc7f3412ea9d38b3cf68302b0
 JET綜合,http://50.7.61.147:30080/Entry/jet
-[V],http://host496323.us.ooqr.com/pltv/gz.php?id=88
+[V],http://v.mp.haue.edu.cn/hls/channelv.m3u8
 三立綜合台,P2p://ns2.hellotvvod.com:9906/39099a64df574197b97e74dcdabbb332
 中天亞洲台,P2p://ns2.hellotvvod.com:9906/1c191cbfb24547d7be6f91d352266efa
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
