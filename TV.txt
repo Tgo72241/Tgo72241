@@ -302,7 +302,7 @@ Arirang,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv079
 HITS,mitv://ns2.hellotvvod.com:9906/8bc2e742cb57462c924904032624a6fd
 1HD Music TV,http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 HOBOC音樂台,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
-
+生活時尚,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000141&playtoken=ABCDEFGH&auth=no
 
 
 GOOD特會系列：禱告與轉化,http://live.streamingfast.net/osmflivech32.m3u8
