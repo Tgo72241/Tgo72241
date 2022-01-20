@@ -293,7 +293,7 @@ ROCK Extreme,P2p://ns2.hellotvvod.com:9906/760a7b9f2e104b9abeba8ac4717a1fc2
 SPOTV,P2p://ns2.hellotvvod.com:9906/5dedc66ef44242819ee8bf88796a9101
 FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
 公視戲劇台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042
-冠軍電視台,rtmp://45.92.126.226/channel/611a83133e4da143c015987c
+采昌影劇,mitv://ns2.hellotvvod.com:9906/fa78b19b455148e3b2b00b5bf648c3fc
 KIX,mitv://ns2.hellotvvod.com:9906/a462f6ed65944413acdfc059add3686e
 Mezzo Live,P2p://ns2.hellotvvod.com:9906/5a39267c43dd41b1821aef0622730115
 TRACE Sport Stars,P2p://ns2.hellotvvod.com:9906/57536d1b23f34f28bb4d8c065d2e67e5
