@@ -256,7 +256,7 @@ amc最愛電影,P2p://ns2.hellotvvod.com:9906/eb5393add687434ca3f3da38ce5ec3bf
 HBOᴴᴰ,http://125.227.210.37:16027/VideoInput/play.ts
 HBO強檔Hits,P2p://ns2.hellotvvod.com:9906/670c07900c5c4e49b6df5306bc18bff0
 HBO原創Signature,P2p://ns2.hellotvvod.com:9906/9b18147e7f454392b7eb1d204235b314
-HBO溫馨家庭Family,P2p://ns2.hellotvvod.com:9906/2230c4128071467e8e995408f20c1c3c
+HBO溫馨家庭Family,p5p://fccs.123178.top:9906/610b3ea6000bd4a6041b158a2a02ace5
 星衛HD電影台,P2p://ns2.hellotvvod.com:9906/b2c5dfbc8b6d4a7280ee39244a7678a8
 衛視合家歡,http://125.227.210.55:13498/VideoInput/play.ts
 FOX家庭影院,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
