@@ -296,6 +296,7 @@ FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
 公視戲劇台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042
 采昌影劇,mitv://ns2.hellotvvod.com:9906/fa78b19b455148e3b2b00b5bf648c3fc
 KIX,mitv://ns2.hellotvvod.com:9906/a462f6ed65944413acdfc059add3686e
+KIX,p5p://fccs.123178.top:9906/6044145c000e8fb900026d95dbb7683a.ts
 Mezzo Live,P2p://ns2.hellotvvod.com:9906/5a39267c43dd41b1821aef0622730115
 TRACE Sport Stars,P2p://ns2.hellotvvod.com:9906/57536d1b23f34f28bb4d8c065d2e67e5
 SexyK-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
