@@ -21,7 +21,7 @@ Discovery探索,P2p://ns2.hellotvvod.com:9906/9c0a057219044213ac643c8a8e5d50c0
 動物星球頻道,P2p://ns2.hellotvvod.com:9906/8df6a02edb7946eebae8115ab6fd8ec7
 TLC旅遊生活頻道,http://50.7.61.147:30080/Entry/tlc
 CN卡通,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch58.m3u8?token=
-Boomerang,http://211.23.114.106:8581/http/61.221.81.94:8088/hls/70/812/ch40.m3u8
+BOOMERANG,p5p://fccs.123178.top:9906/60447a4a00022e630190941a11afdf8e.ts
 momo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
 緯來綜合,P2p://ns2.hellotvvod.com:9906/30dab7cccf3842838ef7edfdabcf57c2
