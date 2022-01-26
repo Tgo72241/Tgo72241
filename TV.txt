@@ -132,7 +132,7 @@ LUXE TV,mitv://fccsovh.pvbox.live:18912/5b1408f2000402a99aae1b7772b9af31
 新傳媒 U,http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
 中視經典ᴴᴰ,P2p://ns2.hellotvvod.com:9906/003d7fef9db3466e9b9e2f569474dd28
 唯心電視台,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-曼迪日本臺,
+曼迪日本台,p5p://fccs.123178.top:9906/6068a12900029e3a13556dc2ad58c3d5.ts
 i-Fun動漫台,P2p://ns2.hellotvvod.com:9906/f62384ed61d345cebf4cc1a3c9167bd3
 大愛海外,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 靖天歡樂台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv054
