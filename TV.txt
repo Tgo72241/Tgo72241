@@ -288,7 +288,7 @@ AUTOMOTO TV,http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 智林體育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 新歌速遞,rtmp://tx.rtmp.huya.com:1935/huyalive/1099531740262-1099531740262-86382469611257856-2199063603980-10057-A-0-1
 衛視卡式,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
-ＢＳ釣りビジョン,p5p://fccs.123178.top:9906/612b2de2000a5ad7193ec497cb88e49e
+BS釣りビジョン,p5p://fccs.123178.top:9906/6163d87c000494010d63a6c83657671f 
 CYC世新綜合,#http://61.58.60.230:9319/live/49.m3u8
 ROCK Extreme,P2p://ns2.hellotvvod.com:9906/760a7b9f2e104b9abeba8ac4717a1fc2
 SPOTV,P2p://ns2.hellotvvod.com:9906/5dedc66ef44242819ee8bf88796a9101
