@@ -1,7 +1,7 @@
 🇹🇼📺🛰️🆕⚡🏅🚀🎥,#genre#
 ELTA影劇台,P2p://ns2.hellotvvod.com:9906/7964972106564c79bee0dbe6dde23c81
 ELTA綜合台,P2p://ns2.hellotvvod.com:9906/e207ede75e604b4dadf4f8373184c6de
-豬哥亮歌廳秀,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv006
+豬哥亮歌廳秀,http://206.119.163.4/apitv/gtlive.php?id=13662&cid=13814
 公視台語台,p5p://fccs.123178.top:9906/615cefb3000992f10c5879b8a9027fe8
 CNN,http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
@@ -32,7 +32,7 @@ momo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 衛視中文台,http://50.7.61.148:30080/Entry/starchinese
 東森綜合,P2p://ns2.hellotvvod.com:9906/8c962bcce29840f4a4f0109bfd7fe5c0
 東森超視,P2p://ns2.hellotvvod.com:9906/941259e9297d4a229c678f08b19f60f1
-金光布袋戲,
+金光布袋戲,http://206.119.163.4/apitv/gtlive.php?id=14080&cid=14240
 TVBS精采台,P2p://ns2.hellotvvod.com:9906/12b97bd9bd274f78846703aceb5894d2
 中天綜合,P2p://ns2.hellotvvod.com:9906/a23f89fde21341f3b172046c02ad688c
 東風37,http://211.23.114.106:8578/http/60.251.39.91:8081/hls/68/810/ch31.m3u8
