@@ -126,7 +126,7 @@ H2 HISTORY歷史,P2p://ns2.hellotvvod.com:9906/d13e7bea35dd4c01bf258f127a01b393
 龍華日韓,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
 國會頻道1台HD,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2台HD,http://185.207.176.189:8080/channels/tw-505/playlist.m3u8
-幸福空間居家台HD,http://61.58.60.230:9319/live/125.m3u8
+幸福空間居家台,http://206.119.163.4/apitv/gtlive.php?id=14199&cid=14359
 高點育樂台HD,
 LUXE TV,mitv://fccsovh.pvbox.live:18912/5b1408f2000402a99aae1b7772b9af31
 新傳媒 U,http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
