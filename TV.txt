@@ -39,7 +39,7 @@ momo親子台,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/70/812/ch40.
 TVBS精采台,P2p://ns2.hellotvvod.com:9906/12b97bd9bd274f78846703aceb5894d2
 中天綜合,P2p://ns2.hellotvvod.com:9906/a23f89fde21341f3b172046c02ad688c
 東風37,http://211.23.114.106:8578/http/60.251.39.91:8081/hls/68/810/ch31.m3u8
-年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
+年代Much,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
 中天娛樂,P2p://ns2.hellotvvod.com:9906/c23914b1e52c44a9b665e51f535d5b37
 東森戲劇,P2p://ns2.hellotvvod.com:9906/8ad6da5302064e3a8b67ccc9848614e5
 八大戲劇台,http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
