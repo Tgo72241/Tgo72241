@@ -29,8 +29,9 @@ momo親子台,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/70/812/ch40.
 緯來綜合,P2p://ns2.hellotvvod.com:9906/30dab7cccf3842838ef7edfdabcf57c2
 八大第一台,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
 八大綜合台,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
-三立台灣,mitv://ns2.hellotvvod.com:9906/ba70eb94fd0e4b2aae6fb9ece2203391
-三立都會,mitv://ns2.hellotvvod.com:9906/24f879b52a0d45d886005e8acdd9a8ab
+三立台灣,http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+三立台灣,http://125.227.210.55:15714/VideoInput/play.ts
+三立都會,http://59.125.101.187:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 衛視中文台,http://50.7.61.148:30080/Entry/starchinese
 東森綜合,P2p://ns2.hellotvvod.com:9906/8c962bcce29840f4a4f0109bfd7fe5c0
 東森超視,P2p://ns2.hellotvvod.com:9906/941259e9297d4a229c678f08b19f60f1
