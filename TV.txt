@@ -72,8 +72,6 @@ AXN,http://50.7.61.148:30080/Entry/axn
 HollyWood,P2p://ns2.hellotvvod.com:9906/fb9f46f4cb454b13a15aac8e025f8477
 FOX MOVIES,http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 CINEMAX,http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
-CINEMAX,p5p://45.92.126.18:9906/6149544b0008eb0b0d8a2524ddcf3ee6
-CINEMAX,p5p://fccs.123178.top:9906/6149544b0008eb0b0d8a2524ddcf3ee6
 CINEMAX,http://60.250.91.85:8590/.m3u8
 緯來育樂,P2p://ns2.hellotvvod.com:9906/ed2847f9731a48e19afc2ba479a73939
 緯來體育,P2p://ns2.hellotvvod.com:9906/cd64bcebb70d4b489bf734c5b3369002
