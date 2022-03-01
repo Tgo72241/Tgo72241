@@ -305,7 +305,7 @@ CYC世新綜合,#http://61.58.60.230:9319/live/49.m3u8
 ROCK Extreme,P2p://ns2.hellotvvod.com:9906/760a7b9f2e104b9abeba8ac4717a1fc2
 SPOTV,P2p://ns2.hellotvvod.com:9906/5dedc66ef44242819ee8bf88796a9101
 FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
-公視戲劇,http://206.119.163.4/apitv/gtlive.php?id=14159&cid=14319
+公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
 采昌影劇台,P2p://860969650:9906/fa78b19b455148e3b2b00b5bf648c3fc
 KIX,mitv://ns2.hellotvvod.com:9906/a462f6ed65944413acdfc059add3686e
 KIX,p5p://fccs.123178.top:9906/6044145c000e8fb900026d95dbb7683a.ts
