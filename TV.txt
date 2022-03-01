@@ -96,7 +96,7 @@ NHK華語視界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.
 八大娛樂台,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
 三立iNEWS,http://seb.sason.top/sc/slinews_fhd.m3u8
 非凡商業,http://50.7.61.147:30080/Entry/ubnbus
-WakuWaku Japan,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
+WAKUWAKU JAPAN,http://59.125.101.187:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 環宇財經,p5p://fccs.123178.top:9906/60434e97000581d106ddccac446ea89d
 音樂20,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 國家地理悠人,http://iptv.tvfix.org/hls/natlgeo.m3u8
