@@ -148,7 +148,7 @@ i-Fun動漫台,P2p://ns2.hellotvvod.com:9906/f62384ed61d345cebf4cc1a3c9167bd3
 靖天歡樂台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv054
 靖天育樂台,P2p://ns2.hellotvvod.com:9906/48cbe27fc4af4d988cab3cbf08c34d60
 靖天國際台,P2p://ns2.hellotvvod.com:9906/92963da196424063a1f58303dc21da2e
-靖天資訊台,P2p://ns2.hellotvvod.com:9906/62412f14fbef4a3f8c7e463cc8db65c8
+靖天資訊台,p5p://fccs.123178.top:9906/60441aa3000729ad001af109e515adad.ts
 靖天卡通台,P2p://ns2.hellotvvod.com:9906/bb214f3596dd4b1c8bae816edff835be
 靖天電影台,P2p://ns2.hellotvvod.com:9906/86533153a6a741d3af531f8efa6054f6
 靖天映畫,P2p://ns2.hellotvvod.com:9906/0a08a213ff34484ebba095598ffed323
@@ -192,7 +192,7 @@ viutv,mitv://fccseuro.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800.ts
 AXN亞洲,mitv://ns2.hellotvvod.com:9906/91a1fa5c29a849cf897f93f58fd08285
 FOX警匪電影CRIME,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
 靖天戲劇台,P2p://ns2.hellotvvod.com:9906/dc313d1f150f4e32a241408a4dddb55a
-靖天日本台,P2p://ns2.hellotvvod.com:9906/73b12e8889f048fc91a58f1d33049650
+靖天日本台,p5p://fccs.123178.top:9906/6045b8aa000389cf066c3b7385e82ede.ts
 美亞電影,P2p://ns2.hellotvvod.com:9906/1fc034defbb24a569a9bbca8b57fb5fe
 爆谷台,P2p://ns2.hellotvvod.com:9906/1d7e379fa2f04936b9d2dce207efb097
 天映經典,P2p://ns2.hellotvvod.com:9906/4699a8c6571243a4b5387f6b3c639851
