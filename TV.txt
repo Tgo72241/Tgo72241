@@ -13,6 +13,7 @@ CNN,http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 中視,rtmp://59.124.75.138/sat/tv091
 霹靂台灣台,p5p://fccs.123178.top:9906/61494391000129760d48cc98263e39d1
+霹靂台灣台,p5p://45.92.126.18:9906/61494391000129760d48cc98263e39d1
 華視,rtmp://59.124.75.157/sat/tv111
 公視,p5p://fccs.123178.top:9906/615cef60000555d20c57346a9856fc87
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
