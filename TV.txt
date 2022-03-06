@@ -62,7 +62,8 @@ JET綜合,http://50.7.61.147:30080/Entry/jet
 華視新聞資訊,p5p://fccs.123178.top:9906/615cf2bd000248ec0c6456eae60c58dc
 華視新聞資訊,p5p://fccs.123178.top:9906/615cf34d0005241b0c668a26a861e2c8
 華視新聞資訊,p5p://45.92.126.18:9906/615cf34d0005241b0c668a26a861e2c8
-民視新聞台,mitv://ns2.hellotvvod.com:9906/f2f4daa81a39490396bc2eea99fd9fd9
+民視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
+民視新聞,p5p://fccs.123178.top:9906/61494a92000be20d0d642b3f9739874e
 三立新聞,http://125.227.210.55:15589/VideoInput/play.ts
 三立新聞,http://125.227.210.37:15589/VideoInput/play.ts
 TVBS新聞台,http://50.7.61.148:30080/Entry/tvbsnews
