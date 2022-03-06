@@ -56,7 +56,7 @@ JET綜合,http://50.7.61.147:30080/Entry/jet
 三立綜合台,P2p://ns2.hellotvvod.com:9906/39099a64df574197b97e74dcdabbb332
 中天亞洲台,P2p://ns2.hellotvvod.com:9906/1c191cbfb24547d7be6f91d352266efa
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-年代新聞,mitv://ns2.hellotvvod.com:9906/a412a974b1c24427ba506b9fcd95d77b
+年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
 華視新聞資訊,P2p://ns2.hellotvvod.com:9906/412a06626d254822954dd29b235f9366
 民視新聞台,mitv://ns2.hellotvvod.com:9906/f2f4daa81a39490396bc2eea99fd9fd9
