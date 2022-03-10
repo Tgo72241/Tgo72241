@@ -238,7 +238,7 @@ Boomerang卡通台,mitv://ns2.hellotvvod.com:9906/17f2cdadff7545cb93ee94bdc5fd0d
 BBC Earth自然知性,p5p://45.92.126.18:9906/6044049e000eb7a609a4da5fcd30cc43.ts
 BBC Earth自然知性,p5p://fccs.123178.top:9906/6044049e000eb7a609a4da5fcd30cc43.ts
 國家地理野生,P2p://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
-Discovery科學,P2p://ns2.hellotvvod.com:9906/29f6899f71c64f5394c865d50ea00911
+Discovery科學,http://50.7.218.42:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
 tvN,P2p://ns2.hellotvvod.com:9906/0a4d0d0c6e164cd093061bc31cf30ae8
 DREAM WORKS夢工廠,
 星衛娛樂台,P2p://ns2.hellotvvod.com:9906/866cb328f02348c9aa3a2cf6858ca8c6
