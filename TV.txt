@@ -86,8 +86,11 @@ HollyWood,P2p://ns2.hellotvvod.com:9906/fb9f46f4cb454b13a15aac8e025f8477
 FOX MOVIES,http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 CINEMAX,http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 CINEMAX,http://60.250.91.85:8590/.m3u8
-緯來育樂,P2p://ns2.hellotvvod.com:9906/ed2847f9731a48e19afc2ba479a73939
-緯來體育,P2p://ns2.hellotvvod.com:9906/cd64bcebb70d4b489bf734c5b3369002
+緯來育樂,rtmp://59.124.75.138/sat/tv701
+緯來育樂,rtmp://59.124.75.157/sat/tv701
+緯來育樂,p5p://45.92.126.18:9906/6044a24900005a2c022ccfba89cc1d77.ts	
+緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts	
+緯來體育,rtmp://59.124.75.157/sat/tv721
 ELEVEN 1,P2p://ns2.hellotvvod.com:9906/0c9c4a9fc07c41bb8537828dd9162e81
 ELEVEN 2,P2p://ns2.hellotvvod.com:9906/a610acb66f3749bb953d78899b7205d2
 MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
