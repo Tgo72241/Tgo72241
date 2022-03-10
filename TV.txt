@@ -226,15 +226,15 @@ ID Fashion,https://idfashion.cdn-03.cosmonova.net.ua/hls/idfashion_ua_hi/index.m
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
-公视3台,p5p://fccs.123178.top:9906/615cf07e0008bb700c5b9279f928a1c0
+公視3台,p5p://fccs.123178.top:9906/615cf07e0008bb700c5b9279f928a1c0
 公視3台,p5p://45.92.126.18:9906/615cf07e0008bb700c5b9279f928a1c0
 MOMO追劇台HD,
 BABY TV,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn02
 CBeebies卡通台,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 Boomerang卡通台,mitv://ns2.hellotvvod.com:9906/17f2cdadff7545cb93ee94bdc5fd0d6d
 達文西頻道,P2p://ns2.hellotvvod.com:9906/191725f8a02546c1bec1bb92aab127ab
-探索亞洲,P2p://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
 探索亞洲,http://125.227.210.37:10388/VideoInput/play.ts
+探索亞洲,p5p://fccs.123178.top:9906/60433ee00002fb7906a0692e6558cb55 
 BBC Earth自然知性,P2p://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
 國家地理國際頻道,
 國家地理野生,P2p://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
