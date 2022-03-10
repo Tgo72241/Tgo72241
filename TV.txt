@@ -32,7 +32,7 @@ BOOMERANG,p5p://45.92.126.18:9906/60447a4a00022e630190941a11afdf8e.ts
 MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 東森幼幼,http://59.125.101.187:8515/http/192.168.77.24:8088/hls/63/805/ch09.m3u8
 東森幼幼,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
-緯來綜合,P2p://ns2.hellotvvod.com:9906/30dab7cccf3842838ef7edfdabcf57c2
+緯來綜合,p5p://fccs.123178.top:9906/614954e8000aa2000d8c8add3b487c6c
 八大第一台,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
 八大綜合台,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
 三立台灣,p5p://45.92.126.18:9906/60435a1000013bcc070a9c3b0ad870c7.ts
