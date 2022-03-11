@@ -26,6 +26,9 @@ CNN,http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8
 探索頻道,http://60.250.91.85:8588/.m3u8
 探索頻道,http://iptv.tvfix.org/hls/discovery.m3u8
 探索頻道,p5p://45.92.126.18:9906/610b440f00018f2d04303511f19e7e5a
+探索頻道,http://50.7.218.42:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
+探索頻道,http://50.7.218.42:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+探索頻道,http://50.7.218.42:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
 動物星球,p5p://fccs.123178.top:9906/60440362000e75bc09a007eeaa0519c7.ts 
 TLC旅遊生活,p5p://fccs.123178.top:9906/60440517000a918709a6b1f73be1eeb9.ts
 TLC旅遊生活,http://60.250.91.85:8589/.m3u8
