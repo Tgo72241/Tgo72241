@@ -46,8 +46,8 @@ TVBS精采台,P2p://ns2.hellotvvod.com:9906/12b97bd9bd274f78846703aceb5894d2
 中天綜合,P2p://ns2.hellotvvod.com:9906/a23f89fde21341f3b172046c02ad688c
 東風37,http://211.23.114.106:8578/http/60.251.39.91:8081/hls/68/810/ch31.m3u8
 年代Much,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
-中天娛樂,P2p://ns2.hellotvvod.com:9906/c23914b1e52c44a9b665e51f535d5b37
-東森戲劇,P2p://ns2.hellotvvod.com:9906/8ad6da5302064e3a8b67ccc9848614e5
+中天娛樂,http://60.250.91.85:8585/.m3u8
+東森戲劇,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333540/index.m3u8
 八大戲劇台,http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
 TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
 緯來戲劇,http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
