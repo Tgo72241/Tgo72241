@@ -91,7 +91,7 @@ TVBS,p5p://45.92.126.18:9906/61495191000f04ab0d7f8024a458a528
 LS龍祥時代,http://50.7.218.42:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 LS龍祥時代,http://50.7.218.42:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 HBO,p5p://fccs.123178.top:9906/604340b2000af04c06a787875d674b81 
-東森洋片,mitv://ns2.hellotvvod.com:9906/ab1aa48cd1a34f488845642592c39418
+東森洋片,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
 AXN,http://50.7.61.148:30080/Entry/axn
 HollyWood,P2p://ns2.hellotvvod.com:9906/fb9f46f4cb454b13a15aac8e025f8477
 FOX MOVIES,http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
