@@ -281,7 +281,8 @@ MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/mast
 勁爆DJ音樂1,https://vdse.bdstatic.com//5050ff3a120e8975d60352f6b8544629.mp4
 勁爆DJ音樂2,https://vdse.bdstatic.com//07f7b57c3c77a5b477e978ecc04f8a82.mp4
 古典音樂台,P2p://ns2.hellotvvod.com:9906/391c8cb09e224e84ab588144e0632a30
-DMAX,P2p://ns2.hellotvvod.com:9906/f4a3049579cf4a109e2755cff0aae884
+DMAX,http://50.7.218.42:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
+DMAX,http://50.7.218.42:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
 Food美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 CatchPlay,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv076
 amc最愛電影,P2p://ns2.hellotvvod.com:9906/eb5393add687434ca3f3da38ce5ec3bf
