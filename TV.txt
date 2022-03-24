@@ -48,7 +48,7 @@ MoMo親子台,P2p://ns2.hellotvvod.com:9906/77455ff016634bb69ec6f49e64d19930.ts
 TVBS精采,P2p://ns2.hellotvvod.com:9906/c254c362efcd4043bd76c63c9e066c2b.ts
 中天綜合,p5p://fccs.123178.top:9906/61494cc7000ea4840d6ccafbef48fe11
 東風37,http://211.23.114.106:8578/http/60.251.39.91:8081/hls/68/810/ch31.m3u8
-年代Much,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
+年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
 中天娛樂,http://60.250.91.85:8585/.m3u8
 東森戲劇,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333540/index.m3u8
 八大戲劇台,http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
