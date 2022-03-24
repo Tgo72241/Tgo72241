@@ -51,7 +51,7 @@ TVBS精采,P2p://ns2.hellotvvod.com:9906/c254c362efcd4043bd76c63c9e066c2b.ts
 年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
 中天娛樂,http://60.250.91.85:8585/.m3u8
 東森戲劇,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333540/index.m3u8
-八大戲劇台,http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+八大戲劇台,http://50.7.218.42:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
 TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
 緯來戲劇,http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
 高點綜合,P2p://ns2.hellotvvod.com:9906/ab09bd3fc7f3412ea9d38b3cf68302b0
