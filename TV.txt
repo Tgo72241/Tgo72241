@@ -31,11 +31,9 @@ TLC旅遊生活,p5p://fccs.123178.top:9906/60440517000a918709a6b1f73be1eeb9.ts
 TLC旅遊生活,http://60.250.91.85:8589/.m3u8
 CN卡通,http://50.7.218.42:8278/momo1_twn/playlist.m3u8?tid=md272f875bb6916787346&ct=17874&tsum=0c38bae20c6db7e76ad1418654c8ccd4
 CN卡通,http://50.7.218.42:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
-BOOMERANG,p5p://fccs.123178.top:9906/60447a4a00022e630190941a11afdf8e.ts
-BOOMERANG,p5p://45.92.126.18:9906/60447a4a00022e630190941a11afdf8e.ts
-MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
+BOOMERANG,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
+MoMo親子台,P2p://ns2.hellotvvod.com:9906/77455ff016634bb69ec6f49e64d19930.ts
 東森幼幼,P2p://ns2.hellotvvod.com:9906/5ea5aaf1275548958479a0df7a5e371a.ts
-東森幼幼,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
 緯來綜合,p5p://fccs.123178.top:9906/614954e8000aa2000d8c8add3b487c6c
 八大第一台,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
 八大綜合台,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
