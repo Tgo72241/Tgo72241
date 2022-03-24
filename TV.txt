@@ -37,7 +37,6 @@ MoMo親子台,P2p://ns2.hellotvvod.com:9906/77455ff016634bb69ec6f49e64d19930.ts
 緯來綜合,p5p://fccs.123178.top:9906/614954e8000aa2000d8c8add3b487c6c
 八大第一台,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
 八大綜合台,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
-三立台灣,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
 三立台灣,P2p://ns2.hellotvvod.com:9906/7726589c225044d4a4f0b75d22e91e79.ts
 三立台灣,P2p://ns2.hellotvvod.com:9906/4c7937e694234022bae90e56076261ad.ts
 三立都會,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
