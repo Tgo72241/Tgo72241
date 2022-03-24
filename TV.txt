@@ -41,9 +41,7 @@ MoMo親子台,P2p://ns2.hellotvvod.com:9906/77455ff016634bb69ec6f49e64d19930.ts
 三立台灣,P2p://ns2.hellotvvod.com:9906/4c7937e694234022bae90e56076261ad.ts
 三立都會,P2p://ns2.hellotvvod.com:9906/94aca3421d924a4d88f08da60985de24.ts
 三立都會,p5p://45.92.126.18:9906/60435aa10002e65e070cd311539826d8.ts
-衛視中文,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
 衛視中文,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333660/index.m3u8
-衛視中文,p5p://45.92.126.18:9906/6045bbb2000922ef0678142229e89274.ts
 東森綜合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c
 東森超視,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts 
 金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
