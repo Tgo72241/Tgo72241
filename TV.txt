@@ -179,9 +179,9 @@ ELTA體育1台,P2p://ns2.hellotvvod.com:9906/db6bd5a732984d83a8fdb9d0536886c8
 ELTA體育2台,P2p://ns2.hellotvvod.com:9906/bc49344900a546d39b5083025db6243f
 ELTA體育3台,P2p://ns2.hellotvvod.com:9906/4f3f4387a8174b8f8aaed89e2901442c
 FOX Sport,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-WWE,mitv://ns2.hellotvvod.com:9906/591deaacdbc247c8be9fb4fc937d6a14
-IQIYI愛奇藝,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
-Oh!K,http://194.233.73.66:2082/freehitv/freehitv/45
+WWE,P2p://ns2.hellotvvod.com:9906/9b819d2a65ed47deb7e3e703cd788568.ts
+WWE1,http://txtest-xp2p.p2p.huya.com/1099531627799-1099531627799-85899444704247808-2199063379054-10057-A-0-1.xs
+WWE2,http://txtest-xp2p.p2p.huya.com/1099531627786-1099531627786-85899388869672960-2199063379028-10057-A-0-1.xs
 民視第一台ᴴᴰ,P2p://ns2.hellotvvod.com:9906/998ca373e45e4f01b6755ddaec323cb7
 民視第一台ᴴᴰ,http://seb.sason.top/ptv/ftv.php?id=dy
 民視台灣台ᴴᴰ,P2p://ns2.hellotvvod.com:9906/42f0e30a314e405bbbc3c67bb7846c60
