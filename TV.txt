@@ -230,9 +230,7 @@ ID Fashion,https://idfashion.cdn-03.cosmonova.net.ua/hls/idfashion_ua_hi/index.m
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
-公視3台,p5p://fccs.123178.top:9906/615cf07e0008bb700c5b9279f928a1c0
-公視3台,p5p://45.92.126.18:9906/615cf07e0008bb700c5b9279f928a1c0
-MOMO追劇台HD,
+公視3,mitv://ns2.hellotvvod.com:9906/aea90a146e5f4b2e8f75fe120374c0c6
 BABY TV,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn02
 CBeebies卡通台,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 Boomerang卡通台,mitv://ns2.hellotvvod.com:9906/17f2cdadff7545cb93ee94bdc5fd0d6d
