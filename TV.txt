@@ -172,7 +172,7 @@ WWE2,http://txtest-xp2p.p2p.huya.com/1099531627786-1099531627786-858993888696729
 民視第一台ᴴᴰ,http://seb.sason.top/ptv/ftv.php?id=dy
 民視台灣台ᴴᴰ,http://seb.sason.top/ptv/ftv.php?id=tw
 中視菁采ᴴᴰ,P2p://ns2.hellotvvod.com:9906/c448d3d8a89f432d9d5ea92258dc3cef
-中視新聞ᴴᴰ,P2p://ns2.hellotvvod.com:9906/7575a0153b074f2d91c69eafe28ba22d
+中視新聞,mitv://ns2.hellotvvod.com:9906/90d6ebc9e5634a7ea208d32d8b875eac
 台視新聞ᴴᴰ,P2p://ns2.hellotvvod.com:9906/ec46ca942a3a4c9292c0dee902f579bf
 台視新聞ᴴᴰ,http://seb.sason.top/sc/tsxw_fhd.m3u8
 台視財經台ᴴᴰ,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c48
