@@ -169,9 +169,7 @@ FOX Sport,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sp
 WWE,P2p://ns2.hellotvvod.com:9906/9b819d2a65ed47deb7e3e703cd788568.ts
 WWE1,http://txtest-xp2p.p2p.huya.com/1099531627799-1099531627799-85899444704247808-2199063379054-10057-A-0-1.xs
 WWE2,http://txtest-xp2p.p2p.huya.com/1099531627786-1099531627786-85899388869672960-2199063379028-10057-A-0-1.xs
-民視第一台ᴴᴰ,P2p://ns2.hellotvvod.com:9906/998ca373e45e4f01b6755ddaec323cb7
 民視第一台ᴴᴰ,http://seb.sason.top/ptv/ftv.php?id=dy
-民視台灣台ᴴᴰ,P2p://ns2.hellotvvod.com:9906/42f0e30a314e405bbbc3c67bb7846c60
 民視台灣台ᴴᴰ,http://seb.sason.top/ptv/ftv.php?id=tw
 中視菁采ᴴᴰ,P2p://ns2.hellotvvod.com:9906/c448d3d8a89f432d9d5ea92258dc3cef
 中視新聞ᴴᴰ,P2p://ns2.hellotvvod.com:9906/7575a0153b074f2d91c69eafe28ba22d
