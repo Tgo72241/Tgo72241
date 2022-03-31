@@ -103,7 +103,8 @@ ELEVEN 2,P2p://ns2.hellotvvod.com:9906/a610acb66f3749bb953d78899b7205d2
 MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
 博斯運動 I,http://211.23.114.106:8564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
 緯來日本,P2p://ns2.hellotvvod.com:9906/f89c51e091594bb1bcce0ba7b3e17973
-國興衛視,P2p://ns2.hellotvvod.com:9906/7ed90f5183e64e4f8b422c951ff275b0
+國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
+國興衛視,mitv://ns2.hellotvvod.com:9906/2a6d724e50124559a6a5624fb0cb8acd
 東森亞洲,mitv://ns2.hellotvvod.com:9906/cb5d07e7d7494b588832a72fc666ab44
 Animax,http://iptv.tvfix.org/hls/animax.m3u8
 Animax,http://iptv.tvfix.org/hls/animax2.m3u8
