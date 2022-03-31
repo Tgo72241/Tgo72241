@@ -97,12 +97,12 @@ MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u
 國興衛視,P2p://ns2.hellotvvod.com:9906/7ed90f5183e64e4f8b422c951ff275b0
 FOX,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/61/803/ch02.m3u8?token=
 東森亞洲,mitv://ns2.hellotvvod.com:9906/586cfb57fa8b4475a353a65fc712cf1e
-Z頻道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 Animax,P2p://ns2.hellotvvod.com:9906/10d8ae908a354513b09e38e7116b7b33
 MTV,mitv://ns2.hellotvvod.com:9906/aad098bade95418a8046acceb0558aa3
 MOMO,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 衛視西片,P2p://ns2.hellotvvod.com:9906/b2c5dfbc8b6d4a7280ee39244a7678a8
 寰宇新聞台灣台,p5p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts
+Z頻道,mitv://ns2.hellotvvod.com:9906/52463fcc2bbc4c5999e0024dec3daa10
 NHK華語視界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 八大娛樂台,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
 三立iNEWS,http://seb.sason.top/sc/slinews_fhd.m3u8
