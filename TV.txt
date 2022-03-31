@@ -55,6 +55,7 @@ JET綜合,http://50.7.218.42:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct
 三立綜合台,P2p://ns2.hellotvvod.com:9906/39099a64df574197b97e74dcdabbb332
 中天亞洲台,P2p://ns2.hellotvvod.com:9906/1c191cbfb24547d7be6f91d352266efa
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
 年代新聞,p5p://fccs.123178.top:9906/618894540002fa6c0186e66d066b3e56
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
 華視新聞資訊,p5p://45.92.126.18:9906/615cf2bd000248ec0c6456eae60c58dc
