@@ -6,6 +6,7 @@ ELTA綜合台,mitv://ns2.hellotvvod.com:9906/fde9f07931c64b8caeeda596835d9cd7
 CNN,http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 人間衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
+人間衛視,http://59.125.101.187:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
 台視,rtmp://59.124.75.138/sat/tv071
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 中視,rtmp://59.124.75.138/sat/tv091
@@ -193,7 +194,7 @@ J Sports 4,P2p://ns2.hellotvvod.com:9906/7bd2b99f5b874e028edb6e7e9915bc33
 ELTV生活英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
 高爾夫美國,https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 ESPN,mitv://ns2.hellotvvod.com:9906/9bbbfe9127d3493c9ebb4b95712222e2
-Fight Sport HD,
+東森新聞LIVE,http://seb.sason.top/sc/dsxw_fhd.m3u8
 NBA,mitv://ns2.hellotvvod.com:9906/c26bb89ba7d44a83b47c52e7af180d77
 MLB,mitv://fccsovh.pvbox.live:18912/5b593bda000bf009f671f7f9b3653205.ts
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
