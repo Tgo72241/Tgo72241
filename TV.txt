@@ -89,7 +89,9 @@ HBO,p5p://fccs.123178.top:9906/604340b2000af04c06a787875d674b81
 東森洋片,P2p://ns2.hellotvvod.com:9906/8a6ad59eb9784dcdb0cbcfcd5c71c885.ts
 AXN,p5p://45.92.126.18:9906/6044d92d0004949903033b6f41d556d0.ts
 AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
-HollyWood,P2p://ns2.hellotvvod.com:9906/fb9f46f4cb454b13a15aac8e025f8477
+HollyWood,http://50.7.218.42:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
+HollyWood,http://50.7.218.42:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+HollyWood,mitv://ns2.hellotvvod.com:9906/2dfb16e52f4f475f9bd8103e6d490d82
 FOX MOVIES,http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 CINEMAX,http://60.250.91.85:8590/.m3u8
 緯來育樂,rtmp://59.124.75.138/sat/tv701
