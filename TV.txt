@@ -102,7 +102,11 @@ ELEVEN 1,P2p://ns2.hellotvvod.com:9906/0c9c4a9fc07c41bb8537828dd9162e81
 ELEVEN 2,P2p://ns2.hellotvvod.com:9906/a610acb66f3749bb953d78899b7205d2
 MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
 博斯運動 I,http://211.23.114.106:8564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
-緯來日本,P2p://ns2.hellotvvod.com:9906/f89c51e091594bb1bcce0ba7b3e17973
+緯來日本,rtmp://59.124.75.138/sat/tv771
+緯來日本,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
+緯來日本,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
+緯來日本,mitv://ns2.hellotvvod.com:9906/45e1f7d77e154dfc9d3b85fbf67070c7
+緯來日本,p5p://45.92.126.18:9906/6044a02c000bf3c30224916a373cdb2c.ts
 國興衛視,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
 國興衛視,mitv://ns2.hellotvvod.com:9906/2a6d724e50124559a6a5624fb0cb8acd
 東森亞洲,mitv://ns2.hellotvvod.com:9906/cb5d07e7d7494b588832a72fc666ab44
