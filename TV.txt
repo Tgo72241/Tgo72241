@@ -92,7 +92,6 @@ AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
 HollyWood,http://50.7.218.42:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
 HollyWood,http://50.7.218.42:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 HollyWood,mitv://ns2.hellotvvod.com:9906/2dfb16e52f4f475f9bd8103e6d490d82
-FOX MOVIES,http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 CINEMAX,http://60.250.91.85:8590/.m3u8
 緯來育樂,rtmp://59.124.75.138/sat/tv701
 緯來育樂,rtmp://59.124.75.157/sat/tv701
@@ -105,7 +104,6 @@ MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u
 博斯運動 I,http://211.23.114.106:8564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
 緯來日本,P2p://ns2.hellotvvod.com:9906/f89c51e091594bb1bcce0ba7b3e17973
 國興衛視,P2p://ns2.hellotvvod.com:9906/7ed90f5183e64e4f8b422c951ff275b0
-FOX,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/61/803/ch02.m3u8?token=
 東森亞洲,mitv://ns2.hellotvvod.com:9906/586cfb57fa8b4475a353a65fc712cf1e
 Animax,http://iptv.tvfix.org/hls/animax.m3u8
 Animax,http://iptv.tvfix.org/hls/animax2.m3u8
@@ -193,7 +191,6 @@ WWE2,http://txtest-xp2p.p2p.huya.com/1099531627786-1099531627786-858993888696729
 台視財經台ᴴᴰ,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c48
 台視綜合台ᴴᴰ,http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free
 EYE TV戲劇ᴴᴰ,P2p://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
-FOX動作電影Action,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 Outdoor戶外,mitv://ns2.hellotvvod.com:9906/ed9355bc07124e1e8a1c5dae6d87c300
 ONE,mitv://ns2.hellotvvod.com:9906/f0c748f67cd84d9bba8c52bd70270496
 華藝MBC綜合,p5p://fccs.123178.top:9906/604421d400072b6600370871d6641107.ts
@@ -212,7 +209,6 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m
 NBC_Sports_Network,
 viutv,mitv://fccseuro.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800.ts
 AXN亞洲,mitv://ns2.hellotvvod.com:9906/91a1fa5c29a849cf897f93f58fd08285
-FOX警匪電影CRIME,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
 靖天戲劇台,P2p://ns2.hellotvvod.com:9906/dc313d1f150f4e32a241408a4dddb55a
 靖天日本台,p5p://fccs.123178.top:9906/6045b8aa000389cf066c3b7385e82ede.ts
 美亞電影,P2p://ns2.hellotvvod.com:9906/1fc034defbb24a569a9bbca8b57fb5fe
@@ -261,7 +257,6 @@ DREAM WORKS夢工廠,
 Nick Jr,P2p://ns2.hellotvvod.com:9906/89ac75b06f7f4721be3f6a4d12eb71d3
 Warner華納,p5p://45.92.126.18:9906/604414f400055b780004bcfa6ee82d22.ts
 DISCOVERY EVE,P2p://ns2.hellotvvod.com:9906/1093dacfe6c3404eb67360c75cfb3ce0
-FX,http://125.227.210.37:13498/VideoInput/play.ts
 美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 海豚綜合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 寰宇新聞,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
@@ -293,7 +288,6 @@ HBO溫馨家庭Family,p2p://ns2.hellotvvod.com:9906/2230c4128071467e8e995408f20c
 HBO溫馨家庭Family,mitv://ns2.hellotvvod.com:9906/2230c4128071467e8e995408f20c1c3c
 Star Movies,P2p://ns2.hellotvvod.com:9906/b2c5dfbc8b6d4a7280ee39244a7678a8
 衛視合家歡,http://125.227.210.55:13498/VideoInput/play.ts
-FOX家庭影院,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 Eurosport,P2p://ns2.hellotvvod.com:9906/7631066b0f114f06a667be37dea4a593.ts
 Eurosport 1,http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 博斯高球台HD,P2p://ns2.hellotvvod.com:9906/9eb73e0317034672b4e2bdb0d695387f
