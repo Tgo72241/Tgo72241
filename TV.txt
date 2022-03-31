@@ -180,6 +180,7 @@ WWE2,http://txtest-xp2p.p2p.huya.com/1099531627786-1099531627786-858993888696729
 中視新聞,mitv://ns2.hellotvvod.com:9906/0367ffc514664e84afd4636d8d6e860c
 台視新聞ᴴᴰ,P2p://ns2.hellotvvod.com:9906/ec46ca942a3a4c9292c0dee902f579bf
 台視新聞ᴴᴰ,http://seb.sason.top/sc/tsxw_fhd.m3u8
+台視新聞ᴴᴰ,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
 台視財經台ᴴᴰ,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c48
 台視綜合台ᴴᴰ,http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free
 EYE TV戲劇ᴴᴰ,P2p://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
