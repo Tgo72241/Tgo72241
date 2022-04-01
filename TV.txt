@@ -12,7 +12,7 @@ CNN,http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8
 中視,rtmp://59.124.75.138/sat/tv091
 霹靂台灣台,p5p://fccs.123178.top:9906/61494391000129760d48cc98263e39d1
 霹靂台灣台,p5p://45.92.126.18:9906/61494391000129760d48cc98263e39d1
-華視,rtmp://59.124.75.157/sat/tv111
+華視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
 公視,mitv://ns2.hellotvvod.com:9906/02024947c1e44447aebe6a07f14901a9
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
