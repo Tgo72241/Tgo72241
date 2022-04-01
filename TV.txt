@@ -211,6 +211,7 @@ ELTV生活英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-l
 ESPN,mitv://ns2.hellotvvod.com:9906/9bbbfe9127d3493c9ebb4b95712222e2
 東森LIVE,http://seb.sason.top/sc/dsxw_fhd.m3u8
 東森LIVE,https://git.io/Jgkps
+東森LIVE,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 NBA,mitv://ns2.hellotvvod.com:9906/c26bb89ba7d44a83b47c52e7af180d77
 MLB,mitv://fccsovh.pvbox.live:18912/5b593bda000bf009f671f7f9b3653205.ts
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
