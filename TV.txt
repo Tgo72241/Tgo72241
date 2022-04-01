@@ -60,8 +60,8 @@ JET綜合,http://50.7.218.42:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct
 年代新聞,mitv://ns2.hellotvvod.com:9906/0dfd916cb908440b9b5b5b63937ab71c
 年代新聞,http://59.125.101.187:8609/playlist.m3u8
 年代新聞,http://50.7.218.42:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
-東森新聞,p5p://45.92.126.18:9906/6173ae660001b6721788b6c6ac08380c
-東森新聞,p5p://fccs.123178.top:9906/6173ae660001b6721788b6c6ac08380c
+東森新聞,mitv://ns2.hellotvvod.com:9906/f3c4a637dc624604b55aa845bc6c4a74
+東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
 華視新聞資訊,p5p://45.92.126.18:9906/615cf2bd000248ec0c6456eae60c58dc
 華視新聞資訊,p5p://fccs.123178.top:9906/615cf2bd000248ec0c6456eae60c58dc
 華視新聞資訊,p5p://fccs.123178.top:9906/615cf34d0005241b0c668a26a861e2c8
