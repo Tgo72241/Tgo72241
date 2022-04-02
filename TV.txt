@@ -67,7 +67,8 @@ JET綜合,http://50.7.218.42:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct
 三立新聞,http://125.227.210.55:15589/VideoInput/play.ts
 三立新聞,http://125.227.210.37:15589/VideoInput/play.ts
 TVBS新聞,rtmp://59.124.75.138/sat/tv551
-TVBS,http://50.7.218.42:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
+TVBS,p5p://fccs.123178.top:9906/61495191000f04ab0d7f8024a458a528
+TVBS,p5p://45.92.126.18:9906/61495191000f04ab0d7f8024a458a528
 東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 東森財經新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
 東森財經新聞,http://59.125.101.187:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
