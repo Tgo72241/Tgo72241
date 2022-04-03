@@ -138,6 +138,7 @@ Thrill恐怖電影,mitv://ns2.hellotvvod.com:9906/70b676c4e0f9424991012e9bfcddd4
 佛衛慈悲台,http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8?fbclid=IwAR0tOOH5nMOCvkCFTXbHgyO6P95nuOS3MNCfYDflXYkqsUVGfApmPOLWeR0
 EYE TV旅遊ᴴᴰ,P2p://ns2.hellotvvod.com:9906/5512ec54a1254879b4e39f92b63565ab
 Ci罪案偵緝,mitv://ns2.hellotvvod.com:9906/238e8f5257e74ba0af4fd1c9f13b1468
+Ci罪案偵緝,http://50.7.218.42:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
 H HISTORY歷史,P2p://ns2.hellotvvod.com:9906/8282b66d64db4dd884b125ce6a43d7cf
 H2 HISTORY歷史,P2p://ns2.hellotvvod.com:9906/d13e7bea35dd4c01bf258f127a01b393
 南投新聞,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
