@@ -5,7 +5,10 @@ ELTA綜合台,mitv://ns2.hellotvvod.com:9906/fde9f07931c64b8caeeda596835d9cd7
 公視台語,mitv://ns2.hellotvvod.com:9906/f39a590a110d4fdabf8b31bf39880362
 CNN,http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
+民視,http://50.7.218.42:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
+民視,mitv://ns2.hellotvvod.com:9906/6f3f4b5b7e3d4c809c84791f836e1785
 人間衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
 人間衛視,http://59.125.101.187:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
 台視,rtmp://59.124.75.138/sat/tv071
