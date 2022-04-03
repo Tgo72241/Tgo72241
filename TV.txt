@@ -4,6 +4,7 @@ ELTA綜合台,mitv://ns2.hellotvvod.com:9906/fde9f07931c64b8caeeda596835d9cd7
 猪哥亮歌廳秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
 公視台語,mitv://ns2.hellotvvod.com:9906/f39a590a110d4fdabf8b31bf39880362
 CNN,http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8
+CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 人間衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
 人間衛視,http://59.125.101.187:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
