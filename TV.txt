@@ -13,7 +13,12 @@ CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x72
 人間衛視,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
 人間衛視,P2p://ns2.hellotvvod.com:9906/b9b7d8e98cb24f7e99f522cbb389c6f6.ts
 台視,rtmp://59.124.75.138/sat/tv071
+大愛,http://50.7.218.42:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
+大愛,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛,P2p://ns2.hellotvvod.com:9906/9b257d4c559647859ba52b7559707234.ts
+大愛,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+大愛,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 中視,rtmp://59.124.75.138/sat/tv091
 霹靂台灣台,p5p://fccs.123178.top:9906/61494391000129760d48cc98263e39d1
 霹靂台灣台,p5p://45.92.126.18:9906/61494391000129760d48cc98263e39d1
