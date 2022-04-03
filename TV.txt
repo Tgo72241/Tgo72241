@@ -28,7 +28,6 @@ CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x72
 華視,http://59.125.101.187:8544/playlist.m3u8
 華視,http://50.7.218.42:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 華視,rtmp://59.124.75.138/sat/tv111
-公視,http://50.7.218.42:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
 公視,P2p://ns2.hellotvvod.com:9906/02024947c1e44447aebe6a07f14901a9.ts
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
