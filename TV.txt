@@ -9,7 +9,6 @@ CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x72
 民視,http://50.7.218.42:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 民視,mitv://ns2.hellotvvod.com:9906/6f3f4b5b7e3d4c809c84791f836e1785
-人間衛視,http://59.125.101.187:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
 人間衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
 人間衛視,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
 人間衛視,P2p://ns2.hellotvvod.com:9906/b9b7d8e98cb24f7e99f522cbb389c6f6.ts
