@@ -304,7 +304,10 @@ DMAX,http://50.7.218.42:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031
 Food美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 CatchPlay,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv076
 amc最愛電影,P2p://ns2.hellotvvod.com:9906/eb5393add687434ca3f3da38ce5ec3bf
-HBOᴴᴰ,http://125.227.210.37:16027/VideoInput/play.ts
+HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
+HBO HD,http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+HBO HD,http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
+HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
 HBO強檔Hits,P2p://ns2.hellotvvod.com:9906/670c07900c5c4e49b6df5306bc18bff0
 HBO原創Signature,P2p://ns2.hellotvvod.com:9906/9b18147e7f454392b7eb1d204235b314
 HBO溫馨家庭Family,p2p://ns2.hellotvvod.com:9906/2230c4128071467e8e995408f20c1c3c
