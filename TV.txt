@@ -266,8 +266,8 @@ Boomerang卡通台,mitv://ns2.hellotvvod.com:9906/17f2cdadff7545cb93ee94bdc5fd0d
 達文西頻道,P2p://ns2.hellotvvod.com:9906/191725f8a02546c1bec1bb92aab127ab
 探索亞洲,http://125.227.210.37:10388/VideoInput/play.ts
 探索亞洲,p5p://fccs.123178.top:9906/60433ee00002fb7906a0692e6558cb55 
-BBC Earth自然知性,p5p://45.92.126.18:9906/6044049e000eb7a609a4da5fcd30cc43.ts
-BBC Earth自然知性,p5p://fccs.123178.top:9906/6044049e000eb7a609a4da5fcd30cc43.ts
+BBC Earth,mitv://ns2.hellotvvod.com:9906/013e068b13b74a7eb8294fdd371cd1d0
+BBC Earth,P2p://ns2.hellotvvod.com:9906/013e068b13b74a7eb8294fdd371cd1d0.ts
 國家地理野生,http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
 Discovery科學,http://50.7.218.42:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
 tvN,P2p://ns2.hellotvvod.com:9906/0a4d0d0c6e164cd093061bc31cf30ae8
@@ -285,7 +285,8 @@ DISCOVERY EVE,P2p://ns2.hellotvvod.com:9906/1093dacfe6c3404eb67360c75cfb3ce0
 寰宇新聞,http://211.23.114.106:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
 寰宇新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
 亞洲旅遊台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
-BBC Lifestyle宏觀設計,P2p://ns2.hellotvvod.com:9906/2dcc681591d640ceb91c09b5eb7cbb83
+BBC Lifestyle,P2p://ns2.hellotvvod.com:9906/8433f4f630b44424a54d2c96339d4288.ts
+BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/8433f4f630b44424a54d2c96339d4288
 food亞洲美食,P2p://ns2.hellotvvod.com:9906/c0c700a32db94ca281b74e44d84b5b66
 HGTV居家樂活頻道,P2p://ns2.hellotvvod.com:9906/3ae6806990ac44dbbd5a83eea77fef7e
 MTV Live,P2p://ns2.hellotvvod.com:9906/5b5d21a03d37495aac99f37ee515efab
