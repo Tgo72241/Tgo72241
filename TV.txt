@@ -143,7 +143,7 @@ NHK,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
 旺TV,http://61.58.60.230:9319/live/80.m3u8
 Thrill恐怖電影,mitv://ns2.hellotvvod.com:9906/70b676c4e0f9424991012e9bfcddd4e7
 東森購物1台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
-狼谷育樂,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=ffa17bdb8e5740f2b00ce5fae524084e
+狼谷育樂,
 新視覺,mitv://fccseuro.pvbox.live:18912/5b1409230000ac47dc854141c2c16098
 愛自然Love Nature,mitv://ns2.hellotvvod.com:9906/5b4aa7c53c974767aad85f24fc19d550
 雲林新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
