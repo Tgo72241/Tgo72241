@@ -42,9 +42,10 @@ CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x72
 客家電視,mitv://ns2.hellotvvod.com:9906/341a6c5aee1e44a88d4503582dd5537c
 國家地理,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437 
 國家地理,http://50.7.218.42:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
-探索頻道,http://iptv.tvfix.org/hls/discovery.m3u8
-探索頻道,http://50.7.218.42:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
-探索頻道,http://50.7.218.42:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+Discovery,http://60.250.91.85:8588/http/220.130.87.218:8088/hls/22/80/ch06.m3u8
+Discovery,http://50.7.218.42:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+Discovery,http://50.7.218.42:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
+Discovery,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a.ts
 動物星球,p5p://fccs.123178.top:9906/60440362000e75bc09a007eeaa0519c7.ts 
 TLC旅遊生活,http://60.250.91.85:8589/.m3u8
 CN卡通,http://50.7.218.42:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
