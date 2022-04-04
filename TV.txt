@@ -38,6 +38,8 @@ CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x72
 原住民族,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
 原住民族,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 客家電視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
+客家電視,P2p://ns2.hellotvvod.com:9906/341a6c5aee1e44a88d4503582dd5537c.ts
+客家電視,mitv://ns2.hellotvvod.com:9906/341a6c5aee1e44a88d4503582dd5537c
 國家地理,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437 
 探索頻道,http://iptv.tvfix.org/hls/discovery.m3u8
 探索頻道,http://50.7.218.42:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
