@@ -273,8 +273,11 @@ BABY TV,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn02
 CBeebies卡通台,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 Boomerang卡通台,mitv://ns2.hellotvvod.com:9906/17f2cdadff7545cb93ee94bdc5fd0d6d
 達文西頻道,P2p://ns2.hellotvvod.com:9906/191725f8a02546c1bec1bb92aab127ab
-探索亞洲,http://125.227.210.37:10388/VideoInput/play.ts
-探索亞洲,p5p://fccs.123178.top:9906/60433ee00002fb7906a0692e6558cb55 
+Discovery Asia,p5p://fccs.123178.top:9906/60433ee00002fb7906a0692e6558cb55 
+Discovery Asia,http://50.7.218.42:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+Discovery Asia,http://50.7.218.42:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
+Discovery Asia,http://50.7.218.42:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+Discovery Asia,http://125.227.210.37:10388/VideoInput/play.ts
 BBC Earth,mitv://ns2.hellotvvod.com:9906/013e068b13b74a7eb8294fdd371cd1d0
 BBC Earth,P2p://ns2.hellotvvod.com:9906/013e068b13b74a7eb8294fdd371cd1d0.ts
 國家地理野生,http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
