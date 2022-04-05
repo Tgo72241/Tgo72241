@@ -296,6 +296,8 @@ DREAM WORKS夢工廠,
 韓國娛樂台KMTV,P2p://ns2.hellotvvod.com:9906/7a7c099add954867853e91a6018c2a33
 NickJr.,P2p://ns2.hellotvvod.com:9906/872b5479c6404eac85b3966cb897523b.ts
 NickJr.,mitv://ns2.hellotvvod.com:9906/872b5479c6404eac85b3966cb897523b
+尼克兒童頻道,mitv://ns2.hellotvvod.com:9906/7b63ec01250b4b61b5dbad49a8a88762
+尼克兒童頻道,P2p://ns2.hellotvvod.com:9906/7b63ec01250b4b61b5dbad49a8a88762.ts
 Warner華納,p5p://45.92.126.18:9906/604414f400055b780004bcfa6ee82d22.ts
 DISCOVERY EVE,P2p://ns2.hellotvvod.com:9906/1093dacfe6c3404eb67360c75cfb3ce0
 美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
