@@ -143,6 +143,8 @@ Animax,http://iptv.tvfix.org/hls/animax.m3u8
 Animax,http://iptv.tvfix.org/hls/animax2.m3u8
 MTV,mitv://ns2.hellotvvod.com:9906/aad098bade95418a8046acceb0558aa3
 MOMO,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
+MOMO,mitv://ns2.hellotvvod.com:9906/77455ff016634bb69ec6f49e64d19930
+MOMO,P2p://ns2.hellotvvod.com:9906/77455ff016634bb69ec6f49e64d19930.ts
 衛視西片,P2p://ns2.hellotvvod.com:9906/b2c5dfbc8b6d4a7280ee39244a7678a8
 寰宇新聞台灣台,p5p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts
 Z頻道,mitv://ns2.hellotvvod.com:9906/52463fcc2bbc4c5999e0024dec3daa10
