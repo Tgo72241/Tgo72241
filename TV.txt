@@ -23,9 +23,9 @@
 23 尼克兒童頻道
 24 momo親子台,http://220.134.196.147:8917/http/116.50.42.18:8088/hls/70/812/ch40.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 25 東森幼幼台,http://220.134.196.147:8925/http/116.50.42.18:8088/hls/63/805/ch09.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-26 緯來綜合台,p5p://fccs.123178.top:9906/614954e8000aa2000d8c8add3b487c6c
-27 八大第一台,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
-28 八大綜合台,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
+26 緯來綜合,http://61.221.81.93:8088/hls/68/810/ch32.m3u8
+27 八大第一,http://61.221.81.93:8088/hls/66/808/ch22.m3u8
+28 八大綜合,http://61.221.81.93:8088/hls/66/808/ch21.m3u8
 29 三立台灣台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8
 30 三立都會台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
 31 衛視中文台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333660/index.m3u8
