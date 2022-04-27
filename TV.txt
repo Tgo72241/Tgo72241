@@ -15,7 +15,7 @@
 15 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 16 原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 17 客家電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
-18 國家地理頻道,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437
+18 國家地理頻道,http://61.221.81.93:8088/hls/61/803/ch01.m3u8
 19 Discovery頻道,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a.ts
 20 TLC 旅遊生活頻道,http://61.221.81.93:8088/hls/70/812/ch38.m3u8 
 21 動物星球頻道,http://61.221.81.93:8088/hls/70/812/ch37.m3u8
