@@ -24,7 +24,7 @@
 24 MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 25 東森幼幼台,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
 26 緯來綜合,http://61.221.81.93:8088/hls/68/810/ch32.m3u8
-27 八大第一,http://61.221.81.93:8088/hls/66/808/ch22.m3u8
+27 八大第一台,http://50.7.218.42:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
 28 八大綜合,http://61.221.81.93:8088/hls/66/808/ch21.m3u8
 29 三立台灣台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8
 30 三立都會台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
