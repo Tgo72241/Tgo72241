@@ -63,7 +63,7 @@
 63 緯來電影台,p5p://fccs.123178.top:9906/614959e10009f39d0d9ff75817774dbe
 64 LS龍祥電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
 65 HBO,http://59.125.101.187:8757/http/192.168.77.24:8081/hls/71/813/ch41.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-66 東森洋片台,http://50.7.218.42:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+66 東森洋片,http://120.84.96.29:808/hls/33/index.m3u8
 67 AXN,http://61.221.81.93:8088/hls/71/813/ch43.m3u8
 68 好萊塢電影台,http://50.7.218.42:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
 69 STAR Movies Gold,http://61.221.81.93:8088/hls/62/804/ch08.m3u8
