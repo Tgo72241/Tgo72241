@@ -76,7 +76,7 @@
 76 博斯運動一台
 77 緯來日本台,p5p://45.92.126.18:9906/6044a02c000bf3c30224916a373cdb2c.ts
 78 國興衛視,http://59.125.101.187:8775/http/192.168.77.24:8081/hls/64/806/ch15.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-79 STAR World,http://61.221.81.93:8088/hls/61/803/ch02.m3u8
+79 StarWorld,http://60.249.146.250:8561/http/60.251.39.91:8081/hls/61/803/ch02.m3u8
 80 中台灣生活網頻道,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 81 Animax,http://59.125.101.187:18744/http/192.168.77.24:8081/hls/70/812/ch39.m3u8?
 82 鏡新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
