@@ -67,7 +67,7 @@
 67 AXN,http://61.221.81.93:8088/hls/71/813/ch43.m3u8
 68 好萊塢電影台,http://50.7.218.42:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
 69 STAR Movies Gold,http://61.221.81.93:8088/hls/62/804/ch08.m3u8
-70 CINEMAX,http://60.250.91.85:8590/.m3u8
+70 CINEMAX,http://59.125.101.187:18761/http/192.168.77.24:8081/hls/71/813/ch42.m3u8?
 71 緯來育樂台,rtmp://219.80.97.35/sat/tv701
 72 緯來體育台,rtmp://59.124.75.138/sat/tv721
 73 ELEVEN SPORTS 1,rtmp://59.124.75.138/sat/tv731
@@ -78,7 +78,7 @@
 78 國興衛視,http://59.125.101.187:8775/http/192.168.77.24:8081/hls/64/806/ch15.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 79 STAR World,http://61.221.81.93:8088/hls/61/803/ch02.m3u8
 80 中台灣生活網頻道,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-81 ANIMAX,http://61.221.81.93:8088/hls/70/812/ch39.m3u8
+81 Animax,http://59.125.101.187:18744/http/192.168.77.24:8081/hls/70/812/ch39.m3u8?
 82 鏡新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
 83 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 84 momo,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
