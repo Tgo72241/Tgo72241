@@ -27,7 +27,7 @@
 27 八大第一台,http://50.7.218.42:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
 28 八大綜合,http://61.221.81.93:8088/hls/66/808/ch21.m3u8
 29 三立台灣台,http://59.125.101.187:8501/playlist.m3u8
-30 三立都會台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
+30 三立都會台,http://60.249.146.250:8557/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 31 衛視中文台,http://61.221.81.93:8503/hls/62/804/ch05.m3u8
 32 東森綜合台,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c.ts
 33 東森超視,rtmp://219.80.97.35/sat/tv331
