@@ -29,8 +29,8 @@
 29 三立台灣台,http://59.125.101.187:8501/playlist.m3u8
 30 三立都會台,http://60.249.146.250:8557/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 31 衛視中文台,http://60.249.146.250:8579/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
-32 東森綜合台,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c.ts
-33 東森超視,rtmp://219.80.97.35/sat/tv331
+32 東森綜合台,http://60.249.146.250:8581/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+33 東森超視,http://60.249.146.250:8582/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
 34 東森購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 35 momo購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 36 中天綜合台,p5p://fccs.123178.top:9906/61494cc7000ea4840d6ccafbef48fe11
