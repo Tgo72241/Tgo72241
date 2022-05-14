@@ -83,7 +83,7 @@
 83 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 84 momo,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 85 東森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
-86 Z頻道
+86 Z頻道,mitv://ns2.hellotvvod.com:9906/4781066495974d01b4fa0d97bac5ab08.ts
 87 冠軍電視台	
 88 八大娛樂台
 89 三立iNEWS,http://seb.sason.top/sc/slinews_fhd.m3u8
