@@ -137,9 +137,9 @@
 137 龍華日韓,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 138 龍華電影,http://60.249.146.250:8522/http/60.251.39.91:8066/hls/210/10014/cstv14.m3u8
 139 龍華卡通,http://60.249.146.250:8517/http/60.251.39.91:8066/hls/210/10013/cstv13.m3u8
-140 靖天日本台,mitv://ns2.hellotvvod.com:9906/0382799a2fab4db68920c97cad5edae6.ts
-141 靖天卡通台,http://50.7.218.42:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
-142 The K-POP,https://git.io/JgYAE
+140 靖天戲劇,mitv://ns2.hellotvvod.com:9906/e711edc6606548719df82eccc9f49751.ts
+141 靖天電影,mitv://ns2.hellotvvod.com:9906/5473747fa3474778a974d7f4e3850089.ts
+142 靖天映畫,mitv://ns2.hellotvvod.com:9906/31a3301cbd1345109a8f4a31d28d5a66.ts
 143 好消息國度報導,https://vod.streamingfast.net/hls-vod/video/1200k/NW1A0180_1200k.mp4.m3u8
 144 AUTOMOTO TV,http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 145 DJTVTZ,https://vdse.bdstatic.com//07f7b57c3c77a5b477e978ecc04f8a82.mp4
@@ -159,7 +159,7 @@
 159 NASA,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/NASA.m3u8
 160 爆谷台,mitv://ns2.hellotvvod.com:9906/a064d8afc17a41e0a1fcefc450ebcedf.ts
 161 爆谷星影台,mitv://ns2.hellotvvod.com:9906/bea851aaac474654946ee4ead74e2e6f.ts
-162
+162 The K-POP,https://git.io/JgYAE
 163
 164
 165
