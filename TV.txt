@@ -73,7 +73,7 @@
 73 ELEVEN1,http://60.249.146.250:8566/http/60.251.39.91:8078/hls/25/80/esport.m3u8
 74 ELEVEN2,http://60.249.146.250:8567/http/60.251.39.91:8078/hls/26/80/esport2.m3u8
 75 MOMO綜合台,rtmp://59.124.75.138/sat/tv761
-76 博斯運動一台
+76 博斯運動一台,http://128.14.50.198:8880/m3u8/06XeiUBsjLQz1j4ZLWYluOzQFX8DuNSbHRfLkKCq_-XmylGeBuVnfGzzxPtlm3rDaQnXwcsoerKZpO2hbCvs4g
 77 緯來日本台,http://60.249.146.250:8591/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
 78 國興衛視,http://60.249.146.250:8545/http/60.251.39.91:8081/hls/64/806/ch15.m3u8
 79 StarWorld,http://60.249.146.250:8561/http/60.251.39.91:8081/hls/61/803/ch02.m3u8
