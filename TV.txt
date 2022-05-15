@@ -85,7 +85,7 @@
 85 東森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 86 Z頻道,mitv://ns2.hellotvvod.com:9906/4781066495974d01b4fa0d97bac5ab08.ts
 87 冠軍電視台	
-88 八大娛樂台
+88 八大娛樂台,http://128.14.50.198:8880/m3u8/4q7lGz4iI9dzM11mSYM2uComOnqKmLH7yLaf1SmGr5QLdeAGtm6eTSg2s2UdfTPpkHR6HW0UoS7TQxlCPk1d3Q
 89 三立iNEWS,http://seb.sason.top/sc/slinews_fhd.m3u8
 90 非凡商業台,http://220.134.196.147:8907/http/116.50.42.18:8081/hls/74/816/ch56.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 91 幸福空間居家台,https://git.io/JgYYF
