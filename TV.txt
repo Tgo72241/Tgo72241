@@ -87,7 +87,7 @@
 87 冠軍電視台	
 88 八大娛樂台,http://128.14.50.198:8880/m3u8/4q7lGz4iI9dzM11mSYM2uComOnqKmLH7yLaf1SmGr5QLdeAGtm6eTSg2s2UdfTPpkHR6HW0UoS7TQxlCPk1d3Q
 89 三立iNEWS,http://seb.sason.top/sc/slinews_fhd.m3u8
-90 非凡商業台,http://220.134.196.147:8907/http/116.50.42.18:8081/hls/74/816/ch56.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+90 非凡商業台,mitv://ns2.hellotvvod.com:9906/4e8be2ed2cda4b918e7165faff00afcd.ts
 91 幸福空間居家台,https://git.io/JgYYF
 92 運通財經台
 93 聯合國頻道,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/UnitedNations.m3u8
