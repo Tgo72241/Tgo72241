@@ -202,7 +202,7 @@
 202 Baby TV,http://gg.gg/HaNoiIPTV-BabyTV_HD
 203 CBeebies,https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
 204 Boomerang卡通台,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
-205 達文西頻道	
+205 達文西頻道,mitv://ns2.hellotvvod.com:9906/10e1cf7b96804d94ab0d26a6b6797261.ts
 206 Discovery Asia,p5p://fccs.123178.top:9906/60433ee00002fb7906a0692e6558cb55 
 207 BBC Earth
 208 國家地理國際頻道,https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
