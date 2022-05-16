@@ -237,7 +237,7 @@
 237 HBO原創鉅獻,http://50.7.218.42:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 238 HBO溫馨家庭Family,mitv://ns2.hellotvvod.com:9906/af9ae1d8492442c097471391b5fec198.ts
 239 星衛HD電影台,http://50.7.218.42:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
-240 Star Movies
+240 Star Movies,mitv://ns2.hellotvvod.com:9906/e6e09f92f415494f8eb27f7491ff826c.ts
 241 ROCK Entertainment	
 242 
 243 Eurosport 1,http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
