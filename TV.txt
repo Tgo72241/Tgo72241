@@ -232,9 +232,9 @@
 232 紅牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 233 CATCHPLAY電影台
 234 amc最愛電影,http://50.7.218.42:8278/sundance_twn/playlist.m3u8?tid=ME8E6516348865163488&ct=18392&tsum=4b378b3dce57d990375dc63fa830c9a4
-235 HBO HD頻道,http://125.227.210.37:16027/VideoInput/play.ts
-236 HBO強檔鉅獻Hits,http://50.7.218.42:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
-237 HBO原創鉅獻
+235 HBO HD頻道,http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+236 HBO強檔鉅獻Hits,mitv://ns2.hellotvvod.com:9906/f5fea9ea86f04fd4aa123409fd00cfb2.ts
+237 HBO原創鉅獻,http://50.7.218.42:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 238 HBO溫馨家庭
 239 星衛HD電影台,http://50.7.218.42:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
 240 Star Movies
