@@ -204,27 +204,27 @@
 204 Boomerang卡通台,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
 205 達文西頻道,mitv://ns2.hellotvvod.com:9906/10e1cf7b96804d94ab0d26a6b6797261.ts
 206 Discovery Asia,p5p://fccs.123178.top:9906/60433ee00002fb7906a0692e6558cb55 
-207 BBC Earth
+207 BBC Earth,mitv://ns2.hellotvvod.com:9906/b039881242f14d448836cc8d08bd5305.ts
 208 國家地理國際頻道,https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 209 國家地理野生高畫質頻道,http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 210 Discovery科學頻道,http://50.7.218.42:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
 211 tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
 212 DREAMWORKS
-213 星衛娛樂台
-214 緯來精采台
-215 韓國娛樂台KMTV	
-216 NickJr.
+213 星衛娛樂台,mitv://ns2.hellotvvod.com:9906/155e51a1838a41c99656f0b1b5c6ae8e.ts
+214 緯來精采台,mitv://ns2.hellotvvod.com:9906/d55c11e054bf4d9a89f24bc08b1256bd.ts
+215 韓國娛樂台KMTV,mitv://ns2.hellotvvod.com:9906/9cff80ac083a4105b379818c2343c51b.ts
+216 Nick Jr.,mitv://ns2.hellotvvod.com:9906/f6f823e49f304dbc8a1bea539a574d4a.ts
 217 Warner TV,p5p://45.92.126.18:9906/604414f400055b780004bcfa6ee82d22.ts
-218 EVE
-219 Cmusic
+218 EVE,mitv://ns2.hellotvvod.com:9906/a6df9353456d4e8284958c200a72b992.ts
+219 CMusic,mitv://ns2.hellotvvod.com:9906/66c4c93fb8854f039f9d7ed0a85fc547.ts
 220 Food Network美食台頻道,http://125.227.210.55:14250/VideoInput/play.ts
 221 Travel Channel
 222 寰宇新聞台,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 223 亞洲旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
 224 BBC Lifestyle
-225 亞洲美食頻道
-226 HGTV居家樂活頻道
-227 MTV Live
+225 亞洲美食頻道,mitv://ns2.hellotvvod.com:9906/ca7fbcb6409146b8857c72b3fa0b91be.ts
+226 HGTV居家樂活頻道,mitv://ns2.hellotvvod.com:9906/d28337e3d269494e8cb2b5c1c8225d6a.ts
+227 MTV Live,mitv://ns2.hellotvvod.com:9906/57fd9115f43942c898bf0bc1335cf993.ts
 228 TV5法式生活頻道,mitv://ns2.hellotvvod.com:9906/495fbced6176491e986cb4b02316a6d0.ts
 229 古典音樂台,http://59.120.88.155:8000/live.mp3
 230 LOVE NATURE
