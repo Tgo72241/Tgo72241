@@ -131,7 +131,7 @@
 131 民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
 132 民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
 133 Ci罪案偵緝,http://50.7.218.42:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
-134 中視經典台,http://50.7.218.42:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+134 中視經典台,mitv://ns2.hellotvvod.com:9906/f8468a3dde174deaa5e25ba3a8a50782.ts
 135 龍華戲劇,http://60.249.146.250:8572/http/60.251.39.91:8066/hls/210/10010/cstv10.m3u8
 136 龍華偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 137 龍華日韓,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
@@ -150,10 +150,10 @@
 150 時尚運動Ｘ,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
 151 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
 152 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
-153 中視菁采台
+153 中視菁采台,mitv://ns2.hellotvvod.com:9906/081c98c9b6494d3db8dc3fc58f2549dd.ts
 154 中視新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 155 台視新聞台,http://seb.sason.top/sc/tsxw_fhd.m3u8
-156 台視財經台
+156 台視財經台,mitv://ns2.hellotvvod.com:9906/f58090bbae4c41bf83eaba6a4e28a656.ts
 157 台視綜合台
 158 影劇,http://50.7.218.42:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 159 NASA,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/NASA.m3u8
@@ -197,7 +197,7 @@
 197
 198
 199
-200 公視3台
+200 公視3,mitv://ns2.hellotvvod.com:9906/7236dc7bfe7f42f289e24a1d802326f4.ts
 201 ELTA影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
 202 Baby TV,http://gg.gg/HaNoiIPTV-BabyTV_HD
 203 CBeebies,https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
@@ -225,7 +225,7 @@
 225 亞洲美食頻道
 226 HGTV居家樂活頻道
 227 MTV Live
-228 TV5法式生活頻道
+228 TV5法式生活頻道,mitv://ns2.hellotvvod.com:9906/495fbced6176491e986cb4b02316a6d0.ts
 229 古典音樂台,http://59.120.88.155:8000/live.mp3
 230 LOVE NATURE
 231 DMAX,mitv://ns2.hellotvvod.com:9906/8c06c3d3f93842668521096649148214.ts
