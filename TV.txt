@@ -230,8 +230,8 @@
 230 LOVE NATURE
 231 DMAX,mitv://ns2.hellotvvod.com:9906/8c06c3d3f93842668521096649148214.ts
 232 紅牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-233 CATCHPLAY電影台
-234 amc最愛電影,http://50.7.218.42:8278/sundance_twn/playlist.m3u8?tid=ME8E6516348865163488&ct=18392&tsum=4b378b3dce57d990375dc63fa830c9a4
+233 CATCHPLAY電影台,mitv://ns2.hellotvvod.com:9906/83e22a2167674d0abb862cd4e6beedcc.ts
+234 AMC最愛電影,mitv://ns2.hellotvvod.com:9906/79ebf03c2cf743608f7a112c102d8fda.ts
 235 HBO HD頻道,http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 236 HBO強檔鉅獻Hits,mitv://ns2.hellotvvod.com:9906/f5fea9ea86f04fd4aa123409fd00cfb2.ts
 237 HBO原創鉅獻,http://50.7.218.42:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
