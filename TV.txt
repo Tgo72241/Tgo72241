@@ -218,7 +218,7 @@
 218 EVE,mitv://ns2.hellotvvod.com:9906/a6df9353456d4e8284958c200a72b992.ts
 219 CMusic,mitv://ns2.hellotvvod.com:9906/66c4c93fb8854f039f9d7ed0a85fc547.ts
 220 Food Network美食台頻道,http://125.227.210.55:14250/VideoInput/play.ts
-221 Travel Channel
+221 Travel Channel,mitv://ns2.hellotvvod.com:9906/db2c7d88d275407d8342d3f4a2e9501c.ts
 222 寰宇新聞台,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 223 亞洲旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
 224 BBC Lifestyle
