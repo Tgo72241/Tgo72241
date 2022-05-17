@@ -39,7 +39,7 @@
 39 中天娛樂台,http://50.7.218.42:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
 40 東森戲劇台,http://60.249.146.250:8587/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 41 八大戲劇台,http://60.249.146.250:8588/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
-42 TVBS歡樂台,mitv://ns2.hellotvvod.com:9906/9ac566fa58ef477f8d477a740b2c6ef8.ts
+42 TVBS歡樂台,http://128.14.50.198:8880/m3u8/dcnZVcFTwGp3yQqhypRnKSEH_a1PRllHi1hmPjFy9Z1hbiQ2Go_GU_UK_sWY7Hlvuuqnl1L0uA0XuKv_o6ocrA
 43 緯來戲劇台,http://60.249.146.250:8590/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
 44 高點電視台,mitv://ns2.hellotvvod.com:9906/f90afd040ed649c9837bc14d752d2e68.ts
 45 JET 綜合台,http://50.7.218.42:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
