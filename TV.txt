@@ -21,7 +21,7 @@
 21 動物星球頻道,http://50.7.218.42:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 22 CN卡通頻道,http://50.7.218.42:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
 23 尼克兒童頻道,mitv://ns2.hellotvvod.com:9906/915056237901456bad0378ea0711cb8e.ts
-24 MOMO親子台,mitv://ns2.hellotvvod.com:9906/b5736d10d0434ea7ae81263b2af2a128.ts
+24 MOMO親子,http://128.14.50.198:8880/m3u8/FHewlku8U6pilY8ukv6cNaEre7FqQRFDMe-KtPtiABwBrcZiMF1sxB3i8ZNWoNnFw43Oc9tR5wKE8lPPdg90Gg
 25 東森幼幼台,http://liuy.usa7.20212021.ga/ns.php?id=31
 26 緯來綜合,http://60.249.146.250:8518/http/60.251.39.91:8081/hls/68/810/ch32.m3u8
 27 八大第一台,http://50.7.218.42:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
