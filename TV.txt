@@ -155,7 +155,7 @@
 155 台視新聞台,http://128.14.50.198:8880/m3u8/85SBj3Mj9GrsjoFGVgUydFTyNqXB2I1sNJ_J_4aJlrGO6RuCIFdLvKsOc8YqviOhIpCx_gkCSIOfP36yc3EPpQ
 156 台視財經台,http://128.14.50.198:8880/m3u8/W8heik0NtJNTNlZNVMv2SwLd4Uz6Ipqk2oRUGC8V8yEKmMWo41JK-9449K2J1yPdjwtbQ8TwBXE7pI2PyOMnGA
 157 台視綜合台
-158 影劇,http://50.7.218.42:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+158 ELTA影劇,http://50.7.218.42:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 159 NASA,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/NASA.m3u8
 160 
 161
@@ -198,7 +198,7 @@
 198
 199
 200 公視3,http://128.14.50.198:8880/m3u8/DrhKUhz_DawJNZgpPCZxHOMRcfdRqdlYgLG3_YAx6YtLgpvY8lzYDqRu7ESwKj8paj46HxO1bIVy7i6j01fybg
-201 ELTA影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
+201 
 202 Baby TV,http://gg.gg/HaNoiIPTV-BabyTV_HD
 203 CBeebies,https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
 204 Boomerang卡通台,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
