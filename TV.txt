@@ -150,7 +150,7 @@
 150 時尚運動Ｘ,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
 151 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
 152 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
-153 中視菁采台,mitv://ns2.hellotvvod.com:9906/081c98c9b6494d3db8dc3fc58f2549dd.ts
+153 中視菁采台,http://128.14.50.198:8880/m3u8/T7pMOJCGZddfI8KniHP6aHfXE6eTkCLS7OEQlKFezMtVSD4QRfEvD0kEACu7fUFZhPQA-au4d58fGdYjJuYgnQ
 154 中視新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 155 台視新聞台,http://seb.sason.top/sc/tsxw_fhd.m3u8
 156 台視財經台,mitv://ns2.hellotvvod.com:9906/f58090bbae4c41bf83eaba6a4e28a656.ts
