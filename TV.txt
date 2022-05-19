@@ -152,13 +152,13 @@
 152 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
 153 中視菁采台,http://128.14.50.198:8880/m3u8/T7pMOJCGZddfI8KniHP6aHfXE6eTkCLS7OEQlKFezMtVSD4QRfEvD0kEACu7fUFZhPQA-au4d58fGdYjJuYgnQ
 154 中視新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
-155 台視新聞台,http://seb.sason.top/sc/tsxw_fhd.m3u8
-156 台視財經台,mitv://ns2.hellotvvod.com:9906/f58090bbae4c41bf83eaba6a4e28a656.ts
+155 台視新聞台,http://128.14.50.198:8880/m3u8/85SBj3Mj9GrsjoFGVgUydFTyNqXB2I1sNJ_J_4aJlrGO6RuCIFdLvKsOc8YqviOhIpCx_gkCSIOfP36yc3EPpQ
+156 台視財經台,http://128.14.50.198:8880/m3u8/W8heik0NtJNTNlZNVMv2SwLd4Uz6Ipqk2oRUGC8V8yEKmMWo41JK-9449K2J1yPdjwtbQ8TwBXE7pI2PyOMnGA
 157 台視綜合台
 158 影劇,http://50.7.218.42:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 159 NASA,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/NASA.m3u8
-160 爆谷台,mitv://ns2.hellotvvod.com:9906/a064d8afc17a41e0a1fcefc450ebcedf.ts
-161 爆谷星影台,mitv://ns2.hellotvvod.com:9906/bea851aaac474654946ee4ead74e2e6f.ts
+160 
+161
 162 The K-POP,https://git.io/JgYAE
 163
 164
