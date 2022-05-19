@@ -208,7 +208,7 @@
 208 國家地理國際頻道,https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 209 國家地理野生高畫質頻道,http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 210 Discovery科學頻道,http://50.7.218.42:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
-211 tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
+211 tvN,http://128.14.50.198:8880/m3u8/evqR4SrjhDkkThBGo1aHXbXSJmEuwZ1V5Z4uIlRXoeDw4KsgYEZwBqBcaz69-jl6TiHBmFugH9BCsBRQZdUotA
 212 DREAMWORKS
 213 星衛娛樂台,mitv://ns2.hellotvvod.com:9906/155e51a1838a41c99656f0b1b5c6ae8e.ts
 214 緯來精采台,mitv://ns2.hellotvvod.com:9906/d55c11e054bf4d9a89f24bc08b1256bd.ts
