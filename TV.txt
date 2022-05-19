@@ -197,7 +197,7 @@
 197
 198
 199
-200 公視3,mitv://ns2.hellotvvod.com:9906/7236dc7bfe7f42f289e24a1d802326f4.ts
+200 公視3,http://128.14.50.198:8880/m3u8/DrhKUhz_DawJNZgpPCZxHOMRcfdRqdlYgLG3_YAx6YtLgpvY8lzYDqRu7ESwKj8paj46HxO1bIVy7i6j01fybg
 201 ELTA影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
 202 Baby TV,http://gg.gg/HaNoiIPTV-BabyTV_HD
 203 CBeebies,https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
