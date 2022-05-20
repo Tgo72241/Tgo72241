@@ -84,7 +84,7 @@
 84 momo,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 85 東森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 86 Z頻道,http://128.14.50.198:8880/m3u8/ApQmmLXUmofPFEqYGRrsgXS33bAglsh0Fpz8aHm1fb4_iqinzDDoBB4QN_tU-0eP6phcZ9OkB7EamwjUGesthg
-87 冠軍電視台	
+87 ELTA生活旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
 88 八大娛樂台,http://128.14.50.198:8880/m3u8/4q7lGz4iI9dzM11mSYM2uComOnqKmLH7yLaf1SmGr5QLdeAGtm6eTSg2s2UdfTPpkHR6HW0UoS7TQxlCPk1d3Q
 89 三立iNEWS,http://128.14.50.198:8880/m3u8/Cf4PUf_cSlwrqSZ2k-DenkxDWlw5F8rmGZY_xwYo0I-NxwYkm10kKOQLPrsHEib5yw9r2p0j7vd8rlJ8e4iHiQ
 90 非凡商業台,mitv://ns2.hellotvvod.com:9906/4e8be2ed2cda4b918e7165faff00afcd.ts
