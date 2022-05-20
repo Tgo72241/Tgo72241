@@ -97,7 +97,7 @@
 97 歐洲環游,http://42.56.91.136:80/live-bvc/285487/live_68057278_4570624.m3u8
 98 海豚綜合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 99 生命台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
-100 台灣藝術台
+100 LIFETime,http://128.14.50.198:8880/m3u8/PpQDHF2FHekBa82Jfqwd1o9D28UBjCrzIIb2wWpoQQQLOC2vtHV-2zHugGDBH94OyYt1m-vCt5yKxdUF3NV3lw
 101 公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
 102 華藏電視台
 103 十方法界電視台	
