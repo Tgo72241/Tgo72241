@@ -212,7 +212,7 @@
 212 DREAMWORKS
 213 星衛娛樂台,http://128.14.50.198:8880/m3u8/n3iVp8R20-_G0HCr-czBJXeVuzvmryaEs_pB44y3DeXN3P3sYiQLqw6pX3MJsIzh5YFH9-ENmo3u0SKKYqiOyA
 214 緯來精采台,mitv://ns2.hellotvvod.com:9906/d55c11e054bf4d9a89f24bc08b1256bd.ts
-215 韓國娛樂台KMTV,mitv://ns2.hellotvvod.com:9906/9cff80ac083a4105b379818c2343c51b.ts
+215 韓國娛樂台KMTV,http://128.14.50.198:8880/m3u8/ildcCCRHDBXDIgAToJemIpI3ImLbP48lTvpwAcMbs_PW22dDU94qkfDYmhBUiV1hL8N5FwrwPsMvD4MhWe03-w
 216 Nick Jr.,mitv://ns2.hellotvvod.com:9906/f6f823e49f304dbc8a1bea539a574d4a.ts
 217 Warner TV,http://128.14.50.198:8880/m3u8/KX6n_DkNwLjM44ZmgLghecE5VNCN6XpoeTdRAFfcOKyEybjreRLevcDWN47T-eawJtUKwMADz3CFNwK857OtgA
 218 EVE,http://128.14.50.198:8880/m3u8/2uAiTY0vOhrLPWbm1p8aeTgCxid4OSOfl2HUaChS9VN6Lpqlm-nitJUY1ueCP3ELo_J_gLhiYPsj2bP3dnMuqQ
@@ -223,7 +223,7 @@
 223 亞洲旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
 224 BBC Lifestyle
 225 亞洲美食頻道,http://128.14.50.198:8880/m3u8/x7g_W2gI5_jMerCvHt6cZhZ_amvkUyMdbGRN7wKswxW-hDq_qHPII8mMC-S2RfPkdV_86WKayvRnsav3B89i3A
-226 HGTV居家樂活頻道,mitv://ns2.hellotvvod.com:9906/d28337e3d269494e8cb2b5c1c8225d6a.ts
+226 HGTV居家樂活頻道,http://128.14.50.198:8880/m3u8/Eblajoz6rKGnWiUK_GpmGokrLLY3qups-oRAczO8di7D7NT4AlppFwLmBTdS8NUmJIw7havQTLiQwsprl09Pxw
 227 MTV Live,mitv://ns2.hellotvvod.com:9906/57fd9115f43942c898bf0bc1335cf993.ts
 228 TV5法式生活頻道,mitv://ns2.hellotvvod.com:9906/495fbced6176491e986cb4b02316a6d0.ts
 229 古典音樂台,http://59.120.88.155:8000/live.mp3
