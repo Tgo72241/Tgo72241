@@ -1,7 +1,7 @@
 1 網路流行音樂電台,https://git.io/JgkA6
 2 西洋流行音樂電台,https://git.io/JgkAy
 3 猪哥亮歌廳秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
-4 公視台語台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+4 公視台語台,http://128.14.50.198:8880/m3u8/7jBaTVkQnty7mJgcx5vsbtEu7e9tpUz2djfPH4UhSi2d3rEcqhqGG24QuYaSDBm7HV-tSD-F81Mi3J8PIIMfjg
 5 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 6 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
 7 人間衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
