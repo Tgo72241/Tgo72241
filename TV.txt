@@ -210,19 +210,19 @@
 210 Discovery科學頻道,http://50.7.218.42:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
 211 tvN,http://128.14.50.198:8880/m3u8/evqR4SrjhDkkThBGo1aHXbXSJmEuwZ1V5Z4uIlRXoeDw4KsgYEZwBqBcaz69-jl6TiHBmFugH9BCsBRQZdUotA
 212 DREAMWORKS
-213 星衛娛樂台,mitv://ns2.hellotvvod.com:9906/155e51a1838a41c99656f0b1b5c6ae8e.ts
+213 星衛娛樂台,http://128.14.50.198:8880/m3u8/n3iVp8R20-_G0HCr-czBJXeVuzvmryaEs_pB44y3DeXN3P3sYiQLqw6pX3MJsIzh5YFH9-ENmo3u0SKKYqiOyA
 214 緯來精采台,mitv://ns2.hellotvvod.com:9906/d55c11e054bf4d9a89f24bc08b1256bd.ts
 215 韓國娛樂台KMTV,mitv://ns2.hellotvvod.com:9906/9cff80ac083a4105b379818c2343c51b.ts
 216 Nick Jr.,mitv://ns2.hellotvvod.com:9906/f6f823e49f304dbc8a1bea539a574d4a.ts
-217 Warner TV,p5p://45.92.126.18:9906/604414f400055b780004bcfa6ee82d22.ts
-218 EVE,mitv://ns2.hellotvvod.com:9906/a6df9353456d4e8284958c200a72b992.ts
+217 Warner TV,http://128.14.50.198:8880/m3u8/KX6n_DkNwLjM44ZmgLghecE5VNCN6XpoeTdRAFfcOKyEybjreRLevcDWN47T-eawJtUKwMADz3CFNwK857OtgA
+218 EVE,http://128.14.50.198:8880/m3u8/2uAiTY0vOhrLPWbm1p8aeTgCxid4OSOfl2HUaChS9VN6Lpqlm-nitJUY1ueCP3ELo_J_gLhiYPsj2bP3dnMuqQ
 219 CMusic,mitv://ns2.hellotvvod.com:9906/66c4c93fb8854f039f9d7ed0a85fc547.ts
 220 Food Network美食台頻道,http://125.227.210.55:14250/VideoInput/play.ts
-221 Travel Channel,mitv://ns2.hellotvvod.com:9906/db2c7d88d275407d8342d3f4a2e9501c.ts
+221 Travel Channel,http://128.14.50.198:8880/m3u8/jzVCzZvwZKMvbOw25j9E5ACjazax0Wmeal_pYdPYBX-ptvq7tNjECK3wPH9LVkaQ8GmgVUSqqRVy4iG4_0R3WQ
 222 寰宇新聞台,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 223 亞洲旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
 224 BBC Lifestyle
-225 亞洲美食頻道,mitv://ns2.hellotvvod.com:9906/ca7fbcb6409146b8857c72b3fa0b91be.ts
+225 亞洲美食頻道,http://128.14.50.198:8880/m3u8/x7g_W2gI5_jMerCvHt6cZhZ_amvkUyMdbGRN7wKswxW-hDq_qHPII8mMC-S2RfPkdV_86WKayvRnsav3B89i3A
 226 HGTV居家樂活頻道,mitv://ns2.hellotvvod.com:9906/d28337e3d269494e8cb2b5c1c8225d6a.ts
 227 MTV Live,mitv://ns2.hellotvvod.com:9906/57fd9115f43942c898bf0bc1335cf993.ts
 228 TV5法式生活頻道,mitv://ns2.hellotvvod.com:9906/495fbced6176491e986cb4b02316a6d0.ts
