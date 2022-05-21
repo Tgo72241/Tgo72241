@@ -99,7 +99,7 @@
 99 生命台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 100 LIFETime,http://128.14.50.198:8880/m3u8/PpQDHF2FHekBa82Jfqwd1o9D28UBjCrzIIb2wWpoQQQLOC2vtHV-2zHugGDBH94OyYt1m-vCt5yKxdUF3NV3lw
 101 公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
-102 華藏電視台
+102 歷史H2,http://128.14.50.198:8880/m3u8/LPsKky-25VNSwXolDBG_N_Sc2NaHh0QgZNCmqJtxK5jpbJ8h6KJJhKdeq9-z6peape57lCV-Xzxy4SeeK0jk6Q
 103 十方法界電視台	
 104 世界電視台	
 105 佛衛慈悲台,http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8?fbclid=IwAR0tOOH5nMOCvkCFTXbHgyO6P95nuOS3MNCfYDflXYkqsUVGfApmPOLWeR0
