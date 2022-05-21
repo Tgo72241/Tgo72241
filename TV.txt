@@ -234,10 +234,10 @@
 234 AMC最愛電影,mitv://ns2.hellotvvod.com:9906/79ebf03c2cf743608f7a112c102d8fda.ts
 235 HBO HD頻道,http://128.14.50.198:8880/m3u8/PGhg19KlMR3blSid_HYk88cVb9cndlIzg1YbxsRubOD1pdxmSh59A8Ng9y88mFN4kfza9XYPf8vNqFiFwjQntQ
 236 HBO強檔鉅獻Hits,http://128.14.50.198:8880/m3u8/8LxX5oq__kT_bFCNvCRIHuMsddBW4D3ZrTyU0xngRISl8-a3oWMQgiuyfMh_jfHJUV43I2Rb5zB8_jyNcd7rKg
-237 HBO原創鉅獻,http://50.7.218.42:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+237 HBO原創鉅獻,http://128.14.50.198:8880/m3u8/-U4KMg6yfdYouYtNcMqJlXUgDYfTEJdnGcAslg5ECvB1YlBh2zduGG1ml98Gu4ATt-Qf1D2voEaDiaNWwFznpg
 238 HBO溫馨家庭Family,http://128.14.50.198:8880/m3u8/bK3ys-bOfjKbIwQWEUzVYyEtAncTOXAPIg5DIvlqg16XjsCrBjAH3QzZAkHxIAyaIhpyin_vPrKYZiWQrpO5rg
 239 星衛HD電影台,http://50.7.218.42:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
-240 Star Movies,mitv://ns2.hellotvvod.com:9906/e6e09f92f415494f8eb27f7491ff826c.ts
+240 Star Movies,http://128.14.50.198:8880/m3u8/RUWNqbL_byXq5xdAgTpXxIX5n7zugnkr3OSO068L2Tj4un1vEBeEu42vZ0adnfz3dO5ZmQTlYi6LlW1O1lEhzg
 241 ROCK Entertainment	
 242 歐洲體育,http://128.14.50.198:8880/m3u8/rRsegaSNOPKhNoSKfdkXJW4LmnQ4E8FmG0YM-T5AM5vJd_YW_p2NrYJNnet08UQxI-rddFpAUfN1_r4JXdS10A
 243 Eurosport 1,http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
