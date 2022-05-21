@@ -246,7 +246,7 @@
 246 博斯無限二台
 247 博斯魅力台
 248 博斯網球台,http://50.7.218.42:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
-249 博斯運動II,http://61.221.81.93:8088/hls/61/803/ch04.m3u8
+249 博斯運動II,http://128.14.50.198:8880/m3u8/FAF1b085bdnqDJfxYFIrG7cQIbwhGX49853TxkTM1Nys3sdEmhh8JaWcNoKMkt_qtwQMq4rC4NPBhnd7Pr9lQw
 250 博斯無限台
 251 ELTA體育1台,http://50.7.218.42:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 252
