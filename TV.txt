@@ -241,13 +241,13 @@
 241 ROCK Entertainment	
 242 歐洲體育,http://128.14.50.198:8880/m3u8/rRsegaSNOPKhNoSKfdkXJW4LmnQ4E8FmG0YM-T5AM5vJd_YW_p2NrYJNnet08UQxI-rddFpAUfN1_r4JXdS10A
 243 Eurosport 1,http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
-244 博斯高球台,http://50.7.218.42:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
-245 博斯高球2台
+244 博斯高球台,http://128.14.50.198:8880/m3u8/3KuT8sNsPlBYkaSmA8B0pkdOok-gjHXVMeMll9VcPAWkUqYFyM50IiGITW6z0yZAYMeKciYi5M1gUayQFRA8ow
+245 博斯高球2台,http://128.14.50.198:8880/m3u8/Q-Fg86n4ivkyYQN6852TfylodGshUC4KUTzl74r5x0j8z67mkNUV2AviZJq2SFiGgs6AogVu1DC2rqgy417zVA
 246 博斯無限二台
-247 博斯魅力台
-248 博斯網球台,http://50.7.218.42:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+247 博斯魅力台,http://128.14.50.198:8880/m3u8/fpoi7pjDP0xoIMvp4OqGVZyd11oO0ElI1uQeTDfknoYwfzA6l6VrTTueSyaLk-raeioPNmG0HmxOxu_7r6nzpw
+248 博斯網球台,http://128.14.50.198:8880/m3u8/R5flHwepiS0GwQ6TeYCMVOIpJ-LUo6ObmNeKGgDnoK5V1DBpH78N2AkYVMFVCBrEIRpNbRq1__dRCB26oSzqLQ
 249 博斯運動II,http://128.14.50.198:8880/m3u8/FAF1b085bdnqDJfxYFIrG7cQIbwhGX49853TxkTM1Nys3sdEmhh8JaWcNoKMkt_qtwQMq4rC4NPBhnd7Pr9lQw
-250 博斯無限台
+250 博斯無限台,http://128.14.50.198:8880/m3u8/v5piz3zF5zphvxosYQpqaWT-mJhTMVGe6LYnM2_euRbZ_CpjmiJhKiq9plp7AbN-oEnw59a3kL9i6_Es8cv4qQ
 251 ELTA體育1台,http://50.7.218.42:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 252
 253 ELTA體育3台,http://50.7.218.42:8278/eltasports3_twn/playlist.m3u8?tid=m92b67618b700&ct=18335&tsum=bdc6fd47d695d59eed8dd2bf22218b7f
@@ -307,8 +307,8 @@
 307
 308
 309
-310 彭博財經頻道
-311 CNBC Asia,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+310 彭博財經頻道,https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8?$全网4K
+311 CNBC Asia,http://125.227.210.37:16415/VideoInput/play.ts
 312 BBC世界新聞台,http://125.227.210.55:10246/VideoInput/play.ts
 313 Arirang TV,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/Arirang.m3u8
 314 德國之聲電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
