@@ -15,12 +15,12 @@
 15 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 16 原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 17 客家電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
-18 國家地理,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437
+18 國家地理,http://128.14.50.198:8880/m3u8/W484lzhgYgwYJRMSrHSimrjXRMTlgPP_PxigwL6F29C8eHVNeajIntKIsmAAjmMnWFQeG9U_t_jvIJBl0Yoppg
 19 Discovery,http://60.249.146.250:8510/http/60.251.39.91:8081/hls/71/813/ch44.m3u8
 20 TLC 旅遊生活頻道,http://60.249.146.250:8511/http/60.251.39.91:8081/hls/70/812/ch38.m3u8
-21 動物星球頻道,http://50.7.218.42:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+21 動物星球頻道,http://128.14.50.198:8880/m3u8/kpeX385tL1NAPxnNv40MKCi-5btKj6Z1QFCdDVftTouVJZ7VdRlVIYG-AgKemUKan1kFRlWMRmjWrQNaROInhw
 22 CN卡通頻道,http://50.7.218.42:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
-23 尼克兒童頻道,mitv://ns2.hellotvvod.com:9906/915056237901456bad0378ea0711cb8e.ts
+23 尼克兒童頻道,http://128.14.50.198:8880/m3u8/HxAeXNYSM8u28LNuctJCgazli8HeMDgayEOqjKjgl8Z2pQ1w_YJjNDs-_x0p8MOnyysrj47JLo9lteajWeNX9w
 24 MOMO親子,http://128.14.50.198:8880/m3u8/FHewlku8U6pilY8ukv6cNaEre7FqQRFDMe-KtPtiABwBrcZiMF1sxB3i8ZNWoNnFw43Oc9tR5wKE8lPPdg90Gg
 25 東森幼幼台,http://liuy.usa7.20212021.ga/ns.php?id=31
 26 緯來綜合,http://60.249.146.250:8518/http/60.251.39.91:8081/hls/68/810/ch32.m3u8
