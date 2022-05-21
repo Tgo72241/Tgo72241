@@ -26,7 +26,7 @@
 26 緯來綜合,http://60.249.146.250:8518/http/60.251.39.91:8081/hls/68/810/ch32.m3u8
 27 八大第一台,http://50.7.218.42:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
 28 八大綜合,http://60.249.146.250:8520/http/60.251.39.91:8081/hls/66/808/ch21.m3u8
-29 三立台灣台,http://59.125.101.187:8501/playlist.m3u8
+29 三立台灣台,http://128.14.50.198:8880/m3u8/0241GkhZOfOCJcnsx3cy2QcCgSo15UOy7cbnThHFNhmaZl7K1klE7lRcduxIMXIKMrFe1rlTzHgs6MJo9ru1mw
 30 三立都會台,http://60.249.146.250:8557/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 31 衛視中文台,http://60.249.146.250:8579/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
 32 東森綜合台,http://60.249.146.250:8581/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
