@@ -204,7 +204,16 @@
 204 博斯魅力台,http://128.14.50.198:8880/m3u8/fpoi7pjDP0xoIMvp4OqGVZyd11oO0ElI1uQeTDfknoYwfzA6l6VrTTueSyaLk-raeioPNmG0HmxOxu_7r6nzpw
 205 博斯運動II,http://128.14.50.198:8880/m3u8/FAF1b085bdnqDJfxYFIrG7cQIbwhGX49853TxkTM1Nys3sdEmhh8JaWcNoKMkt_qtwQMq4rC4NPBhnd7Pr9lQw
 206 博斯無限台,http://128.14.50.198:8880/m3u8/v5piz3zF5zphvxosYQpqaWT-mJhTMVGe6LYnM2_euRbZ_CpjmiJhKiq9plp7AbN-oEnw59a3kL9i6_Es8cv4qQ
-
-
+207 精選動漫,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
+208 經典卡通,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
+209 經典電影,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
+210 LiveABC互動英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
+211 LUXE TV,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
+212 中天全民最大黨,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
+213 中天美食旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
+214 華語戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
+215 華語綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
+216 運通財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
+217 MTV Life,http://128.14.50.198:8880/m3u8/C3KUCF30Fxt7tGI2M1f4v_ZLFE6cAHGq21D9yocecJRJve0fH8Ti05flghLSqiEVZF9a7Aab2WEmd5VqMZT97w
 
 
