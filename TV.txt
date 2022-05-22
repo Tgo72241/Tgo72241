@@ -19,12 +19,12 @@
 19 Discovery,http://60.249.146.250:8510/http/60.251.39.91:8081/hls/71/813/ch44.m3u8
 20 TLC 旅遊生活頻道,http://60.249.146.250:8511/http/60.251.39.91:8081/hls/70/812/ch38.m3u8
 21 動物星球頻道,http://128.14.50.198:8880/m3u8/kpeX385tL1NAPxnNv40MKCi-5btKj6Z1QFCdDVftTouVJZ7VdRlVIYG-AgKemUKan1kFRlWMRmjWrQNaROInhw
-22 CN卡通頻道,http://50.7.218.42:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
+22 CN卡通頻道,http://128.14.50.198:8880/m3u8/-t6XP9Zx0dUjw4oo1YyDENU9sCwSxxF6B2s0gu1Tlk2HJCI8Go-hbJYhtanOtDThTqinTdm7Zh6ql8gtpORVug
 23 尼克兒童頻道,http://128.14.50.198:8880/m3u8/HxAeXNYSM8u28LNuctJCgazli8HeMDgayEOqjKjgl8Z2pQ1w_YJjNDs-_x0p8MOnyysrj47JLo9lteajWeNX9w
 24 MOMO親子,http://128.14.50.198:8880/m3u8/FHewlku8U6pilY8ukv6cNaEre7FqQRFDMe-KtPtiABwBrcZiMF1sxB3i8ZNWoNnFw43Oc9tR5wKE8lPPdg90Gg
 25 東森幼幼台,http://liuy.usa7.20212021.ga/ns.php?id=31
 26 緯來綜合,http://60.249.146.250:8518/http/60.251.39.91:8081/hls/68/810/ch32.m3u8
-27 八大第一台,http://50.7.218.42:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+27 八大第一台,http://128.14.50.198:8880/m3u8/s6Ide4l7P0MZmpkenHS9ddF5XEJpphifVOXd0i41Dg09w_-_E1daIRACkJ4iFccjS8F_QpBJTHTweGjktJw1dg
 28 八大綜合,http://60.249.146.250:8520/http/60.251.39.91:8081/hls/66/808/ch21.m3u8
 29 三立台灣台,http://128.14.50.198:8880/m3u8/0241GkhZOfOCJcnsx3cy2QcCgSo15UOy7cbnThHFNhmaZl7K1klE7lRcduxIMXIKMrFe1rlTzHgs6MJo9ru1mw
 30 三立都會台,http://60.249.146.250:8557/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
@@ -36,7 +36,7 @@
 36 中天綜合台,http://60.249.146.250:8583/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
 37 東風衛視台,http://60.249.146.250:8585/http/60.251.39.91:8081/hls/68/810/ch31.m3u8
 38 年代MUCH台,http://60.249.146.250:8586/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
-39 中天娛樂台,http://50.7.218.42:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
+39 中天娛樂台,http://125.227.210.37:15796/VideoInput/play.ts
 40 東森戲劇台,http://60.249.146.250:8587/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 41 八大戲劇台,http://60.249.146.250:8588/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
 42 TVBS歡樂台,http://128.14.50.198:8880/m3u8/dcnZVcFTwGp3yQqhypRnKSEH_a1PRllHi1hmPjFy9Z1hbiQ2Go_GU_UK_sWY7Hlvuuqnl1L0uA0XuKv_o6ocrA
@@ -131,7 +131,7 @@
 131 民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
 132 民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
 133 Ci罪案偵緝,http://128.14.50.198:8880/m3u8/qTHvILDoC91EttbQos46dDtor86PKoqZw_KeBzCyBsXwRubuqQZxCdCvMGIAFT95RLgYxIRXC-K6KBvlTQYb5w
-134 中視經典台,mitv://ns2.hellotvvod.com:9906/f8468a3dde174deaa5e25ba3a8a50782.ts
+134 中視經典台
 135 龍華戲劇,http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 136 龍華偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 137 龍華日韓,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
@@ -157,7 +157,7 @@
 157 台視綜合台
 158 ELTA影劇,http://50.7.218.42:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 159 NASA,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/NASA.m3u8
-160 星衛HD電影台,http://50.7.218.42:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+160 星衛HD電影台,http://128.14.50.198:8880/m3u8/Qp7vgiAIbdzcBdz1RGxDZ0nDQA7HaW-4XT3SBL9b75Cm93dqFsc8cCJ9W3XQrhS-r2w6VMNNLjWIq4ULyOspag
 161 星衛娛樂台,http://128.14.50.198:8880/m3u8/n3iVp8R20-_G0HCr-czBJXeVuzvmryaEs_pB44y3DeXN3P3sYiQLqw6pX3MJsIzh5YFH9-ENmo3u0SKKYqiOyA
 162 The K-POP,https://git.io/JgYAE
 163 Baby TV,http://gg.gg/HaNoiIPTV-BabyTV_HD
