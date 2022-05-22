@@ -80,7 +80,7 @@
 80 中台灣生活網頻道,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 81 Animax,http://128.14.50.198:8880/m3u8/JP4s5ksssAI-h4epzD-H6vQVsmzK81ELirRd3rpzC95zM5bkX-Li4PxNJhAG7fvp4-jC6RVoy_rFaQLgrHlOrA
 82 鏡新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
-83 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+83 MTV,http://128.14.50.198:8880/m3u8/C3KUCF30Fxt7tGI2M1f4v_ZLFE6cAHGq21D9yocecJRJve0fH8Ti05flghLSqiEVZF9a7Aab2WEmd5VqMZT97w
 84 momo,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 85 東森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 86 Z頻道,http://128.14.50.198:8880/m3u8/ApQmmLXUmofPFEqYGRrsgXS33bAglsh0Fpz8aHm1fb4_iqinzDDoBB4QN_tU-0eP6phcZ9OkB7EamwjUGesthg
@@ -214,6 +214,6 @@
 214 華語戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
 215 華語綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
 216 運通財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
-217 MTV Life,http://128.14.50.198:8880/m3u8/C3KUCF30Fxt7tGI2M1f4v_ZLFE6cAHGq21D9yocecJRJve0fH8Ti05flghLSqiEVZF9a7Aab2WEmd5VqMZT97w
+217 MTV POP,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 218 SBN全球財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
 
