@@ -138,7 +138,7 @@
 138 龍華電影,http://60.249.146.250:8522/http/60.251.39.91:8066/hls/210/10014/cstv14.m3u8
 139 龍華卡通,http://60.249.146.250:8517/http/60.251.39.91:8066/hls/210/10013/cstv13.m3u8
 140 靖天戲劇,http://128.14.50.198:8880/m3u8/Fjs9smUjjKQ-X0GYGIo_b4B4fSg3gqK4cbbDdiW4m358YzVKJIBxFKQVQceTCzXuMREuSRrwhO4p0c2qrxWZ_A
-141 靖天電影,mitv://ns2.hellotvvod.com:9906/5473747fa3474778a974d7f4e3850089.ts
+141 靖天電影
 142 靖天日本,http://128.14.50.198:8880/m3u8/-Byh3xNP4SH-0SYXJAtOP1PHrUiYgd7bQzncFy6hh5d9mAIFIg7yYjriWfQJegpz_MS180Amv8upX0aO68nHtw
 143 好消息國度報導,https://vod.streamingfast.net/hls-vod/video/1200k/NW1A0180_1200k.mp4.m3u8
 144 AUTOMOTO TV,http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
@@ -163,7 +163,7 @@
 163 Baby TV,http://gg.gg/HaNoiIPTV-BabyTV_HD
 164 CBeebies,https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
 165 Boomerang卡通台,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
-166 達文西頻道,mitv://ns2.hellotvvod.com:9906/10e1cf7b96804d94ab0d26a6b6797261.ts
+166 達文西頻道
 167 紅牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 168 歐洲體育,http://128.14.50.198:8880/m3u8/rRsegaSNOPKhNoSKfdkXJW4LmnQ4E8FmG0YM-T5AM5vJd_YW_p2NrYJNnet08UQxI-rddFpAUfN1_r4JXdS10A
 169 Eurosport 1,http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
