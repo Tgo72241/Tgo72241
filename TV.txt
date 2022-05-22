@@ -87,7 +87,7 @@
 87 ELTA生活旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
 88 八大娛樂台,http://128.14.50.198:8880/m3u8/4q7lGz4iI9dzM11mSYM2uComOnqKmLH7yLaf1SmGr5QLdeAGtm6eTSg2s2UdfTPpkHR6HW0UoS7TQxlCPk1d3Q
 89 三立iNEWS,http://128.14.50.198:8880/m3u8/Cf4PUf_cSlwrqSZ2k-DenkxDWlw5F8rmGZY_xwYo0I-NxwYkm10kKOQLPrsHEib5yw9r2p0j7vd8rlJ8e4iHiQ
-90 非凡商業台,mitv://ns2.hellotvvod.com:9906/4e8be2ed2cda4b918e7165faff00afcd.ts
+90 非凡商業台
 91 幸福空間居家台,https://git.io/JgYYF
 92 歷史HISTORY,http://128.14.50.198:8880/m3u8/jbYBtWJMAQE0D7m16TqguJk_3aPEdbR1rKwWxF_jadqzfU6eaRwVhvdCUgi5QwyfNO7otNgPDxxTmjl9vX5vCQ
 93 聯合國頻道,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/UnitedNations.m3u8
@@ -193,10 +193,10 @@
 193 TV5法式生活頻道,mitv://ns2.hellotvvod.com:9906/495fbced6176491e986cb4b02316a6d0.ts
 194 古典音樂台,http://59.120.88.155:8000/live.mp3
 195 DMAX,http://128.14.50.198:8880/m3u8/ZyTTmKKzcKp1nXAUjxPF0e7N6EiQ2Al0KD5CX38ZYjO4wGyb81EC1dcYqo4WbX4H0RkQE9S0_YrOsZrlLJVIkg
-196 CATCHPLAY電影台,mitv://ns2.hellotvvod.com:9906/83e22a2167674d0abb862cd4e6beedcc.ts
-197 AMC最愛電影,mitv://ns2.hellotvvod.com:9906/79ebf03c2cf743608f7a112c102d8fda.ts
-198 BBC Earth,mitv://ns2.hellotvvod.com:9906/b039881242f14d448836cc8d08bd5305.ts
-199 緯來精采,mitv://ns2.hellotvvod.com:9906/d55c11e054bf4d9a89f24bc08b1256bd.ts
+196 CATCHPLAY電影台
+197 AMC最愛電影
+198 BBC Earth
+199 緯來精采
 200 公視3,http://128.14.50.198:8880/m3u8/DrhKUhz_DawJNZgpPCZxHOMRcfdRqdlYgLG3_YAx6YtLgpvY8lzYDqRu7ESwKj8paj46HxO1bIVy7i6j01fybg
 201 博斯高球台,http://128.14.50.198:8880/m3u8/3KuT8sNsPlBYkaSmA8B0pkdOok-gjHXVMeMll9VcPAWkUqYFyM50IiGITW6z0yZAYMeKciYi5M1gUayQFRA8ow
 202 博斯高球2台,http://128.14.50.198:8880/m3u8/Q-Fg86n4ivkyYQN6852TfylodGshUC4KUTzl74r5x0j8z67mkNUV2AviZJq2SFiGgs6AogVu1DC2rqgy417zVA
