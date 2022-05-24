@@ -109,7 +109,7 @@
 109 正德電視台,http://59.125.101.187:8756/http/192.168.77.24:8081/hls/64/806/ch16.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 110 Arirang TV,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/Arirang.m3u8
 111 番薯電視台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-112 BBC世界新聞台,http://125.227.210.55:10246/VideoInput/play.ts
+112 SBN全球財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
 113 華視教育體育文化台	
 114 CNBC Asia,http://125.227.210.37:16415/VideoInput/play.ts
 115 彭博財經頻道,https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8?$全网4K
@@ -171,8 +171,8 @@
 171 WWE1,http://txtest-xp2p.p2p.huya.com/1099531627799-1099531627799-85899444704247808-2199063379054-10057-A-0-1.xs
 172 WWE2,http://txtest-xp2p.p2p.huya.com/1099531627786-1099531627786-85899388869672960-2199063379028-10057-A-0-1.xs
 173 ELTA體育1台,http://128.14.50.198:8880/m3u8/rTZle75_cVXwTeBy-1dJwfTLnRN9D5ecsaUJBOorJRMfX9ca9ACVPAFptlOm0i3U9HfnvECpNOgG17kOE7nV-w
-174 ELTA體育2台,rtmp://219.80.97.25/sat/md011
-175 ELTA體育3台,rtmp://219.80.97.25/sat/md031
+174 ELTA體育2台,p2p://ns2.hellotvvod.com:9906/ea9010e14e8d4e639d63c896c1170489.ts
+175 ELTA體育3台,p2p://ns2.hellotvvod.com:9906/1d024c698a934e908e98d158b8af0939.ts
 176 HBO HD頻道,http://128.14.50.198:8880/m3u8/PGhg19KlMR3blSid_HYk88cVb9cndlIzg1YbxsRubOD1pdxmSh59A8Ng9y88mFN4kfza9XYPf8vNqFiFwjQntQ
 177 HBO強檔鉅獻Hits,http://128.14.50.198:8880/m3u8/8LxX5oq__kT_bFCNvCRIHuMsddBW4D3ZrTyU0xngRISl8-a3oWMQgiuyfMh_jfHJUV43I2Rb5zB8_jyNcd7rKg
 178 HBO原創鉅獻,http://128.14.50.198:8880/m3u8/-U4KMg6yfdYouYtNcMqJlXUgDYfTEJdnGcAslg5ECvB1YlBh2zduGG1ml98Gu4ATt-Qf1D2voEaDiaNWwFznpg
@@ -182,15 +182,15 @@
 182 亞洲美食頻道,http://128.14.50.198:8880/m3u8/x7g_W2gI5_jMerCvHt6cZhZ_amvkUyMdbGRN7wKswxW-hDq_qHPII8mMC-S2RfPkdV_86WKayvRnsav3B89i3A
 183 亞洲旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
 184 Discovery Asia,http://128.14.50.198:8880/m3u8/xWclvpjEKS4S_641CPwLKD7Jw_x4qnwVuMojW2hacszGmRvOOjxYyd4nlgY8Cfo779Z9xRChyriDHOHwkc3PjQ
-185 Discovery科學頻道,http://50.7.218.42:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
+185 Discovery科學頻道,http://128.14.50.198:8880/m3u8/f-F_qh-A8FibiMTUVUyeNLvn9MSIIEtg_kG3h_ugqUaYamc6w9vnsGwAV5F6CYdy-xXLA0I_fLi9fRwVo8uaeg
 186 tvN,http://128.14.50.198:8880/m3u8/evqR4SrjhDkkThBGo1aHXbXSJmEuwZ1V5Z4uIlRXoeDw4KsgYEZwBqBcaz69-jl6TiHBmFugH9BCsBRQZdUotA
 187 韓國娛樂台KMTV,http://128.14.50.198:8880/m3u8/ildcCCRHDBXDIgAToJemIpI3ImLbP48lTvpwAcMbs_PW22dDU94qkfDYmhBUiV1hL8N5FwrwPsMvD4MhWe03-w
-188 Nick Jr.,mitv://ns2.hellotvvod.com:9906/f6f823e49f304dbc8a1bea539a574d4a.ts
+188 Nick Jr.,http://128.14.50.198:8880/m3u8/NPrKqKYa8R5lPflit29ynEQI96fPpRYBJpX5qnfeKRCJ9jGk7GEL3oS7rRVqJel_SqNdkSboYgxYX4OKcHYc5A
 189 Warner TV,http://128.14.50.198:8880/m3u8/KX6n_DkNwLjM44ZmgLghecE5VNCN6XpoeTdRAFfcOKyEybjreRLevcDWN47T-eawJtUKwMADz3CFNwK857OtgA
-190 Food Network美食台頻道,http://125.227.210.55:14250/VideoInput/play.ts
+190 Food Network美食台頻道
 191 Travel Channel,http://128.14.50.198:8880/m3u8/jzVCzZvwZKMvbOw25j9E5ACjazax0Wmeal_pYdPYBX-ptvq7tNjECK3wPH9LVkaQ8GmgVUSqqRVy4iG4_0R3WQ
 192 寰宇新聞台,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
-193 TV5法式生活頻道,mitv://ns2.hellotvvod.com:9906/495fbced6176491e986cb4b02316a6d0.ts
+193 TV5法式生活頻道
 194 古典音樂台,http://59.120.88.155:8000/live.mp3
 195 DMAX,http://128.14.50.198:8880/m3u8/ZyTTmKKzcKp1nXAUjxPF0e7N6EiQ2Al0KD5CX38ZYjO4wGyb81EC1dcYqo4WbX4H0RkQE9S0_YrOsZrlLJVIkg
 196 CATCHPLAY電影台
@@ -216,4 +216,6 @@
 216 華語綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
 217 運通財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
 218 MTV POP,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-219 SBN全球財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
+219 疾速汽車,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+220 賽車,http://txtest-xp2p.p2p.huya.com/1447756351-1447756351-6218066180121296896-2895636158-10057-A-0-1.xs
+221 摩托車,http://txtest-xp2p.p2p.huya.com/1099531728928-1099531728928-86333790451924992-2199063581312-10057-A-0-1.xs
