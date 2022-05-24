@@ -76,7 +76,7 @@
 76 博斯運動 I,http://128.14.50.198:8880/m3u8/06XeiUBsjLQz1j4ZLWYluOzQFX8DuNSbHRfLkKCq_-XmylGeBuVnfGzzxPtlm3rDaQnXwcsoerKZpO2hbCvs4g
 77 緯來日本台,http://128.14.50.198:8880/m3u8/_rUWRD95AOG1-Sd2nBwKSSQej-LokSIRf2lqnYpiW7AN02QpDmyP664EAIB9N_kr89FnhZPCBRUDECQmeAb8Kw
 78 國興衛視,http://128.14.50.198:8880/m3u8/pmgiw-INbOiJ_2FTKbzWQpQdc0jtMCCDwaFhQQLZLY-A1yyLWclj4OUFukugzdcxam-pKWgxrPPQYcgZDTNu3A
-79 StarWorld,http://60.249.146.250:8561/http/60.251.39.91:8081/hls/61/803/ch02.m3u8
+79 StarWorld
 80 中台灣生活網頻道,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 81 Animax,http://128.14.50.198:8880/m3u8/JP4s5ksssAI-h4epzD-H6vQVsmzK81ELirRd3rpzC95zM5bkX-Li4PxNJhAG7fvp4-jC6RVoy_rFaQLgrHlOrA
 82 鏡新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
@@ -90,11 +90,11 @@
 90 非凡商業台
 91 幸福空間居家台,https://git.io/JgYYF
 92 歷史HISTORY,http://128.14.50.198:8880/m3u8/jbYBtWJMAQE0D7m16TqguJk_3aPEdbR1rKwWxF_jadqzfU6eaRwVhvdCUgi5QwyfNO7otNgPDxxTmjl9vX5vCQ
-93 聯合國頻道,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/UnitedNations.m3u8
+93 爆谷星影台,p2p://ns2.hellotvvod.com:9906/abdd87ae723043f7818b0d79abfab519.ts
 94 NBA動態,http://128.14.50.198:8880/m3u8/DK6JW-Hsa8k8PbAGQHN7_8qB5fP3QlcxbGwbJfvbfegPcvqCSCOJKq5rlU3CEW8we-GizblR1rr0iaGeXV-Img
 95 南投新聞,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 96 孝廉電視台,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
-97 歐洲環游,http://42.56.91.136:80/live-bvc/285487/live_68057278_4570624.m3u8
+97 爆谷台,p2p://ns2.hellotvvod.com:9906/838952ce5f60497e967f718141a741db.ts
 98 海豚綜合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 99 生命台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 100 LIFETime,http://128.14.50.198:8880/m3u8/PpQDHF2FHekBa82Jfqwd1o9D28UBjCrzIIb2wWpoQQQLOC2vtHV-2zHugGDBH94OyYt1m-vCt5yKxdUF3NV3lw
@@ -106,7 +106,7 @@
 106 法國TV5電視台,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 107 德國之聲電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 108 美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
-109 正德電視台,http://60.249.146.250:8511/http/60.251.39.91:8081/hls/64/806/ch16.m3u8
+109 正德電視台,http://59.125.101.187:8756/http/192.168.77.24:8081/hls/64/806/ch16.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 110 Arirang TV,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/Arirang.m3u8
 111 番薯電視台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 112 BBC世界新聞台,http://125.227.210.55:10246/VideoInput/play.ts
@@ -217,5 +217,3 @@
 217 運通財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
 218 MTV POP,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 219 SBN全球財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
-220 爆谷星影台,p2p://ns2.hellotvvod.com:9906/abdd87ae723043f7818b0d79abfab519.ts
-221 爆谷台,p2p://ns2.hellotvvod.com:9906/838952ce5f60497e967f718141a741db.ts
