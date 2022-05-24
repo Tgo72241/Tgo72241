@@ -16,8 +16,8 @@
 16 原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 17 客家電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
 18 國家地理,http://128.14.50.198:8880/m3u8/W484lzhgYgwYJRMSrHSimrjXRMTlgPP_PxigwL6F29C8eHVNeajIntKIsmAAjmMnWFQeG9U_t_jvIJBl0Yoppg
-19 Discovery,http://60.249.146.250:8510/http/60.251.39.91:8081/hls/71/813/ch44.m3u8
-20 TLC 旅遊生活頻道,http://60.249.146.250:8511/http/60.251.39.91:8081/hls/70/812/ch38.m3u8
+19 Discovery,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a
+20 TLC 旅遊生活頻道,p5p://fccs.123178.top:9906/60440517000a918709a6b1f73be1eeb9.ts
 21 動物星球頻道,http://128.14.50.198:8880/m3u8/kpeX385tL1NAPxnNv40MKCi-5btKj6Z1QFCdDVftTouVJZ7VdRlVIYG-AgKemUKan1kFRlWMRmjWrQNaROInhw
 22 CN卡通頻道,http://128.14.50.198:8880/m3u8/-t6XP9Zx0dUjw4oo1YyDENU9sCwSxxF6B2s0gu1Tlk2HJCI8Go-hbJYhtanOtDThTqinTdm7Zh6ql8gtpORVug
 23 尼克兒童頻道,http://128.14.50.198:8880/m3u8/HxAeXNYSM8u28LNuctJCgazli8HeMDgayEOqjKjgl8Z2pQ1w_YJjNDs-_x0p8MOnyysrj47JLo9lteajWeNX9w
