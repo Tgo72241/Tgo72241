@@ -90,11 +90,11 @@
 90 非凡商業台,http://59.125.101.187:8730/http/192.168.77.24:8081/hls/74/816/ch56.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 91 幸福空間居家台,https://git.io/JgYYF
 92 歷史HISTORY,http://128.14.50.198:8880/m3u8/jbYBtWJMAQE0D7m16TqguJk_3aPEdbR1rKwWxF_jadqzfU6eaRwVhvdCUgi5QwyfNO7otNgPDxxTmjl9vX5vCQ
-93 爆谷星影台,p2p://ns2.hellotvvod.com:9906/abdd87ae723043f7818b0d79abfab519.ts
+93 
 94 NBA動態,http://128.14.50.198:8880/m3u8/DK6JW-Hsa8k8PbAGQHN7_8qB5fP3QlcxbGwbJfvbfegPcvqCSCOJKq5rlU3CEW8we-GizblR1rr0iaGeXV-Img
 95 南投新聞,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 96 孝廉電視台,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
-97 爆谷台,p2p://ns2.hellotvvod.com:9906/838952ce5f60497e967f718141a741db.ts
+97 
 98 海豚綜合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 99 生命台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 100 LIFETime,http://128.14.50.198:8880/m3u8/PpQDHF2FHekBa82Jfqwd1o9D28UBjCrzIIb2wWpoQQQLOC2vtHV-2zHugGDBH94OyYt1m-vCt5yKxdUF3NV3lw
@@ -106,12 +106,12 @@
 106 法國TV5電視台,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 107 德國之聲電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 108 美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
-109 正德電視台,http://59.125.101.187:8756/http/192.168.77.24:8081/hls/64/806/ch16.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+109 NHK新聞,http://59.125.101.187:8706/http/192.168.77.24:8081/hls/62/804/ch06.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 110 Arirang TV,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/Arirang.m3u8
 111 番薯電視台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 112 SBN全球財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
 113 華視教育體育文化台	
-114 CNBC Asia,http://125.227.210.37:16415/VideoInput/play.ts
+114 NHK WORLD TV,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 115 彭博財經頻道,https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8?$全网4K
 116 儒釋道經,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
 117 新唐人亞太台,https://live.ntdimg.com/aplive200/playlist.m3u8
@@ -119,7 +119,7 @@
 119 大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 120 雲林新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 121 世新綜合台,http://61.58.60.230:9319/live/49.m3u8
-122 NHK,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+122 NHK Chinese Vision,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 123 國會頻道1台,http://61.58.60.230:9319/live/123.m3u8
 124 國會頻道2台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv085&nid=171
 125 viva美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
@@ -135,11 +135,11 @@
 135 龍華戲劇,http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 136 龍華偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 137 龍華日韓,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-138 龍華影劇,p5p://fccs.123178.top:9906/604347a3000cc1fe06c2a567b371c0d6.ts
+138 龍華影劇,p5p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts
 139 龍華洋片,p5p://fccs.123178.top:9906/6044287d000e2bb500510e64fec426ab.ts
 140 靖天戲劇,http://128.14.50.198:8880/m3u8/Fjs9smUjjKQ-X0GYGIo_b4B4fSg3gqK4cbbDdiW4m358YzVKJIBxFKQVQceTCzXuMREuSRrwhO4p0c2qrxWZ_A
 141 靖天電影
-142 靖天日本,http://128.14.50.198:8880/m3u8/-Byh3xNP4SH-0SYXJAtOP1PHrUiYgd7bQzncFy6hh5d9mAIFIg7yYjriWfQJegpz_MS180Amv8upX0aO68nHtw
+142 靖天日本台,http://128.14.50.198:8880/m3u8/-Byh3xNP4SH-0SYXJAtOP1PHrUiYgd7bQzncFy6hh5d9mAIFIg7yYjriWfQJegpz_MS180Amv8upX0aO68nHtw
 143 好消息國度報導,https://vod.streamingfast.net/hls-vod/video/1200k/NW1A0180_1200k.mp4.m3u8
 144 AUTOMOTO TV,http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 145 大愛2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
