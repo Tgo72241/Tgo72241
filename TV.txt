@@ -15,7 +15,7 @@
 15 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 16 原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 17 客家電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
-18 國家地理,http://128.14.50.198:8880/m3u8/W484lzhgYgwYJRMSrHSimrjXRMTlgPP_PxigwL6F29C8eHVNeajIntKIsmAAjmMnWFQeG9U_t_jvIJBl0Yoppg
+18 國家地理,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437
 19 Discovery,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a
 20 TLC 旅遊生活頻道,p5p://fccs.123178.top:9906/60440517000a918709a6b1f73be1eeb9.ts
 21 動物星球頻道,http://128.14.50.198:8880/m3u8/kpeX385tL1NAPxnNv40MKCi-5btKj6Z1QFCdDVftTouVJZ7VdRlVIYG-AgKemUKan1kFRlWMRmjWrQNaROInhw
@@ -68,10 +68,10 @@
 68 好萊塢電影台,http://59.125.101.187:8754/http/192.168.77.24:8081/hls/74/816/ch55.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 69 STAR Movies Gold,http://59.125.101.187:8745/http/192.168.77.24:8081/hls/62/804/ch08.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 70 CINEMAX,http://128.14.50.198:8880/m3u8/hSRFs3bVtBrFGIIeomc6SmLZ6PFd4J3YtblVbExYILbDdToTRec_36JrChmS5ishHEhhqOc-xgB_1pJJp2nkjQ
-71 緯來育樂台,http://128.14.50.198:8880/m3u8/lbPQq-LuHWBSVwVlaleuE-soItmW43bYN_MPJrEBhtmKjzkA0LDe4Fpkh5EOPUmzsrnPPwGgpssHr4y6OSklWA
+71 緯來育樂台,http://59.125.101.187:8762/http/192.168.77.24:8081/hls/68/810/ch30.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 72 緯來體育台,http://128.14.50.198:8880/m3u8/QqIts25eFcdXuDWk67EpcnEa95cVK2YzPaNSNM4bHrsktwCWAjObyq-S4Kdn8N4IcmqcPwPYkQS8B4v_GR4ngw
 73 ELEVEN1,http://128.14.50.198:8880/m3u8/HEdgGdlXs7LK4wHy-G9S4rJZ2lNhVbBaaJKwGazbnvs1nhlknWAiU98TI4oCV3s6Q6aQ7oQCZsHVQBINIurxnA
-74 ELEVEN2,http://60.249.146.250:8567/http/60.251.39.91:8078/hls/26/80/esport2.m3u8
+74 ELEVEN2,http://128.14.50.198:8880/m3u8/CG4S9IvRW4-scbtW36N9AwC6uAzy0mh8Fc9erOm1h6eOoQyReUXRSYQADMcYpMfVs8qU5B7l8k58k-a6BSl0zA
 75 MOMO綜合台,http://128.14.50.198:8880/m3u8/oT71Smv8TWUbN-9B11p1mC8gBBSDkiIOh6AM8J43RZPXhwWPAdIofVQSWFWaUqeIXTQtQ7wQ51myVaOMywP81w
 76 博斯運動 I,http://128.14.50.198:8880/m3u8/06XeiUBsjLQz1j4ZLWYluOzQFX8DuNSbHRfLkKCq_-XmylGeBuVnfGzzxPtlm3rDaQnXwcsoerKZpO2hbCvs4g
 77 緯來日本台,http://128.14.50.198:8880/m3u8/_rUWRD95AOG1-Sd2nBwKSSQej-LokSIRf2lqnYpiW7AN02QpDmyP664EAIB9N_kr89FnhZPCBRUDECQmeAb8Kw
@@ -83,11 +83,11 @@
 83 MTV,http://128.14.50.198:8880/m3u8/C3KUCF30Fxt7tGI2M1f4v_ZLFE6cAHGq21D9yocecJRJve0fH8Ti05flghLSqiEVZF9a7Aab2WEmd5VqMZT97w
 84 momo,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 85 東森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
-86 Z頻道,http://128.14.50.198:8880/m3u8/ApQmmLXUmofPFEqYGRrsgXS33bAglsh0Fpz8aHm1fb4_iqinzDDoBB4QN_tU-0eP6phcZ9OkB7EamwjUGesthg
+86 Z頻道,p2p://ns2.hellotvvod.com:9906/da6d6450a3b14c9aad2ac1b8387f6858.ts
 87 ELTA生活旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
 88 八大娛樂台,http://128.14.50.198:8880/m3u8/4q7lGz4iI9dzM11mSYM2uComOnqKmLH7yLaf1SmGr5QLdeAGtm6eTSg2s2UdfTPpkHR6HW0UoS7TQxlCPk1d3Q
 89 三立iNEWS,http://128.14.50.198:8880/m3u8/Cf4PUf_cSlwrqSZ2k-DenkxDWlw5F8rmGZY_xwYo0I-NxwYkm10kKOQLPrsHEib5yw9r2p0j7vd8rlJ8e4iHiQ
-90 非凡商業台
+90 非凡商業台,http://59.125.101.187:8730/http/192.168.77.24:8081/hls/74/816/ch56.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 91 幸福空間居家台,https://git.io/JgYYF
 92 歷史HISTORY,http://128.14.50.198:8880/m3u8/jbYBtWJMAQE0D7m16TqguJk_3aPEdbR1rKwWxF_jadqzfU6eaRwVhvdCUgi5QwyfNO7otNgPDxxTmjl9vX5vCQ
 93 爆谷星影台,p2p://ns2.hellotvvod.com:9906/abdd87ae723043f7818b0d79abfab519.ts
@@ -155,7 +155,7 @@
 155 台視新聞台,http://128.14.50.198:8880/m3u8/85SBj3Mj9GrsjoFGVgUydFTyNqXB2I1sNJ_J_4aJlrGO6RuCIFdLvKsOc8YqviOhIpCx_gkCSIOfP36yc3EPpQ
 156 台視財經台,http://128.14.50.198:8880/m3u8/W8heik0NtJNTNlZNVMv2SwLd4Uz6Ipqk2oRUGC8V8yEKmMWo41JK-9449K2J1yPdjwtbQ8TwBXE7pI2PyOMnGA
 157 台視綜合台
-158 ELTA影劇
+158 ELTA影劇,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
 159 NASA,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/NASA.m3u8
 160 星衛HD電影台,http://128.14.50.198:8880/m3u8/Qp7vgiAIbdzcBdz1RGxDZ0nDQA7HaW-4XT3SBL9b75Cm93dqFsc8cCJ9W3XQrhS-r2w6VMNNLjWIq4ULyOspag
 161 星衛娛樂台,http://128.14.50.198:8880/m3u8/n3iVp8R20-_G0HCr-czBJXeVuzvmryaEs_pB44y3DeXN3P3sYiQLqw6pX3MJsIzh5YFH9-ENmo3u0SKKYqiOyA
