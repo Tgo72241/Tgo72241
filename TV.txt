@@ -94,7 +94,7 @@
 94 NBA動態,http://128.14.50.198:8880/m3u8/DK6JW-Hsa8k8PbAGQHN7_8qB5fP3QlcxbGwbJfvbfegPcvqCSCOJKq5rlU3CEW8we-GizblR1rr0iaGeXV-Img
 95 南投新聞,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 96 孝廉電視台,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
-97 
+97 SPOTV,http://128.14.50.198:8880/m3u8/jW1gQVqi-46uVVuIDEnFGno_3uIO82If9n0lKs-QbPja-6P0JfjoL0AuYImR-YizUCH5racUgBahAH5jP1sPFA
 98 海豚綜合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 99 生命台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 100 LIFETime,http://128.14.50.198:8880/m3u8/PpQDHF2FHekBa82Jfqwd1o9D28UBjCrzIIb2wWpoQQQLOC2vtHV-2zHugGDBH94OyYt1m-vCt5yKxdUF3NV3lw
@@ -170,8 +170,8 @@
 170 WWE,http://128.14.50.198:8880/m3u8/Gn1CPTzEZZrofqB4dVzp-OHvv0OeCMyns2hFpDG3gxvXPl0-loK4G8cMGhRvkqC7BCuxzjAGhRxO9d0lwAdJ_Q
 171 WWE1,http://txtest-xp2p.p2p.huya.com/1099531627799-1099531627799-85899444704247808-2199063379054-10057-A-0-1.xs
 172 WWE2,http://txtest-xp2p.p2p.huya.com/1099531627786-1099531627786-85899388869672960-2199063379028-10057-A-0-1.xs
-173 ELTA體育1台,http://128.14.50.198:8880/m3u8/rTZle75_cVXwTeBy-1dJwfTLnRN9D5ecsaUJBOorJRMfX9ca9ACVPAFptlOm0i3U9HfnvECpNOgG17kOE7nV-w
-174 ELTA體育2台,p2p://ns2.hellotvvod.com:9906/ea9010e14e8d4e639d63c896c1170489.ts
+173 ELTA體育1台,p5p://fccs.123178.top:9906/617b742500015a6801fc459b61930f93
+174 ELTA體育2台,p5p://fccs.123178.top:9906/617b767a000873b0020563740ce34ccd
 175 ELTA體育3台,p2p://ns2.hellotvvod.com:9906/1d024c698a934e908e98d158b8af0939.ts
 176 HBO HD頻道,http://128.14.50.198:8880/m3u8/PGhg19KlMR3blSid_HYk88cVb9cndlIzg1YbxsRubOD1pdxmSh59A8Ng9y88mFN4kfza9XYPf8vNqFiFwjQntQ
 177 HBO強檔鉅獻Hits,http://128.14.50.198:8880/m3u8/8LxX5oq__kT_bFCNvCRIHuMsddBW4D3ZrTyU0xngRISl8-a3oWMQgiuyfMh_jfHJUV43I2Rb5zB8_jyNcd7rKg
@@ -186,8 +186,8 @@
 186 tvN,http://128.14.50.198:8880/m3u8/evqR4SrjhDkkThBGo1aHXbXSJmEuwZ1V5Z4uIlRXoeDw4KsgYEZwBqBcaz69-jl6TiHBmFugH9BCsBRQZdUotA
 187 韓國娛樂台KMTV,http://128.14.50.198:8880/m3u8/ildcCCRHDBXDIgAToJemIpI3ImLbP48lTvpwAcMbs_PW22dDU94qkfDYmhBUiV1hL8N5FwrwPsMvD4MhWe03-w
 188 Nick Jr.,http://128.14.50.198:8880/m3u8/NPrKqKYa8R5lPflit29ynEQI96fPpRYBJpX5qnfeKRCJ9jGk7GEL3oS7rRVqJel_SqNdkSboYgxYX4OKcHYc5A
-189 Warner TV,http://128.14.50.198:8880/m3u8/KX6n_DkNwLjM44ZmgLghecE5VNCN6XpoeTdRAFfcOKyEybjreRLevcDWN47T-eawJtUKwMADz3CFNwK857OtgA
-190 Food Network美食台頻道
+189 華納Warner TV,p5p://fccs.123178.top:9906/604414f400055b780004bcfa6ee82d22.ts
+190 Food Network美食台,p5p://fccs.123178.top:9906/604407250006a38d09aeb7a6e70be747.ts
 191 Travel Channel,http://128.14.50.198:8880/m3u8/jzVCzZvwZKMvbOw25j9E5ACjazax0Wmeal_pYdPYBX-ptvq7tNjECK3wPH9LVkaQ8GmgVUSqqRVy4iG4_0R3WQ
 192 寰宇新聞台,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 193 TV5法式生活頻道
@@ -219,3 +219,6 @@
 219 疾速汽車,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
 220 賽車,http://txtest-xp2p.p2p.huya.com/1447756351-1447756351-6218066180121296896-2895636158-10057-A-0-1.xs
 221 摩托車,http://txtest-xp2p.p2p.huya.com/1099531728928-1099531728928-86333790451924992-2199063581312-10057-A-0-1.xs
+222 CinemaWorld,p5p://fccs.123178.top:9906/604415aa00054259000783e434297e54.ts
+
+
