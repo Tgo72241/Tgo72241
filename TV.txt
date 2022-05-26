@@ -53,7 +53,7 @@
 53 民視新聞台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 54 三立新聞,http://128.14.50.198:8880/m3u8/whMPg7a8mFkejA5wXHkhAkIWJQox37nayRMxL0HQZn6uK0P5MOTryGFTFJY4D90MizsgWwzD490F9mgBAUDocA
 55 TVBS新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-56 TVBS,http://liuy.usa7.20212021.ga/ns.php?id=37
+56 TVBS,http://38.64.72.148:80/hls/modn/list/8005/chunklist0.m3u8
 57 東森財經新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
 58 非凡新聞,http://128.14.50.198:8880/m3u8/W9Me_yFA9gUs-3VGiSfWeX_yCFXMUTKb4a_O_c3LURluD1VEzCf024yw-Fpj3gTiQFXNolTNOgrXGIK37t-Gpw
 59 viva美好購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
