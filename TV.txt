@@ -21,7 +21,7 @@
 21 動物星球頻道,http://128.14.50.198:8880/m3u8/kpeX385tL1NAPxnNv40MKCi-5btKj6Z1QFCdDVftTouVJZ7VdRlVIYG-AgKemUKan1kFRlWMRmjWrQNaROInhw
 22 CN卡通頻道,http://128.14.50.198:8880/m3u8/-t6XP9Zx0dUjw4oo1YyDENU9sCwSxxF6B2s0gu1Tlk2HJCI8Go-hbJYhtanOtDThTqinTdm7Zh6ql8gtpORVug
 23 尼克兒童頻道,http://128.14.50.198:8880/m3u8/HxAeXNYSM8u28LNuctJCgazli8HeMDgayEOqjKjgl8Z2pQ1w_YJjNDs-_x0p8MOnyysrj47JLo9lteajWeNX9w
-24 MOMO親子,http://59.125.101.187:8740/playlist.m3u8
+24 MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 25 東森幼幼台,http://59.125.101.187:8725/http/192.168.77.24:8081/hls/63/805/ch09.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 26 緯來綜合,http://128.14.50.198:8880/m3u8/FVfHS0vs2bsry42AS6juTWa8ZytPThK9jCe6mH_pP-ydCa7wz_SXUNPK2x-I-IuHjS9nv2WtkyJhkn96fZu84w
 27 八大第一台,http://128.14.50.198:8880/m3u8/s6Ide4l7P0MZmpkenHS9ddF5XEJpphifVOXd0i41Dg09w_-_E1daIRACkJ4iFccjS8F_QpBJTHTweGjktJw1dg
