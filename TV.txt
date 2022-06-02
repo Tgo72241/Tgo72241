@@ -221,6 +221,6 @@
 221 摩托車,http://txtest-xp2p.p2p.huya.com/1099531728928-1099531728928-86333790451924992-2199063581312-10057-A-0-1.xs
 222 MTV Live,mitv://ns2.hellotvvod.com:9906/7c27e4e9f495427986b87f23c4426cbc.ts
 223 Mezzo Live,mitv://ns2.hellotvvod.com:9906/13974c3b753a4b7fa240d7c8697235a7.ts
-
+224 國家地理人文,mitv://ns2.hellotvvod.com:9906/a0ae74df367245b4a57229832487ee4e.ts
 
 
