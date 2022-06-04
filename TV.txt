@@ -154,23 +154,23 @@
 154 中視新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 155 台視新聞台,http://128.14.50.198:8880/m3u8/85SBj3Mj9GrsjoFGVgUydFTyNqXB2I1sNJ_J_4aJlrGO6RuCIFdLvKsOc8YqviOhIpCx_gkCSIOfP36yc3EPpQ
 156 台視財經台,http://128.14.50.198:8880/m3u8/W8heik0NtJNTNlZNVMv2SwLd4Uz6Ipqk2oRUGC8V8yEKmMWo41JK-9449K2J1yPdjwtbQ8TwBXE7pI2PyOMnGA
-157 台視綜合台
-158 ELTA影劇,mitv://ns2.hellotvvod.com:9906/218a6e33c7654d13822f5030422698f9.ts
+157 台視綜合台,http://128.14.50.198:8880/m3u8/fp7iDTn_xr6v7fcf4435uOQsSg2m3j3aoNv52V0zA2qqVPH7-El1funMvA4FybesVGXZLkLJyNQTQmzprH5Unw
+158 BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/9f50eef7954e4184abf891fab616cacb.ts
 159 NASA,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/NASA.m3u8
 160 星衛HD電影台,http://128.14.50.198:8880/m3u8/Qp7vgiAIbdzcBdz1RGxDZ0nDQA7HaW-4XT3SBL9b75Cm93dqFsc8cCJ9W3XQrhS-r2w6VMNNLjWIq4ULyOspag
-161 星衛娛樂台,http://128.14.50.198:8880/m3u8/n3iVp8R20-_G0HCr-czBJXeVuzvmryaEs_pB44y3DeXN3P3sYiQLqw6pX3MJsIzh5YFH9-ENmo3u0SKKYqiOyA
+161 星衛娛樂台,mitv://ns2.hellotvvod.com:9906/8f63704507ba4efe9d3bbc00e3ac302c.ts
 162 The K-POP,https://git.io/JgYAE
 163 Baby TV,http://gg.gg/HaNoiIPTV-BabyTV_HD
 164 CBeebies,https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
-165 Boomerang卡通台,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
+165 HITS,mitv://ns2.hellotvvod.com:9906/91f370e752c44d94b8a516ca9054e994.ts
 166 達文西頻道,mitv://ns2.hellotvvod.com:9906/73fb4c16983c472bb5c7a6946dd30f6d.ts
 167 紅牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 168 歐洲體育,http://128.14.50.198:8880/m3u8/rRsegaSNOPKhNoSKfdkXJW4LmnQ4E8FmG0YM-T5AM5vJd_YW_p2NrYJNnet08UQxI-rddFpAUfN1_r4JXdS10A
 169 Eurosport 1,http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 170 WWE,http://128.14.50.198:8880/m3u8/Gn1CPTzEZZrofqB4dVzp-OHvv0OeCMyns2hFpDG3gxvXPl0-loK4G8cMGhRvkqC7BCuxzjAGhRxO9d0lwAdJ_Q
-171 WWE1,http://txtest-xp2p.p2p.huya.com/1099531627799-1099531627799-85899444704247808-2199063379054-10057-A-0-1.xs
-172 WWE2,http://txtest-xp2p.p2p.huya.com/1099531627786-1099531627786-85899388869672960-2199063379028-10057-A-0-1.xs
-173 ELTA體育1台,mitv://ns2.hellotvvod.com:9906/595998f4529e4f298cdf3149a33c1437.ts
+171 Love Nature,mitv://ns2.hellotvvod.com:9906/910e573ddce94ce6867253c6ff9cb067.ts
+172 CinemaWorld,mitv://ns2.hellotvvod.com:9906/f3b186675b7d4cc994370eb997aaf612.ts
+173 ELTA體育1台,mitv://ns2.hellotvvod.com:9906/e8d85cab69554439aa5088770348fb8f.ts
 174 ELTA體育2台,mitv://ns2.hellotvvod.com:9906/d277e9d51ec74aea904176f52e2defd9.ts
 175 ELTA體育3台,mitv://ns2.hellotvvod.com:9906/1e5f5b63d5934513be98a24b106691ff.ts
 176 HBO HD頻道,http://128.14.50.198:8880/m3u8/PGhg19KlMR3blSid_HYk88cVb9cndlIzg1YbxsRubOD1pdxmSh59A8Ng9y88mFN4kfza9XYPf8vNqFiFwjQntQ
@@ -190,7 +190,7 @@
 190 Food Network美食台,mitv://ns2.hellotvvod.com:9906/00b9dfd8a9b14d969686d9ef092e265c.ts
 191 Travel Channel,http://128.14.50.198:8880/m3u8/jzVCzZvwZKMvbOw25j9E5ACjazax0Wmeal_pYdPYBX-ptvq7tNjECK3wPH9LVkaQ8GmgVUSqqRVy4iG4_0R3WQ
 192 寰宇新聞台,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
-193 TV5法式生活頻道,mitv://ns2.hellotvvod.com:9906/6f49b6a4517a41fab67d30e93a1957e7.ts
+193 TV5法式生活頻道,mitv://ns2.hellotvvod.com:9906/aa776aa3c41441d4b7a8d57ee5ea7571.ts
 194 CLASSICA 古典樂,mitv://ns2.hellotvvod.com:9906/f8a91d76248e443c8847fae81887888d.ts
 195 DMAX,http://128.14.50.198:8880/m3u8/ZyTTmKKzcKp1nXAUjxPF0e7N6EiQ2Al0KD5CX38ZYjO4wGyb81EC1dcYqo4WbX4H0RkQE9S0_YrOsZrlLJVIkg
 196 CATCHPLAY電影台,mitv://ns2.hellotvvod.com:9906/2b42588414e34374ae4a92e73e38d0df.ts
@@ -227,4 +227,19 @@
 227 海豚綜合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 228 東森LIVE,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 229 ELTV生活英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
-230 BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/9f50eef7954e4184abf891fab616cacb.ts
+230 采昌影劇,mitv://ns2.hellotvvod.com:9906/9cdd18a45e9744a69450580b4f8afa79.ts
+231 影迷數位電影,mitv://ns2.hellotvvod.com:9906/02351070157d4a33b49a516e4b5b10ca.ts
+232 爆谷星影台,mitv://ns2.hellotvvod.com:9906/abdd87ae723043f7818b0d79abfab519.ts
+233 爆谷台,mitv://ns2.hellotvvod.com:9906/838952ce5f60497e967f718141a741db.ts
+234 J Sports 1,mitv://ns2.hellotvvod.com:9906/e71d2760e0404cc889cd3e79bb1099d5.ts
+235 J Sports 2,mitv://ns2.hellotvvod.com:9906/d8c0f91875f54c2e86eccd45b505b9b8.ts
+236 J Sports 3,mitv://ns2.hellotvvod.com:9906/8804d91776ad460997cc2eb03dce7ad0.ts
+237 J Sports 4,mitv://ns2.hellotvvod.com:9906/35fe178bbdb84df09ee45244f2e75e84.ts
+238 Music Japan,mitv://ns2.hellotvvod.com:9906/24424ee5d30042c48c6aae10f1b6ec08.ts
+
+
+
+
+
+
+
