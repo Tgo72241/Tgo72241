@@ -76,7 +76,7 @@
 76 博斯運動 I,http://128.14.50.198:8880/m3u8/06XeiUBsjLQz1j4ZLWYluOzQFX8DuNSbHRfLkKCq_-XmylGeBuVnfGzzxPtlm3rDaQnXwcsoerKZpO2hbCvs4g
 77 緯來日本台,http://128.14.50.198:8880/m3u8/_rUWRD95AOG1-Sd2nBwKSSQej-LokSIRf2lqnYpiW7AN02QpDmyP664EAIB9N_kr89FnhZPCBRUDECQmeAb8Kw
 78 國興衛視,http://128.14.50.198:8880/m3u8/pmgiw-INbOiJ_2FTKbzWQpQdc0jtMCCDwaFhQQLZLY-A1yyLWclj4OUFukugzdcxam-pKWgxrPPQYcgZDTNu3A
-79 StarWorld
+79 CMusic,mitv://ns2.hellotvvod.com:9906/32c742738d3949a99963fe5d59613326.ts
 80 中台灣生活網頻道,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 81 Animax,http://128.14.50.198:8880/m3u8/JP4s5ksssAI-h4epzD-H6vQVsmzK81ELirRd3rpzC95zM5bkX-Li4PxNJhAG7fvp4-jC6RVoy_rFaQLgrHlOrA
 82 鏡新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
@@ -227,4 +227,4 @@
 227 海豚綜合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 228 東森LIVE,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 229 ELTV生活英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
-
+230 BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/9f50eef7954e4184abf891fab616cacb.ts
