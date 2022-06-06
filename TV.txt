@@ -89,7 +89,7 @@
 89 三立iNEWS,http://128.14.50.198:8880/m3u8/Cf4PUf_cSlwrqSZ2k-DenkxDWlw5F8rmGZY_xwYo0I-NxwYkm10kKOQLPrsHEib5yw9r2p0j7vd8rlJ8e4iHiQ
 90 非凡商業台,mitv://ns2.hellotvvod.com:9906/d6aa5577e7554c5db9d6a3a37a224386.ts
 91 幸福空間居家台,https://git.io/JgYYF
-92 歷史HISTORY,http://128.14.50.198:8880/m3u8/jbYBtWJMAQE0D7m16TqguJk_3aPEdbR1rKwWxF_jadqzfU6eaRwVhvdCUgi5QwyfNO7otNgPDxxTmjl9vX5vCQ
+92 歷史HISTORY,mitv://ns2.hellotvvod.com:9906/dfdf1d8bf3744dd5987ed55f7a52d146.ts
 93 公視3,http://128.14.50.198:8880/m3u8/DrhKUhz_DawJNZgpPCZxHOMRcfdRqdlYgLG3_YAx6YtLgpvY8lzYDqRu7ESwKj8paj46HxO1bIVy7i6j01fybg
 94 NBA動態,http://128.14.50.198:8880/m3u8/DK6JW-Hsa8k8PbAGQHN7_8qB5fP3QlcxbGwbJfvbfegPcvqCSCOJKq5rlU3CEW8we-GizblR1rr0iaGeXV-Img
 95 南投新聞,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
