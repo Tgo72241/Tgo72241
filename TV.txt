@@ -50,7 +50,7 @@
 50 年代新聞,mitv://ns2.hellotvvod.com:9906/0b94b2babd86450f980db1ff668969a3.ts
 51 東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
 52 華視新聞資訊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
-53 民視新聞台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+53 民視新聞台,mitv://ns2.hellotvvod.com:9906/fd4643e7a06540cb9a30c751f260132b.ts
 54 三立新聞,mitv://ns2.hellotvvod.com:9906/684783b8b2184ee486966066ecfb276c.ts
 55 TVBS新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
 56 TVBS,mitv://ns2.hellotvvod.com:9906/8676c2405993453c9d41d4014d3a7481.ts
@@ -178,11 +178,11 @@
 178 HBO原創鉅獻,mitv://ns2.hellotvvod.com:9906/31d8b521b4644dc8867981416006391d.ts
 179 HBO溫馨家庭Family
 180 HGTV居家樂活頻道,mitv://ns2.hellotvvod.com:9906/fc0bc391b3b74fa79707bb5662269e78.ts
-181 Star Movies,http://128.14.50.198:8880/m3u8/RUWNqbL_byXq5xdAgTpXxIX5n7zugnkr3OSO068L2Tj4un1vEBeEu42vZ0adnfz3dO5ZmQTlYi6LlW1O1lEhzg
-182 亞洲美食頻道,http://128.14.50.198:8880/m3u8/x7g_W2gI5_jMerCvHt6cZhZ_amvkUyMdbGRN7wKswxW-hDq_qHPII8mMC-S2RfPkdV_86WKayvRnsav3B89i3A
+181 Star Movies,mitv://ns2.hellotvvod.com:9906/fa446f003f054e4f83ceca2daf3d4b92.ts
+182 亞洲美食頻道,mitv://ns2.hellotvvod.com:9906/619be40d5bb5431ab151c1cedcb64866.ts
 183 亞洲旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
-184 Discovery Asia,http://128.14.50.198:8880/m3u8/xWclvpjEKS4S_641CPwLKD7Jw_x4qnwVuMojW2hacszGmRvOOjxYyd4nlgY8Cfo779Z9xRChyriDHOHwkc3PjQ
-185 Discovery科學頻道,http://128.14.50.198:8880/m3u8/f-F_qh-A8FibiMTUVUyeNLvn9MSIIEtg_kG3h_ugqUaYamc6w9vnsGwAV5F6CYdy-xXLA0I_fLi9fRwVo8uaeg
+184 Discovery Asia,mitv://ns2.hellotvvod.com:9906/8639fef6fcd8406283b74198a54d1738.ts
+185 Discovery科學頻道,mitv://ns2.hellotvvod.com:9906/2d27efcb3f4c40968ddc552a2aa79ac1.ts
 186 tvN,http://128.14.50.198:8880/m3u8/evqR4SrjhDkkThBGo1aHXbXSJmEuwZ1V5Z4uIlRXoeDw4KsgYEZwBqBcaz69-jl6TiHBmFugH9BCsBRQZdUotA
 187 韓國娛樂台KMTV,http://128.14.50.198:8880/m3u8/ildcCCRHDBXDIgAToJemIpI3ImLbP48lTvpwAcMbs_PW22dDU94qkfDYmhBUiV1hL8N5FwrwPsMvD4MhWe03-w
 188 Nick Jr.,http://128.14.50.198:8880/m3u8/NPrKqKYa8R5lPflit29ynEQI96fPpRYBJpX5qnfeKRCJ9jGk7GEL3oS7rRVqJel_SqNdkSboYgxYX4OKcHYc5A
