@@ -236,6 +236,6 @@
 236 J Sports 3,mitv://ns2.hellotvvod.com:9906/8804d91776ad460997cc2eb03dce7ad0.ts
 237 J Sports 4,mitv://ns2.hellotvvod.com:9906/35fe178bbdb84df09ee45244f2e75e84.ts
 238 Music Japan,mitv://ns2.hellotvvod.com:9906/24424ee5d30042c48c6aae10f1b6ec08.ts
-
+239 三立綜合台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
 
 
