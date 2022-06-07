@@ -1,23 +1,23 @@
 1 網路流行音樂電台,https://git.io/JgkA6
 2 西洋流行音樂電台,https://git.io/JgkAy
 3 猪哥亮歌廳秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
-4 公視台語台,http://128.14.50.198:8880/m3u8/7jBaTVkQnty7mJgcx5vsbtEu7e9tpUz2djfPH4UhSi2d3rEcqhqGG24QuYaSDBm7HV-tSD-F81Mi3J8PIIMfjg
+4 公視台語台
 5 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 6 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
 7 人間衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
-8 台視,mitv://ns2.hellotvvod.com:9906/a7ecfaa54e7c454c8e433973c210c45d.ts
+8 台視,rtmp://219.80.97.25/sat/tv071
 9 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-10 中視,mitv://ns2.hellotvvod.com:9906/26d6e9e08250439e893b4050d0a31396.ts
+10 中視,rtmp://219.80.97.25/sat/tv091
 11 霹靂台灣台,mitv://ns2.hellotvvod.com:9906/3f424585fa2f49408f94254e9ca0eae3.ts
-12 華視,mitv://ns2.hellotvvod.com:9906/65b374a9331b4fd69f29447f48b36bc5.ts
-13 公視,mitv://ns2.hellotvvod.com:9906/b40028b7c2fc4f6fb14a3ec384d1a665.ts
+12 華視,rtmp://219.80.97.25/sat/tv111
+13 公視,http://twxui.dyndns.tv:9991/gshd
 14 金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
 15 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 16 原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 17 客家電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
-18 國家地理,http://128.14.50.198:8880/m3u8/W484lzhgYgwYJRMSrHSimrjXRMTlgPP_PxigwL6F29C8eHVNeajIntKIsmAAjmMnWFQeG9U_t_jvIJBl0Yoppg
+18 國家地理
 19 Discovery,mitv://ns2.hellotvvod.com:9906/53f1b40e94ec4acd85fe317ff18b44d4.ts
-20 TLC 旅遊生活,http://128.14.50.198:8880/m3u8/w8KQkpWmMrX2Xv4p4B8a99jz6afwOFOWP7Ms9NhFnPFTIk5tn7uCxfqchqQvkD-WzdW35RZCBVnpZ4InW17u8g
+20 TLC 旅遊生活
 21 動物星球,mitv://ns2.hellotvvod.com:9906/e1c1fc8ca1a849abbadec2974bf461c7.ts
 22 CN卡通頻道,mitv://ns2.hellotvvod.com:9906/44a3fbe661a3475096d83a4f6ab5a867.ts
 23 尼克兒童頻道,mitv://ns2.hellotvvod.com:9906/95317efaec2c439d9715c94ca0e73145.ts
@@ -68,10 +68,10 @@
 68 好萊塢電影台,mitv://ns2.hellotvvod.com:9906/4ccf820d465e47f78f5703217cef645a.ts
 69 STAR Movies Gold
 70 CINEMAX
-71 緯來育樂台,mitv://ns2.hellotvvod.com:9906/62996e6e17b44b89a4aaa378103156cd.ts
-72 緯來體育台,mitv://ns2.hellotvvod.com:9906/0897e131ae134ca2a23447f8b1c23668.ts
-73 ELEVEN1,mitv://ns2.hellotvvod.com:9906/bdd2a8a8ae314ddb8dc8b63ba8b2eb77.ts
-74 ELEVEN2,mitv://ns2.hellotvvod.com:9906/60ee1e8bf5784b0192c617efa72ffed4.ts
+71 緯來育樂台,rtmp://219.80.97.25/sat/tv701
+72 緯來體育台,rtmp://219.80.97.25/sat/tv721
+73 ELEVEN1,rtmp://59.124.75.138:1935/sat/tv731
+74 ELEVEN2,rtmp://219.80.97.25/sat/tv741
 75 MOMO綜合台,rtmp://219.80.97.25/sat/tv761
 76 博斯運動 I,mitv://ns2.hellotvvod.com:9906/c6bec0d071b841bcbe97b08b6fdfacba.ts
 77 緯來日本,mitv://ns2.hellotvvod.com:9906/e04ee36381e54967b1719adb964bc70d.ts
@@ -86,7 +86,7 @@
 86 Z頻道,p2p://ns2.hellotvvod.com:9906/da6d6450a3b14c9aad2ac1b8387f6858.ts
 87 ELTA生活旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
 88 八大娛樂台,mitv://ns2.hellotvvod.com:9906/dca32915625c478a8bb977c1fcf05834.ts
-89 三立iNEWS,mitv://ns2.hellotvvod.com:9906/f0bfd3e089974625ae9ec1092d56507f.ts
+89 三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
 90 非凡商業台,mitv://ns2.hellotvvod.com:9906/d6aa5577e7554c5db9d6a3a37a224386.ts
 91 幸福空間居家台,https://git.io/JgYYF
 92 歷史HISTORY,mitv://ns2.hellotvvod.com:9906/dfdf1d8bf3744dd5987ed55f7a52d146.ts
@@ -221,7 +221,7 @@
 221 摩托車,http://txtest-xp2p.p2p.huya.com/1099531728928-1099531728928-86333790451924992-2199063581312-10057-A-0-1.xs
 222 MTV Live,mitv://ns2.hellotvvod.com:9906/7c27e4e9f495427986b87f23c4426cbc.ts
 223 Mezzo Live,mitv://ns2.hellotvvod.com:9906/13974c3b753a4b7fa240d7c8697235a7.ts
-224 國家地理人文,mitv://ns2.hellotvvod.com:9906/a0ae74df367245b4a57229832487ee4e.ts
+224 地理人文,mitv://ns2.hellotvvod.com:9906/a0ae74df367245b4a57229832487ee4e.ts
 225 好消息國度報導,https://vod.streamingfast.net/hls-vod/video/1200k/NW1A0180_1200k.mp4.m3u8
 226 AUTOMOTO TV,http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 227 海豚綜合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
@@ -236,10 +236,6 @@
 236 J Sports 3,mitv://ns2.hellotvvod.com:9906/8804d91776ad460997cc2eb03dce7ad0.ts
 237 J Sports 4,mitv://ns2.hellotvvod.com:9906/35fe178bbdb84df09ee45244f2e75e84.ts
 238 Music Japan,mitv://ns2.hellotvvod.com:9906/24424ee5d30042c48c6aae10f1b6ec08.ts
-
-
-
-
 
 
 
