@@ -50,7 +50,7 @@
 50 年代新聞,mitv://ns2.hellotvvod.com:9906/0b94b2babd86450f980db1ff668969a3.ts
 51 東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
 52 華視新聞資訊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
-53 民視新聞台,mitv://ns2.hellotvvod.com:9906/fd4643e7a06540cb9a30c751f260132b.ts
+53 民視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
 54 三立新聞,mitv://ns2.hellotvvod.com:9906/684783b8b2184ee486966066ecfb276c.ts
 55 TVBS新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
 56 TVBS,mitv://ns2.hellotvvod.com:9906/8676c2405993453c9d41d4014d3a7481.ts
