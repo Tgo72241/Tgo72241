@@ -30,7 +30,7 @@
 30 三立都會台,mitv://ns2.hellotvvod.com:9906/d35c3c66a2394d9a8e34beaafc32c6d4.ts
 31 衛視中文台,mitv://ns2.hellotvvod.com:9906/cb34596f236a4c85a9718367df9e9c9d.ts
 32 東森綜合台,mitv://ns2.hellotvvod.com:9906/83aadc1ce583452c8ce5e61c7d34b0b2.ts
-33 東森超視,mitv://ns2.hellotvvod.com:9906/72274b099c2c48c8847910ec2970d23b.ts
+33 東森超視,rtmp://219.80.97.25/sat/tv331
 34 東森購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 35 momo購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 36 中天綜合,mitv://ns2.hellotvvod.com:9906/c30e91ccdc7246fda4d32219627cacf0.ts
@@ -39,7 +39,7 @@
 39 中天娛樂台,mitv://ns2.hellotvvod.com:9906/f89fde09d7c64456b1109f9675b6dddb.ts
 40 東森戲劇台,mitv://ns2.hellotvvod.com:9906/23c5d481a1c04d8e8d01c51f5d9b17bd.ts
 41 八大戲劇台,mitv://ns2.hellotvvod.com:9906/eb2e28d7bacb477391df8f31bb517041.ts
-42 TVBS歡樂台,mitv://ns2.hellotvvod.com:9906/80e84e6fee044e65942de58e5558df3c.ts
+42 TVBS歡樂台,rtmp://219.80.97.25/sat/tv421
 43 緯來戲劇台,mitv://ns2.hellotvvod.com:9906/1341727ca5114ebaa31f8a2d6addd125.ts
 44 高點綜合,mitv://ns2.hellotvvod.com:9906/5ef7efd85dd341248e96fa68f16a59e3.ts
 45 JET 綜合台
@@ -59,11 +59,11 @@
 59 viva美好購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 60 中天新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 61 衛視電影台,mitv://ns2.hellotvvod.com:9906/48e5078c3a954232a6d182ece9409eb7.ts
-62 東森電影台,mitv://ns2.hellotvvod.com:9906/6dbd836f8b5542a1a3054b2487286f19.ts
+62 東森電影台,http://120.84.96.25:808/hls/32/index.m3u8
 63 緯來電影台,mitv://ns2.hellotvvod.com:9906/4c315afe673041a88ee8125bb9caff4a.ts
-64 LS龍祥時代,mitv://ns2.hellotvvod.com:9906/66704d7827ec46a08907c11e29ab2d30.ts
+64 LS龍祥時代,http://120.84.96.33:808/hls/35/index.m3u8
 65 HBO,mitv://ns2.hellotvvod.com:9906/75ea557adf07436aa61217f9468b54fb.ts
-66 東森洋片台,mitv://ns2.hellotvvod.com:9906/c33490e600e148b79fc7a3ce3dad55b8.ts
+66 東森洋片台,http://120.84.96.33:808/hls/33/index.m3u8
 67 AXN,mitv://ns2.hellotvvod.com:9906/7f91dfc2cae44e33946bc663d221c27c.ts
 68 好萊塢電影台,mitv://ns2.hellotvvod.com:9906/4ccf820d465e47f78f5703217cef645a.ts
 69 STAR Movies Gold
@@ -74,7 +74,7 @@
 74 ELEVEN2,rtmp://219.80.97.25/sat/tv741
 75 MOMO綜合台,rtmp://219.80.97.25/sat/tv761
 76 博斯運動 I,mitv://ns2.hellotvvod.com:9906/c6bec0d071b841bcbe97b08b6fdfacba.ts
-77 緯來日本,mitv://ns2.hellotvvod.com:9906/e04ee36381e54967b1719adb964bc70d.ts
+77 緯來日本,rtmp://219.80.97.25/sat/tv771
 78 國興衛視,mitv://ns2.hellotvvod.com:9906/a27ba50463934339bea55b098fd10d3e.ts
 79 CMusic,mitv://ns2.hellotvvod.com:9906/32c742738d3949a99963fe5d59613326.ts
 80 中台灣生活網頻道,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
