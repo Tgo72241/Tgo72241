@@ -15,7 +15,7 @@
 15 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 16 原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 17 客家電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
-18 國家地理
+18 國家地理,http://220.134.196.147:9509/index.m3u8
 19 Discovery,mitv://ns2.hellotvvod.com:9906/53f1b40e94ec4acd85fe317ff18b44d4.ts
 20 TLC 旅遊生活
 21 動物星球,mitv://ns2.hellotvvod.com:9906/e1c1fc8ca1a849abbadec2974bf461c7.ts
@@ -29,7 +29,7 @@
 29 三立台灣台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/ab7c868d-3788-4bfa-8352-930399e5c78a.m3u8
 30 三立都會台,mitv://ns2.hellotvvod.com:9906/d35c3c66a2394d9a8e34beaafc32c6d4.ts
 31 衛視中文台,mitv://ns2.hellotvvod.com:9906/cb34596f236a4c85a9718367df9e9c9d.ts
-32 東森綜合台,mitv://ns2.hellotvvod.com:9906/83aadc1ce583452c8ce5e61c7d34b0b2.ts
+32 東森綜合台,http://220.134.196.147:9524/index.m3u8
 33 東森超視,rtmp://219.80.97.25/sat/tv331
 34 東森購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 35 momo購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
