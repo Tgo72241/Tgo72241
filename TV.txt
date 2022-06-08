@@ -39,7 +39,7 @@
 39 中天娛樂台,mitv://ns2.hellotvvod.com:9906/f89fde09d7c64456b1109f9675b6dddb.ts
 40 東森戲劇台,mitv://ns2.hellotvvod.com:9906/23c5d481a1c04d8e8d01c51f5d9b17bd.ts
 41 八大戲劇台,mitv://ns2.hellotvvod.com:9906/eb2e28d7bacb477391df8f31bb517041.ts
-42 TVBS歡樂台,rtmp://219.80.97.25/sat/tv421
+42 TVBS歡樂台,rtmp://59.124.75.138:1935/sat/tv421
 43 緯來戲劇台,mitv://ns2.hellotvvod.com:9906/1341727ca5114ebaa31f8a2d6addd125.ts
 44 高點綜合,mitv://ns2.hellotvvod.com:9906/5ef7efd85dd341248e96fa68f16a59e3.ts
 45 JET 綜合台
