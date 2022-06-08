@@ -65,9 +65,9 @@
 65 HBO,mitv://ns2.hellotvvod.com:9906/75ea557adf07436aa61217f9468b54fb.ts
 66 東森洋片台,http://120.84.96.33:808/hls/33/index.m3u8
 67 AXN,mitv://ns2.hellotvvod.com:9906/7f91dfc2cae44e33946bc663d221c27c.ts
-68 好萊塢電影台,mitv://ns2.hellotvvod.com:9906/4ccf820d465e47f78f5703217cef645a.ts
+68 好萊塢電影台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6995f464-c034-4cf5-9b6a-e94ea4922ced.m3u8
 69 STAR Movies Gold
-70 CINEMAX
+70 CINEMAX,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6cf1d6f9-8057-4a4e-8eba-cd950c24f19d.m3u8
 71 緯來育樂台,rtmp://219.80.97.25/sat/tv701
 72 緯來體育台,rtmp://219.80.97.25/sat/tv721
 73 ELEVEN1,rtmp://59.124.75.138:1935/sat/tv731
@@ -157,7 +157,7 @@
 157 台視綜合台
 158 BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/9f50eef7954e4184abf891fab616cacb.ts
 159 NASA,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/NASA.m3u8
-160 星衛HD電影台,mitv://ns2.hellotvvod.com:9906/0542443a632841b5b962af8f287b7e6a.ts
+160 星衛HD電影台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/e3128db5-6ea6-4713-9b8b-78d23fbfe92a.m3u8
 161 星衛娛樂台,mitv://ns2.hellotvvod.com:9906/8f63704507ba4efe9d3bbc00e3ac302c.ts
 162 The K-POP,https://git.io/JgYAE
 163 Baby TV,http://gg.gg/HaNoiIPTV-BabyTV_HD
@@ -174,7 +174,7 @@
 174 ELTA體育2台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/a0c87361-87f0-422f-a9ba-c9d614f7fd8e.m3u8
 175 ELTA體育3台,mitv://ns2.hellotvvod.com:9906/1e5f5b63d5934513be98a24b106691ff.ts
 176 HBO HD頻道
-177 HBO強檔鉅獻Hits,mitv://ns2.hellotvvod.com:9906/2c9d5c349fef48ddb2f61ddb1b9d0282.ts
+177 HBO強檔鉅獻Hits,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/1a89cb28-80af-4fa8-86e2-b1ca69024d0a.m3u8
 178 HBO原創鉅獻,mitv://ns2.hellotvvod.com:9906/31d8b521b4644dc8867981416006391d.ts
 179 HBO溫馨家庭Family
 180 HGTV居家樂活頻道,mitv://ns2.hellotvvod.com:9906/fc0bc391b3b74fa79707bb5662269e78.ts
@@ -239,3 +239,9 @@
 239 三立綜合台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
 240 ELTA影劇,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/5bd937d8-a211-4be2-8c5c-a0fb8e62b23f.m3u8
 241 中天亞洲,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/86367931-34f8-4aa6-acb0-8fa4d577ae11.m3u8
+242 EYETV旅遊,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/b9f35b1b-8c3d-45b9-9d5f-97fa2d808ee5.m3u8
+243 EYETV戲劇,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/35d20aac-a621-438e-8cf1-8433605954c3.m3u8
+
+
+
+
