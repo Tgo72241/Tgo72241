@@ -1,7 +1,7 @@
 1 網路流行音樂電台,https://git.io/JgkA6
 2 西洋流行音樂電台,https://git.io/JgkAy
 3 猪哥亮歌廳秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
-4 公視台語台
+4 公視台語台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 5 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 6 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
 7 人間衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
@@ -214,7 +214,7 @@
 214 中天美食旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
 215 華語戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
 216 華語綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
-217 運通財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
+217 EF運通財經台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
 218 MTV POP,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 219 疾速汽車,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
 220 賽車,http://txtest-xp2p.p2p.huya.com/1447756351-1447756351-6218066180121296896-2895636158-10057-A-0-1.xs
@@ -241,7 +241,6 @@
 241 中天亞洲,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/86367931-34f8-4aa6-acb0-8fa4d577ae11.m3u8
 242 EYETV旅遊,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/b9f35b1b-8c3d-45b9-9d5f-97fa2d808ee5.m3u8
 243 EYETV戲劇,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/35d20aac-a621-438e-8cf1-8433605954c3.m3u8
-
-
-
+244 信大HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+245 信吉,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
 
