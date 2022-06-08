@@ -143,7 +143,7 @@
 143 靖天資訊,mitv://ns2.hellotvvod.com:9906/263ad3ebdf59476fa7380218b97e0f16.ts
 144 靖天綜合,mitv://ns2.hellotvvod.com:9906/93fc540288ed4f37851e42f628f7f001.ts
 145 靖天育樂,mitv://ns2.hellotvvod.com:9906/0f53200f667149658f34fb128baf1383.ts
-146 靖天國際,mitv://ns2.hellotvvod.com:9906/621636a63b57478da76618a49b53a9db.ts
+146 靖天卡通,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/8c0b6427-06c1-4818-a7ed-b0defb96981d.m3u8
 147 靖洋卡通,mitv://ns2.hellotvvod.com:9906/664d5cb7798f443b8fb104e261cd7a1a.ts
 148 靖洋戲劇,mitv://ns2.hellotvvod.com:9906/4fe5a995a2af415588d1c4516947f9a2.ts
 149 幼幼台,https://git.io/JgYON
