@@ -63,7 +63,7 @@
 63 緯來電影台,mitv://ns2.hellotvvod.com:9906/4c315afe673041a88ee8125bb9caff4a.ts
 64 LS龍祥時代,http://120.84.96.33:808/hls/35/index.m3u8
 65 HBO,mitv://ns2.hellotvvod.com:9906/75ea557adf07436aa61217f9468b54fb.ts
-66 東森洋片台,http://120.84.96.33:808/hls/33/index.m3u8
+66 東森洋片台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/cfbd4405-3f72-4aaa-80c8-fdbba94b6d2d.m3u8
 67 AXN,mitv://ns2.hellotvvod.com:9906/7f91dfc2cae44e33946bc663d221c27c.ts
 68 好萊塢電影台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6995f464-c034-4cf5-9b6a-e94ea4922ced.m3u8
 69 STAR Movies Gold
