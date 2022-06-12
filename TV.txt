@@ -69,12 +69,12 @@
 69 STAR Movies Gold
 70 CINEMAX,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6cf1d6f9-8057-4a4e-8eba-cd950c24f19d.m3u8
 71 緯來育樂台,rtmp://219.80.97.25/sat/tv701
-72 緯來體育台,rtmp://219.80.97.25/sat/tv721
+72 緯來體育台,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=105
 73 ELEVEN1,rtmp://59.124.75.138:1935/sat/tv731
-74 ELEVEN2,rtmp://219.80.97.25/sat/tv741
+74 ELEVEN2,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=109
 75 MOMO綜合台,rtmp://219.80.97.25/sat/tv761
 76 博斯運動 I,mitv://ns2.hellotvvod.com:9906/c6bec0d071b841bcbe97b08b6fdfacba.ts
-77 緯來日本,rtmp://219.80.97.25/sat/tv771
+77 緯來日本,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=106
 78 國興衛視,mitv://ns2.hellotvvod.com:9906/a27ba50463934339bea55b098fd10d3e.ts
 79 CMusic,mitv://ns2.hellotvvod.com:9906/32c742738d3949a99963fe5d59613326.ts
 80 中台灣生活網頻道,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
