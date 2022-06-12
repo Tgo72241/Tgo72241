@@ -165,14 +165,14 @@
 165 HITS,mitv://ns2.hellotvvod.com:9906/91f370e752c44d94b8a516ca9054e994.ts
 166 達文西頻道,mitv://ns2.hellotvvod.com:9906/73fb4c16983c472bb5c7a6946dd30f6d.ts
 167 紅牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-168 歐洲體育,mitv://ns2.hellotvvod.com:9906/5e78c68dee1d4713952f2d0e394b307b.ts
+168 歐洲體育,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/44c722266b94b6b6e42f1484db3ca916/0/82e20ab4-21dc-4a35-94f2-0f5562652f06.m3u8
 169 Eurosport 1,http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
-170 WWE,mitv://ns2.hellotvvod.com:9906/a5af33cc1f7443c59e8696aaf471ad2e.ts
-171 Love Nature,mitv://ns2.hellotvvod.com:9906/910e573ddce94ce6867253c6ff9cb067.ts
+170 Eurosport 2,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/44c722266b94b6b6e42f1484db3ca916/0/b60bdfe9-5ca7-4c77-be5b-866437bc241b.m3u8
+171 WWE
 172 CinemaWorld,mitv://ns2.hellotvvod.com:9906/f3b186675b7d4cc994370eb997aaf612.ts
 173 ELTA體育1台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/7/c833577a-7377-4930-8da1-1f9571c4d0eb.m3u8
 174 ELTA體育2台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/a0c87361-87f0-422f-a9ba-c9d614f7fd8e.m3u8
-175 ELTA體育3台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=112
+175 ELTA體育3台,rtmp://59.124.75.138/sat/md011
 176 HBO HD頻道
 177 HBO強檔鉅獻Hits,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/1a89cb28-80af-4fa8-86e2-b1ca69024d0a.m3u8
 178 HBO原創鉅獻,mitv://ns2.hellotvvod.com:9906/31d8b521b4644dc8867981416006391d.ts
