@@ -8,40 +8,40 @@
 8 台視,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/fa9c215a-4fbe-48c8-8264-42a72ab6e2b4.m3u8
 9 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 10 中視,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/2cc71359-2456-443d-8ddc-d9cf86fd8f39.m3u8
-11 霹靂台灣台,mitv://ns2.hellotvvod.com:9906/3f424585fa2f49408f94254e9ca0eae3.ts
+11 霹靂台灣台
 12 華視,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/9e556711-5918-49ec-bdc9-1837e9f4bc48.m3u8
 13 公視,http://twxui.dyndns.tv:9991/gshd
 14 金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
 15 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 16 原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 17 客家電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
-18 國家地理,http://220.134.196.147:9509/index.m3u8
-19 Discovery,mitv://ns2.hellotvvod.com:9906/53f1b40e94ec4acd85fe317ff18b44d4.ts
+18 國家地理
+19 Discovery
 20 TLC 旅遊生活
-21 動物星球,mitv://ns2.hellotvvod.com:9906/e1c1fc8ca1a849abbadec2974bf461c7.ts
+21 動物星球
 22 CN卡通頻道,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/1ef6144e-d443-4346-be45-788442b24cc3.m3u8
-23 尼克兒童頻道,mitv://ns2.hellotvvod.com:9906/95317efaec2c439d9715c94ca0e73145.ts
-24 MoMo親子台,mitv://ns2.hellotvvod.com:9906/4e5c123cf1024951816fe67e61d49493.ts
+23 尼克兒童頻道
+24 MoMo親子台
 25 東森幼幼台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6f0752d1-787f-413d-abe2-f595bb0c55e3.m3u8
-26 緯來綜合,mitv://ns2.hellotvvod.com:9906/610474f1951f40e0b94b950a140878ea.ts
+26 緯來綜合
 27 八大第一台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6bb0001a-0201-4ae2-809d-c83e5e3e19f2.m3u8
 28 八大綜合,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/0fdd4afc-c155-4164-8baa-b50c4488402d.m3u8
 29 三立台灣台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/ab7c868d-3788-4bfa-8352-930399e5c78a.m3u8
-30 三立都會台,mitv://ns2.hellotvvod.com:9906/d35c3c66a2394d9a8e34beaafc32c6d4.ts
-31 衛視中文台,mitv://ns2.hellotvvod.com:9906/cb34596f236a4c85a9718367df9e9c9d.ts
-32 東森綜合台,http://220.134.196.147:9524/index.m3u8
-33 東森超視,rtmp://219.80.97.25/sat/tv331
+30 三立都會台
+31 衛視中文台
+32 東森綜合台
+33 東森超視,rtmp://59.124.75.138:1935/sat/tv331
 34 東森購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 35 momo購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 36 中天綜合,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/4026260e-ec58-4e70-9083-7b632257880b.m3u8
 37 東風37
-38 年代MUCH台,http://58.99.33.2:1935/liveedge2/YmfUAQFP_38_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NEW
+38 年代MUCH台
 39 中天娛樂台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/308d8d9f-38ec-498c-a0f9-127127f03e78.m3u8
 40 東森戲劇台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/c9ad5922-8313-4c42-a327-174544661402.m3u8
-41 八大戲劇台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/1/b9681578-eb3b-45c4-b3e5-5f51c8daf2d4.m3u8
+41 八大戲劇台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/fd6c3f009f3b6dd84fba624c3af4876b/4/b9681578-eb3b-45c4-b3e5-5f51c8daf2d4.m3u8
 42 TVBS歡樂台,rtmp://59.124.75.138:1935/sat/tv421
-43 緯來戲劇台,mitv://ns2.hellotvvod.com:9906/1341727ca5114ebaa31f8a2d6addd125.ts
-44 高點綜合,mitv://ns2.hellotvvod.com:9906/5ef7efd85dd341248e96fa68f16a59e3.ts
+43 緯來戲劇台
+44 高點綜合
 45 JET 綜合台
 46 東森購物3台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174	
 47 東森購物1台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
@@ -51,62 +51,62 @@
 51 東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
 52 華視新聞資訊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
 53 民視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
-54 三立新聞,mitv://ns2.hellotvvod.com:9906/684783b8b2184ee486966066ecfb276c.ts
+54 三立新聞
 55 TVBS新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-56 TVBS,mitv://ns2.hellotvvod.com:9906/8676c2405993453c9d41d4014d3a7481.ts
+56 TVBS
 57 東森財經新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
 58 非凡新聞,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/253c4f77-5b43-4793-a186-dd8b88edc903.m3u8
 59 viva美好購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 60 中天新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
-61 衛視電影台,mitv://ns2.hellotvvod.com:9906/48e5078c3a954232a6d182ece9409eb7.ts
+61 衛視電影台
 62 東森電影台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/55d60885-3825-4600-8a5c-1427ceae2aa6.m3u8
-63 緯來電影台,mitv://ns2.hellotvvod.com:9906/4c315afe673041a88ee8125bb9caff4a.ts
-64 LS龍祥時代,http://120.84.96.33:808/hls/35/index.m3u8
-65 HBO,mitv://ns2.hellotvvod.com:9906/75ea557adf07436aa61217f9468b54fb.ts
+63 緯來電影台
+64 LS龍祥時代
+65 HBO
 66 東森洋片台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/cfbd4405-3f72-4aaa-80c8-fdbba94b6d2d.m3u8
-67 AXN,mitv://ns2.hellotvvod.com:9906/7f91dfc2cae44e33946bc663d221c27c.ts
+67 AXN
 68 好萊塢電影台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6995f464-c034-4cf5-9b6a-e94ea4922ced.m3u8
-69 STAR Movies Gold
+69 STAR World
 70 CINEMAX,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6cf1d6f9-8057-4a4e-8eba-cd950c24f19d.m3u8
 71 緯來育樂台,rtmp://59.124.75.138:1935/sat/tv701
-72 緯來體育台,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=105#rtmp://59.124.75.138:1935/sat/tv721
+72 緯來體育台,rtmp://59.124.75.138:1935/sat/tv721
 73 ELEVEN1,rtmp://59.124.75.138:1935/sat/tv731
 74 ELEVEN2,rtmp://59.124.75.138:1935/sat/tv741
-75 MOMO綜合台,rtmp://219.80.97.25/sat/tv761
-76 博斯運動 I,mitv://ns2.hellotvvod.com:9906/c6bec0d071b841bcbe97b08b6fdfacba.ts
+75 MOMO綜合台,rtmp://59.124.75.138:1935/sat/tv761
+76 博斯運動 I
 77 緯來日本,rtmp://59.124.75.138:1935/sat/tv771
-78 國興衛視,mitv://ns2.hellotvvod.com:9906/a27ba50463934339bea55b098fd10d3e.ts
-79 CMusic,mitv://ns2.hellotvvod.com:9906/32c742738d3949a99963fe5d59613326.ts
+78 國興衛視
+79 信吉,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
 80 中台灣生活網頻道,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-81 Animax,mitv://ns2.hellotvvod.com:9906/47b8321da3884ef2990da7d870dcb770.ts
+81 Animax
 82 鏡新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
-83 MTV,mitv://ns2.hellotvvod.com:9906/5e1eaccb46e9499a92f59e59c490d9a7.ts
+83 MTV
 84 momo,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 85 東森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 86 Z頻道,p2p://ns2.hellotvvod.com:9906/da6d6450a3b14c9aad2ac1b8387f6858.ts
 87 ELTA生活旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
 88 八大娛樂台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/ed74ad55-42d2-4613-b235-944683886177.m3u8
 89 三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
-90 非凡商業台,mitv://ns2.hellotvvod.com:9906/d6aa5577e7554c5db9d6a3a37a224386.ts
+90 非凡商業台
 91 幸福空間居家台,https://git.io/JgYYF
-92 歷史HISTORY,mitv://ns2.hellotvvod.com:9906/dfdf1d8bf3744dd5987ed55f7a52d146.ts
-93 公視3,mitv://ns2.hellotvvod.com:9906/88e93a14d9d94a3e98bd84a38913f9ec.ts
-94 NBA動態,mitv://ns2.hellotvvod.com:9906/13cef6263e5c4c6b8d318a749bd87104.ts
+92 歷史HISTORY
+93 公視3
+94 NBA動態
 95 南投新聞,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 96 孝廉電視台,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
-97 SPOTV,mitv://ns2.hellotvvod.com:9906/139cf56905c24e66907fff5a464883d2.ts
-98 SPOTV 2,mitv://ns2.hellotvvod.com:9906/8f20e75dda6c48de94343c043c53450d.ts
+97 SPOTV
+98 SPOTV 2
 99 生命台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
-100 LifeTime,mitv://ns2.hellotvvod.com:9906/719f0ef992c843f8bcb9977c701e0343.ts
+100 LifeTime
 101 公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
-102 歷史H2,mitv://ns2.hellotvvod.com:9906/4b1a747fa84f404ea416e5b758cb8525.ts
-103 EVE,mitv://ns2.hellotvvod.com:9906/fcf34965b37f4e05a23ffe9ab314b967.ts
+102 歷史H2
+103 EVE
 104 ELEVEN3,http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 105 佛衛慈悲台,http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8?fbclid=IwAR0tOOH5nMOCvkCFTXbHgyO6P95nuOS3MNCfYDflXYkqsUVGfApmPOLWeR0
 106 法國TV5電視台,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 107 德國之聲電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 108 美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
-109 NHK新聞,mitv://ns2.hellotvvod.com:9906/f48b6fbf3a2e4e5da782ae835bd0fc3a.ts
+109 NHK新聞
 110 Arirang TV,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/Arirang.m3u8
 111 番薯電視台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 112 SBN全球財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
@@ -130,81 +130,81 @@
 130 唯心電視台,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 131 民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
 132 民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
-133 Ci罪案偵緝,mitv://ns2.hellotvvod.com:9906/8f3a8581c6924b9b919c157b6e6b5613.ts
-134 中視經典台,mitv://ns2.hellotvvod.com:9906/bbfa77b17dce4521a1ecc2e8db10d0f4.ts
+133 Ci罪案偵緝
+134 中視經典台
 135 龍華戲劇,http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 136 龍華偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 137 龍華日韓,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 138 龍華經典,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/848ebbde-2508-4567-b7b1-a0155c27c2c6.m3u8
-139 靖天歡樂,mitv://ns2.hellotvvod.com:9906/95f07c5040c14ae890adc21e2bd92d37.ts
-140 靖天戲劇,mitv://ns2.hellotvvod.com:9906/587b32aa46ee41a4a43335045be79034.ts
-141 靖天電影,mitv://ns2.hellotvvod.com:9906/1a0fd7b6170841dc828a63854cdab358.ts
-142 靖天日本台,mitv://ns2.hellotvvod.com:9906/e7713d137980443191b03e865e5777e1.ts
-143 靖天資訊,mitv://ns2.hellotvvod.com:9906/263ad3ebdf59476fa7380218b97e0f16.ts
-144 靖天綜合,mitv://ns2.hellotvvod.com:9906/93fc540288ed4f37851e42f628f7f001.ts
-145 靖天育樂,mitv://ns2.hellotvvod.com:9906/0f53200f667149658f34fb128baf1383.ts
+139 靖天歡樂
+140 靖天戲劇
+141 靖天電影
+142 靖天日本台
+143 靖天資訊
+144 靖天綜合
+145 靖天育樂
 146 靖天卡通,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/8c0b6427-06c1-4818-a7ed-b0defb96981d.m3u8
-147 靖洋卡通,mitv://ns2.hellotvvod.com:9906/664d5cb7798f443b8fb104e261cd7a1a.ts
-148 靖洋戲劇,mitv://ns2.hellotvvod.com:9906/4fe5a995a2af415588d1c4516947f9a2.ts
+147 靖洋卡通
+148 靖洋戲劇
 149 幼幼台,https://git.io/JgYON
 150 時尚運動Ｘ,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
 151 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
 152 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
-153 中視菁采台,mitv://ns2.hellotvvod.com:9906/3ac41c9e546c4e68af75ff51e0b45eb4.ts
+153 中視菁采台
 154 中視新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 155 台視新聞,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/8153b94d-cbd9-49e8-a105-45a5fed98f84.m3u8
-156 台視財經,mitv://ns2.hellotvvod.com:9906/a3240bb0fe124d2ab7b15d511d701cb8.ts
+156 台視財經
 157 台視綜合台
-158 BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/9f50eef7954e4184abf891fab616cacb.ts
+158 BBC Lifestyle
 159 NASA,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/NASA.m3u8
 160 星衛HD電影台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/e3128db5-6ea6-4713-9b8b-78d23fbfe92a.m3u8
-161 星衛娛樂台,mitv://ns2.hellotvvod.com:9906/8f63704507ba4efe9d3bbc00e3ac302c.ts
+161 星衛娛樂台
 162 The K-POP,https://git.io/JgYAE
 163 Baby TV,http://gg.gg/HaNoiIPTV-BabyTV_HD
 164 CBeebies,https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
-165 HITS,mitv://ns2.hellotvvod.com:9906/91f370e752c44d94b8a516ca9054e994.ts
-166 達文西頻道,mitv://ns2.hellotvvod.com:9906/73fb4c16983c472bb5c7a6946dd30f6d.ts
+165 HITS
+166 達文西頻道
 167 紅牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 168 歐洲體育,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/44c722266b94b6b6e42f1484db3ca916/0/82e20ab4-21dc-4a35-94f2-0f5562652f06.m3u8
 169 Eurosport 1,http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 170 Eurosport 2,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/44c722266b94b6b6e42f1484db3ca916/0/b60bdfe9-5ca7-4c77-be5b-866437bc241b.m3u8
 171 WWE,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/44c722266b94b6b6e42f1484db3ca916/0/e9d34cb5-1f24-434b-8768-66a0fbc3c80a.m3u8
-172 CinemaWorld,mitv://ns2.hellotvvod.com:9906/f3b186675b7d4cc994370eb997aaf612.ts
+172 CinemaWorld
 173 ELTA體育1台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/7/c833577a-7377-4930-8da1-1f9571c4d0eb.m3u8
 174 ELTA體育2台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/a0c87361-87f0-422f-a9ba-c9d614f7fd8e.m3u8
 175 ELTA體育3台,rtmp://59.124.75.138/sat/md011
 176 HBO HD頻道
 177 HBO強檔鉅獻Hits,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/1a89cb28-80af-4fa8-86e2-b1ca69024d0a.m3u8
-178 HBO原創鉅獻,mitv://ns2.hellotvvod.com:9906/31d8b521b4644dc8867981416006391d.ts
+178 HBO原創鉅獻
 179 HBO溫馨家庭Family
-180 HGTV居家樂活頻道,mitv://ns2.hellotvvod.com:9906/fc0bc391b3b74fa79707bb5662269e78.ts
-181 Star Movies,mitv://ns2.hellotvvod.com:9906/fa446f003f054e4f83ceca2daf3d4b92.ts
-182 亞洲美食頻道,mitv://ns2.hellotvvod.com:9906/619be40d5bb5431ab151c1cedcb64866.ts
+180 HGTV居家樂活頻道
+181 Star Movies
+182 亞洲美食頻道
 183 亞洲旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
-184 Discovery Asia,mitv://ns2.hellotvvod.com:9906/8639fef6fcd8406283b74198a54d1738.ts
-185 Discovery科學頻道,mitv://ns2.hellotvvod.com:9906/2d27efcb3f4c40968ddc552a2aa79ac1.ts
-186 tvN,http://128.14.50.198:8880/m3u8/evqR4SrjhDkkThBGo1aHXbXSJmEuwZ1V5Z4uIlRXoeDw4KsgYEZwBqBcaz69-jl6TiHBmFugH9BCsBRQZdUotA
-187 韓國娛樂台KMTV,http://128.14.50.198:8880/m3u8/ildcCCRHDBXDIgAToJemIpI3ImLbP48lTvpwAcMbs_PW22dDU94qkfDYmhBUiV1hL8N5FwrwPsMvD4MhWe03-w
-188 Nick Jr.,http://128.14.50.198:8880/m3u8/NPrKqKYa8R5lPflit29ynEQI96fPpRYBJpX5qnfeKRCJ9jGk7GEL3oS7rRVqJel_SqNdkSboYgxYX4OKcHYc5A
-189 華納Warner TV,mitv://ns2.hellotvvod.com:9906/7b91facd11134b7095917ac5f0402711.ts
-190 Food Network美食台,mitv://ns2.hellotvvod.com:9906/00b9dfd8a9b14d969686d9ef092e265c.ts
-191 Travel Channel,http://128.14.50.198:8880/m3u8/jzVCzZvwZKMvbOw25j9E5ACjazax0Wmeal_pYdPYBX-ptvq7tNjECK3wPH9LVkaQ8GmgVUSqqRVy4iG4_0R3WQ
+184 Discovery Asia
+185 Discovery科學頻道
+186 tvN
+187 韓國娛樂台KMTV
+188 Nick Jr.
+189 華納Warner TV
+190 Food Network美食台
+191 Travel Channel
 192 寰宇新聞台,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
-193 TV5法式生活頻道,mitv://ns2.hellotvvod.com:9906/aa776aa3c41441d4b7a8d57ee5ea7571.ts
-194 CLASSICA 古典樂,mitv://ns2.hellotvvod.com:9906/f8a91d76248e443c8847fae81887888d.ts
-195 DMAX,http://128.14.50.198:8880/m3u8/ZyTTmKKzcKp1nXAUjxPF0e7N6EiQ2Al0KD5CX38ZYjO4wGyb81EC1dcYqo4WbX4H0RkQE9S0_YrOsZrlLJVIkg
-196 CATCHPLAY電影台,mitv://ns2.hellotvvod.com:9906/2b42588414e34374ae4a92e73e38d0df.ts
-197 AMC最愛電影,mitv://ns2.hellotvvod.com:9906/6e97e38cd04648c0b6914dab05e984f3.ts
-198 BBC Earth,mitv://ns2.hellotvvod.com:9906/594be9e29b4043f0ac0f63f9fda1891e.ts
-199 緯來精采,mitv://ns2.hellotvvod.com:9906/98d2d2e64b1746a2bb54c6094e352567.ts
-200 公視3,http://128.14.50.198:8880/m3u8/DrhKUhz_DawJNZgpPCZxHOMRcfdRqdlYgLG3_YAx6YtLgpvY8lzYDqRu7ESwKj8paj46HxO1bIVy7i6j01fybg
-201 博斯高球台,http://128.14.50.198:8880/m3u8/3KuT8sNsPlBYkaSmA8B0pkdOok-gjHXVMeMll9VcPAWkUqYFyM50IiGITW6z0yZAYMeKciYi5M1gUayQFRA8ow
-202 博斯高球2台,http://128.14.50.198:8880/m3u8/Q-Fg86n4ivkyYQN6852TfylodGshUC4KUTzl74r5x0j8z67mkNUV2AviZJq2SFiGgs6AogVu1DC2rqgy417zVA
-203 博斯網球台,http://128.14.50.198:8880/m3u8/R5flHwepiS0GwQ6TeYCMVOIpJ-LUo6ObmNeKGgDnoK5V1DBpH78N2AkYVMFVCBrEIRpNbRq1__dRCB26oSzqLQ
-204 博斯魅力台,http://128.14.50.198:8880/m3u8/fpoi7pjDP0xoIMvp4OqGVZyd11oO0ElI1uQeTDfknoYwfzA6l6VrTTueSyaLk-raeioPNmG0HmxOxu_7r6nzpw
-205 博斯運動II,http://128.14.50.198:8880/m3u8/FAF1b085bdnqDJfxYFIrG7cQIbwhGX49853TxkTM1Nys3sdEmhh8JaWcNoKMkt_qtwQMq4rC4NPBhnd7Pr9lQw
-206 博斯無限台,http://128.14.50.198:8880/m3u8/v5piz3zF5zphvxosYQpqaWT-mJhTMVGe6LYnM2_euRbZ_CpjmiJhKiq9plp7AbN-oEnw59a3kL9i6_Es8cv4qQ
-207 博斯無限台II,p2p://ns2.hellotvvod.com:9906/05648d7433be4d09bbda906da11c1a84.ts
+193 TV5法式生活頻道
+194 CLASSICA 古典樂
+195 DMAX
+196 CATCHPLAY電影台
+197 AMC最愛電影
+198 BBC Earth
+199 緯來精采
+200 公視3
+201 博斯高球台
+202 博斯高球2台
+203 博斯網球台
+204 博斯魅力台
+205 博斯運動II
+206 博斯無限台
+207 博斯無限台II
 208 精選動漫,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
 209 經典卡通,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
 210 經典電影,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
@@ -219,28 +219,28 @@
 219 疾速汽車,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
 220 賽車,http://txtest-xp2p.p2p.huya.com/1447756351-1447756351-6218066180121296896-2895636158-10057-A-0-1.xs
 221 摩托車,http://txtest-xp2p.p2p.huya.com/1099531728928-1099531728928-86333790451924992-2199063581312-10057-A-0-1.xs
-222 MTV Live,mitv://ns2.hellotvvod.com:9906/7c27e4e9f495427986b87f23c4426cbc.ts
-223 Mezzo Live,mitv://ns2.hellotvvod.com:9906/13974c3b753a4b7fa240d7c8697235a7.ts
-224 地理人文,mitv://ns2.hellotvvod.com:9906/a0ae74df367245b4a57229832487ee4e.ts
+222 MTV Live
+223 Mezzo Live
+224 地理人文
 225 好消息國度報導,https://vod.streamingfast.net/hls-vod/video/1200k/NW1A0180_1200k.mp4.m3u8
 226 AUTOMOTO TV,http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 227 海豚綜合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 228 東森LIVE,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 229 ELTV生活英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
-230 采昌影劇,mitv://ns2.hellotvvod.com:9906/9cdd18a45e9744a69450580b4f8afa79.ts
-231 影迷數位電影,mitv://ns2.hellotvvod.com:9906/02351070157d4a33b49a516e4b5b10ca.ts
-232 爆谷星影台,mitv://ns2.hellotvvod.com:9906/abdd87ae723043f7818b0d79abfab519.ts
-233 爆谷台,mitv://ns2.hellotvvod.com:9906/838952ce5f60497e967f718141a741db.ts
-234 J Sports 1,mitv://ns2.hellotvvod.com:9906/e71d2760e0404cc889cd3e79bb1099d5.ts
-235 J Sports 2,mitv://ns2.hellotvvod.com:9906/d8c0f91875f54c2e86eccd45b505b9b8.ts
-236 J Sports 3,mitv://ns2.hellotvvod.com:9906/8804d91776ad460997cc2eb03dce7ad0.ts
-237 J Sports 4,mitv://ns2.hellotvvod.com:9906/35fe178bbdb84df09ee45244f2e75e84.ts
-238 Music Japan,mitv://ns2.hellotvvod.com:9906/24424ee5d30042c48c6aae10f1b6ec08.ts
+230 采昌影劇
+231 影迷數位電影
+232 爆谷星影台
+233 爆谷台
+234 J Sports 1
+235 J Sports 2
+236 J Sports 3
+237 J Sports 4
+238 信大HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 239 三立綜合台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
 240 ELTA影劇,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/5bd937d8-a211-4be2-8c5c-a0fb8e62b23f.m3u8
-241 中天亞洲,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/86367931-34f8-4aa6-acb0-8fa4d577ae11.m3u8
-242 EYETV旅遊,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/b9f35b1b-8c3d-45b9-9d5f-97fa2d808ee5.m3u8
+241 中天亞洲,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/86367931-34f8-4aa6-acb0-8fa4d577ae11.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+242 EYETV旅遊
 243 EYETV戲劇,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/35d20aac-a621-438e-8cf1-8433605954c3.m3u8
-244 信大HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-245 信吉,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+
+
 
