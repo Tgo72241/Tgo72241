@@ -71,7 +71,7 @@
 71 緯來育樂台,rtmp://59.124.75.138:1935/sat/tv701
 72 緯來體育台,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=105#rtmp://59.124.75.138:1935/sat/tv721
 73 ELEVEN1,rtmp://59.124.75.138:1935/sat/tv731
-74 ELEVEN2,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=109
+74 ELEVEN2,rtmp://59.124.75.138:1935/sat/tv741
 75 MOMO綜合台,rtmp://219.80.97.25/sat/tv761
 76 博斯運動 I,mitv://ns2.hellotvvod.com:9906/c6bec0d071b841bcbe97b08b6fdfacba.ts
 77 緯來日本,rtmp://59.124.75.138:1935/sat/tv771
