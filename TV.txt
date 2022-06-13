@@ -8,7 +8,7 @@
 8 台視,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/fa9c215a-4fbe-48c8-8264-42a72ab6e2b4.m3u8
 9 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 10 中視,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/2cc71359-2456-443d-8ddc-d9cf86fd8f39.m3u8
-11 霹靂台灣台
+11 霹靂台灣台,mitv://ns2.hellotvvod.com:9906/1d335adddeaf453e9ec8c8e633d1a485
 12 華視,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/9e556711-5918-49ec-bdc9-1837e9f4bc48.m3u8
 13 公視,http://twxui.dyndns.tv:9991/gshd
 14 金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
@@ -16,19 +16,19 @@
 16 原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 17 客家電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
 18 國家地理
-19 Discovery
-20 TLC 旅遊生活
-21 動物星球
-22 CN卡通頻道,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/1ef6144e-d443-4346-be45-788442b24cc3.m3u8
-23 尼克兒童頻道
-24 MoMo親子台
-25 東森幼幼台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6f0752d1-787f-413d-abe2-f595bb0c55e3.m3u8
-26 緯來綜合
-27 八大第一台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6bb0001a-0201-4ae2-809d-c83e5e3e19f2.m3u8
-28 八大綜合,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/0fdd4afc-c155-4164-8baa-b50c4488402d.m3u8
-29 三立台灣台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/ab7c868d-3788-4bfa-8352-930399e5c78a.m3u8
-30 三立都會台
-31 衛視中文台
+19 Discovery,mitv://ns2.hellotvvod.com:9906/4ac9b4da15e74a39a6586889b9fa6425#http://iptv12k.com:35461/live/test167/12345/1231.m3u8
+20 TLC 旅遊生活,http://iptv12k.com:35461/live/test167/12345/1244.m3u8
+21 動物星球,mitv://ns2.hellotvvod.com:9906/fbb0d320127b41539f441afae6d7087a
+22 CN卡通頻道,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/1ef6144e-d443-4346-be45-788442b24cc3.m3u8#mitv://ns2.hellotvvod.com:9906/e8e472c997d14ff3a2ad261df5eecf67
+23 尼克兒童頻道,mitv://ns2.hellotvvod.com:9906/c156a076f388408eb24ec0b3507c0921
+24 momo親子台,mitv://ns2.hellotvvod.com:9906/05836ce8d0a04ee09f3dea234121795d,http://iptv12k.com:35461/live/test167/12345/1209.m3u8
+25 東森幼幼台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6f0752d1-787f-413d-abe2-f595bb0c55e3.m3u8##mitv://ns2.hellotvvod.com:9906/ad23f70c06c949a1965397b0a7563275
+26 緯來綜合,mitv://ns2.hellotvvod.com:9906/c5aff23843324399a88a42deb460480c#http://iptv12k.com:35461/live/test167/12345/1240.m3u8
+27 八大第一台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6bb0001a-0201-4ae2-809d-c83e5e3e19f2.m3u8#mitv://ns2.hellotvvod.com:9906/b1615bf0d6584087aa31727a7d0bbc10
+28 八大綜合,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/0fdd4afc-c155-4164-8baa-b50c4488402d.m3u8#mitv://ns2.hellotvvod.com:9906/f1d887108423433dbe7a1be6cc8c72e4
+29 三立台灣台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/ab7c868d-3788-4bfa-8352-930399e5c78a.m3u8#mitv://ns2.hellotvvod.com:9906/3d0ed19ada54446c9b050be6b586b192
+30 三立都會台,mitv://ns2.hellotvvod.com:9906/6aa1515692f84f3f8853227d883bd00b
+31 衛視中文台,mitv://ns2.hellotvvod.com:9906/9e5586a4674f4413a21059ca6e3830ba
 32 東森綜合台
 33 東森超視,rtmp://59.124.75.138:1935/sat/tv331
 34 東森購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
@@ -221,7 +221,7 @@
 221 摩托車,http://txtest-xp2p.p2p.huya.com/1099531728928-1099531728928-86333790451924992-2199063581312-10057-A-0-1.xs
 222 MTV Live
 223 Mezzo Live
-224 地理人文
+224 地理人文,mitv://ns2.hellotvvod.com:9906/acb183e8cca144be844fc9f224db3d14
 225 好消息國度報導,https://vod.streamingfast.net/hls-vod/video/1200k/NW1A0180_1200k.mp4.m3u8
 226 AUTOMOTO TV,http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 227 海豚綜合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
