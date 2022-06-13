@@ -29,7 +29,7 @@
 29 三立台灣台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/ab7c868d-3788-4bfa-8352-930399e5c78a.m3u8#mitv://ns2.hellotvvod.com:9906/3d0ed19ada54446c9b050be6b586b192
 30 三立都會台,mitv://ns2.hellotvvod.com:9906/6aa1515692f84f3f8853227d883bd00b
 31 衛視中文台,mitv://ns2.hellotvvod.com:9906/9e5586a4674f4413a21059ca6e3830ba
-32 東森綜合台
+32 東森綜合台,mitv://ns2.hellotvvod.com:9906/5f486fe91c774bd6ba23d9234f4815ee
 33 東森超視,rtmp://59.124.75.138:1935/sat/tv331
 34 東森購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 35 momo購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
@@ -38,10 +38,10 @@
 38 年代MUCH台
 39 中天娛樂台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/308d8d9f-38ec-498c-a0f9-127127f03e78.m3u8
 40 東森戲劇台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/c9ad5922-8313-4c42-a327-174544661402.m3u8
-41 八大戲劇台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/fd6c3f009f3b6dd84fba624c3af4876b/4/b9681578-eb3b-45c4-b3e5-5f51c8daf2d4.m3u8
+41 八大戲劇台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/fd6c3f009f3b6dd84fba624c3af4876b/4/b9681578-eb3b-45c4-b3e5-5f51c8daf2d4.m3u8#mitv://ns2.hellotvvod.com:9906/a9a36868d5214eed87abde535cb8ad9c
 42 TVBS歡樂台,rtmp://59.124.75.138:1935/sat/tv421
-43 緯來戲劇台
-44 高點綜合
+43 緯來戲劇台,mitv://ns2.hellotvvod.com:9906/403ca25e37694cfabac66979b9658a36
+44 高點綜合,mitv://ns2.hellotvvod.com:9906/17767d205cfa4e67afaef5c3fdfab332
 45 JET 綜合台
 46 東森購物3台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174	
 47 東森購物1台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
@@ -52,8 +52,8 @@
 52 華視新聞資訊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
 53 民視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
 54 三立新聞
-55 TVBS新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-56 TVBS
+55 TVBS新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129#mitv://ns2.hellotvvod.com:9906/319f75ba607b4106ae311c44b6a94e50#http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/c772bec8-0cf3-4f31-b9b4-86511166bc99.m3u8
+56 TVBS,mitv://ns2.hellotvvod.com:9906/d80042372b264a7285bcb4a0d8895af9
 57 東森財經新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
 58 非凡新聞,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/253c4f77-5b43-4793-a186-dd8b88edc903.m3u8
 59 viva美好購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
