@@ -66,7 +66,7 @@
 66 東森洋片台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/cfbd4405-3f72-4aaa-80c8-fdbba94b6d2d.m3u8#mitv://ns2.hellotvvod.com:9906/c63744806af4498a97cdcc81389f3b4e
 67 AXN,mitv://ns2.hellotvvod.com:9906/55f279fb6d714ba6babd744e96e3008a
 68 好萊塢電影台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6995f464-c034-4cf5-9b6a-e94ea4922ced.m3u8#mitv://ns2.hellotvvod.com:9906/7d23046e5e954a3aa51e619cef71deea
-69 STAR World
+69 STAR World,mitv://ns2.hellotvvod.com:9906/ad5578a582c34fec8d882770e2a79f94
 70 CINEMAX,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6cf1d6f9-8057-4a4e-8eba-cd950c24f19d.m3u8
 71 緯來育樂台,rtmp://59.124.75.138:1935/sat/tv701#mitv://ns2.hellotvvod.com:9906/6ffe8ba69d924456a2c9447d4e87f81a
 72 緯來體育台,rtmp://59.124.75.138:1935/sat/tv721#mitv://ns2.hellotvvod.com:9906/a09cfc3c8e454635a7f661daff272171
@@ -78,7 +78,7 @@
 78 國興衛視,mitv://ns2.hellotvvod.com:9906/c840ffbb1f5248659607460c784a4268
 79 信吉,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
 80 中台灣生活網頻道,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-81 Animax,mitv://ns2.hellotvvod.com:9906/e1c068f658a84fd881d850e42cfb7ce3
+81 Animax,mitv://ns2.hellotvvod.com:9906/e1c068f658a84fd881d850e42cfb7ce3#http://220.134.196.147:9526/http/116.50.42.18:8081/hls/70/812/ch39.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 82 鏡新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268#mitv://ns2.hellotvvod.com:9906/afbbd4d09aeb44db915b3bd48ca52275
 83 MTV,mitv://ns2.hellotvvod.com:9906/9f7e10280c0243d38511db9dd4a7d701
 84 momo,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
@@ -250,4 +250,16 @@
 250 八大優頻道,mitv://ns2.hellotvvod.com:9906/b7084a54e4654f799f81db48a795cf07
 251 ROCK Extreme,mitv://ns2.hellotvvod.com:9906/e4fa89ecf1cc4670be7b2a3f0bf9dd28
 252 壹電影,mitv://ns2.hellotvvod.com:9906/a9f4d08703db48f986f17a3068a5f05d
-253 Dreamworks,mitv://ns2.hellotvvod.com:9906/4f7a8def8f574982afae4ac980eeefd0
+253 壹綜合,mitv://ns2.hellotvvod.com:9906/359b47ce2c954a41b572bab8e672742c
+254 Dreamworks,mitv://ns2.hellotvvod.com:9906/4f7a8def8f574982afae4ac980eeefd0
+255 Thrill,mitv://ns2.hellotvvod.com:9906/e317bb9e43164d998b73544816d97d92
+256 TRACE Sport Stars,mitv://ns2.hellotvvod.com:9906/902fa006b6be4fdbbffe6285916c6eef
+257 TVBS精采台,mitv://ns2.hellotvvod.com:9906/26665ffc1efb446e9d8e5739ea5cecb9
+258 ETtoday綜合台,mitv://ns2.hellotvvod.com:9906/63cde357b65f4a5fadf352c2c6e8f3de
+259 三立戲劇台,mitv://ns2.hellotvvod.com:9906/92d31152a1e947ec85631bd844176f33
+
+
+
+
+
+
