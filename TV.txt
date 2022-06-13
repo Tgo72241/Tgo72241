@@ -23,7 +23,7 @@
 23 尼克兒童頻道,mitv://ns2.hellotvvod.com:9906/c156a076f388408eb24ec0b3507c0921
 24 momo親子台,mitv://ns2.hellotvvod.com:9906/05836ce8d0a04ee09f3dea234121795d,http://iptv12k.com:35461/live/test167/12345/1209.m3u8
 25 東森幼幼台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6f0752d1-787f-413d-abe2-f595bb0c55e3.m3u8##mitv://ns2.hellotvvod.com:9906/ad23f70c06c949a1965397b0a7563275
-26 緯來綜合,mitv://ns2.hellotvvod.com:9906/c5aff23843324399a88a42deb460480c#http://iptv12k.com:35461/live/test167/12345/1240.m3u8
+26 緯來綜合,mitv://ns2.hellotvvod.com:9906/c5aff23843324399a88a42deb460480c
 27 八大第一台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6bb0001a-0201-4ae2-809d-c83e5e3e19f2.m3u8#mitv://ns2.hellotvvod.com:9906/b1615bf0d6584087aa31727a7d0bbc10
 28 八大綜合,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/0fdd4afc-c155-4164-8baa-b50c4488402d.m3u8#mitv://ns2.hellotvvod.com:9906/f1d887108423433dbe7a1be6cc8c72e4
 29 三立台灣台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/ab7c868d-3788-4bfa-8352-930399e5c78a.m3u8#mitv://ns2.hellotvvod.com:9906/3d0ed19ada54446c9b050be6b586b192
