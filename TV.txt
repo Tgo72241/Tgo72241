@@ -187,7 +187,7 @@
 187 韓國娛樂台KMTV,mitv://ns2.hellotvvod.com:9906/c2cc7f1a2b094e1397f44809458d43dc
 188 Nick Jr.,mitv://ns2.hellotvvod.com:9906/1b9728e683f84e81ad6d1565d38f8881
 189 華納Warner TV,mitv://ns2.hellotvvod.com:9906/f47052bfeb29473d89b279f76383db64
-190 Food Network美食台
+190 STAR MOVIE GOLD,http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 191 Travel Channel,mitv://ns2.hellotvvod.com:9906/4e53eede82fe471096cf4e918e635cb0
 192 寰宇新聞台,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 193 寰宇新聞台灣台,mitv://ns2.hellotvvod.com:9906/489dfe99757c4c8a878ff572ed315980
