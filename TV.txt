@@ -95,7 +95,7 @@
 95 南投新聞,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 96 孝廉電視台,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
 97 SPOTV,mitv://ns2.hellotvvod.com:9906/6cf15a18b4d5459696b0ed97c6e266a0
-98 ESPN,mitv://ns2.hellotvvod.com:9906/5c608d42991146bdacc768932e7e3d24
+98 ESPN,mitv://ns2.hellotvvod.com:9906/5c608d42991146bdacc768932e7e3d24#http://hls-pull-goldendragon.speedws.com/live/n1/playlist.m3u8
 99 生命台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 100 LifeTime,mitv://ns2.hellotvvod.com:9906/3b56d096b13b4111a33216b6eb1f0898
 101 公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
