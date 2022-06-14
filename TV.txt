@@ -15,9 +15,9 @@
 15 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 16 原住民族電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 17 客家電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
-18 國家地理
+18 國家地理,http://220.134.196.147:9509/http/116.50.42.18:8088/hls/61/803/ch01.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 19 Discovery,mitv://ns2.hellotvvod.com:9906/4ac9b4da15e74a39a6586889b9fa6425#http://iptv12k.com:35461/live/test167/12345/1231.m3u8
-20 TLC 旅遊生活,http://iptv12k.com:35461/live/test167/12345/1244.m3u8
+20 TLC 旅遊生活,http://220.134.196.147:9570/http/116.50.42.18:8088/hls/70/812/ch38.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 21 動物星球,mitv://ns2.hellotvvod.com:9906/fbb0d320127b41539f441afae6d7087a
 22 CN卡通頻道,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/1ef6144e-d443-4346-be45-788442b24cc3.m3u8#mitv://ns2.hellotvvod.com:9906/e8e472c997d14ff3a2ad261df5eecf67
 23 尼克兒童頻道,mitv://ns2.hellotvvod.com:9906/c156a076f388408eb24ec0b3507c0921
@@ -35,7 +35,7 @@
 35 momo購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 36 中天綜合,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/4026260e-ec58-4e70-9083-7b632257880b.m3u8
 37 東風37,http://220.134.196.147:9538/http/116.50.42.18:8081/hls/68/810/ch31.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
-38 年代MUCH台
+38 年代MUCH台,http://220.134.196.147:9529/http/116.50.42.18:8081/hls/72/814/ch45.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 39 中天娛樂台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/308d8d9f-38ec-498c-a0f9-127127f03e78.m3u8
 40 東森戲劇台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/c9ad5922-8313-4c42-a327-174544661402.m3u8
 41 八大戲劇台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/fd6c3f009f3b6dd84fba624c3af4876b/4/b9681578-eb3b-45c4-b3e5-5f51c8daf2d4.m3u8#mitv://ns2.hellotvvod.com:9906/a9a36868d5214eed87abde535cb8ad9c
@@ -58,7 +58,7 @@
 58 非凡新聞,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/253c4f77-5b43-4793-a186-dd8b88edc903.m3u8
 59 viva美好購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 60 中天新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
-61 衛視電影台
+61 衛視電影台,http://220.134.196.147:9525/http/116.50.42.18:8081/hls/64/806/ch14.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a#http://220.134.196.147:9553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 62 東森電影台,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/55d60885-3825-4600-8a5c-1427ceae2aa6.m3u8
 63 緯來電影,mitv://ns2.hellotvvod.com:9906/408e447322b84ec1a70a11e78796ad44
 64 LS龍祥時代,mitv://ns2.hellotvvod.com:9906/e750c6a96d784dc887ca4c07a39765ce
