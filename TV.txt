@@ -194,4 +194,5 @@ Travel Channel,mitv://ns2.hellotvvod.com:9906/5e7e78eb777648a49d4ef94f30542cf7
 Thrill,mitv://ns2.hellotvvod.com:9906/9a4a7d6ebfd14b19b741e6bf4f24285c
 爆谷星影台,mitv://ns2.hellotvvod.com:9906/ea807a03449d47ebb22ee7ed00859211
 爆谷台,mitv://ns2.hellotvvod.com:9906/cb5e650b9b2640d78245e7b7a0330300
-EUROSPORT 1,http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/217/stream.m3u8
+Eurosport 1 HD,http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/228/index.m3u8
+Eurosport 2 HD,http://3937a675.ucomist.net/iptv/G6CY7FHK5ZMG2X/234/index.m3u8
