@@ -227,7 +227,7 @@ ELTV生活英语,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-l
 ELTA影剧,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 228 ELTA綜合
 EYETV旅游
-EYETV戏剧,http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586#https://epg.pm/stream/41f78c2cc87e0cbade0f1bd295f68b4ab107aa174100984b3a0a552f680547c0.m3u8
+EYETV戏剧
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
 232 台視綜合台
 233 衛視洋片台
