@@ -159,7 +159,7 @@ GOODTV2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/l
 159 BBC Earth
 星卫HD电影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb#http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05#http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 161 星衛娛樂台
-162 The K-POP,https://git.io/JgYAE
+THE K-POP,https://git.io/JgYAE
 暴走兄弟WGPMAX,http://zzy789.xyz/bili.php?id=10544270
 164 CBeebies
 CTN传讯电视,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
