@@ -77,9 +77,9 @@ momo综合台,rtmp://59.124.75.138:1935/sat/tv761
 纬来日本,rtmp://59.124.75.138:1935/sat/tv771
 国兴卫视
 美亚电影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
-中台湾生活网,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 Animax,http://z4.ubtvfans.com/live/59/eca5667c67a7f12641bcadcbdb6ed09e/index.m3u8
-mnews,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
+鏡新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 东森亚洲
 东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
@@ -95,10 +95,10 @@ ELTA生活旅游,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-l
 95 國家地理野生頻道
 96 TVBS精采
 三立综合台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
-世新综合台,http://61.58.60.230:9319/live/49.m3u8
+世新综合,http://61.58.60.230:9319/live/49.m3u8
 momo,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 100 LifeTime
-公视戏剧,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
+公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
 102 公視3
 103 EVE
 ELEVEN 3,http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
