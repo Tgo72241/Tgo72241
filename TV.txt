@@ -26,10 +26,10 @@ momo亲子台,mitv://ns2.hellotvvod.com:9906/5b04e4d291b04ee4916c45d0b4a76dd5
 纬来综合台
 八大第一台,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
 八大综合台
-三立台湾台,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-三立都会台
+三立台湾台,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb#http://220.134.196.147:9221/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+三立都会台,http://220.134.196.147:9222/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 卫视中文台
-东森综合台
+东森综合台,http://220.134.196.147:9224/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
 东森超视,rtmp://59.124.75.138:1935/sat/tv331
 东森购物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 momo购物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
