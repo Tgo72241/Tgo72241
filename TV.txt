@@ -49,7 +49,7 @@ momo购物1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 壹新闻,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 年代新闻,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 东森新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
-华视新闻资讯,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34#http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw
+华视新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34#http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw
 民视新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31#http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
 三立新闻
 TVBS新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
@@ -79,7 +79,7 @@ momo综合台,rtmp://59.124.75.138:1935/sat/tv761
 美亚电影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 中台湾生活网,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 Animax,http://z4.ubtvfans.com/live/59/eca5667c67a7f12641bcadcbdb6ed09e/index.m3u8
-镜新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
+mnews,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 东森亚洲
 东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
