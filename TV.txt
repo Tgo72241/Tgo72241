@@ -105,11 +105,11 @@ ELEVEN 3,http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 Ci罪案侦缉
 TV5MONDE Style 生活時尚
 DW,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
-美丽人生购物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 NHK新闻
 中天亚洲
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-SBN全球财经,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
+全球财经,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 NHK WORLD TV,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 彭博财经,https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8?$全网4K
