@@ -195,7 +195,7 @@ STAR MOVIE GOLD,http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch
 DMAX,http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279#http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
 196 CATCHPLAY電影台
 197 AMC最愛電影
-忧视频道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 199 緯來精采
 三立戏剧台,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
 博斯高球1,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0#http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
@@ -214,7 +214,7 @@ LUXE TV,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&ni
 中天美食旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
 華語戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
 華語綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
-EF运通,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
+EF運通,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
 MTV POP,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 219 J Sports 1
 220 J Sports 2
