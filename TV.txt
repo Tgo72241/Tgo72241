@@ -10,7 +10,7 @@ BLTV人间卫视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-l
 中视,rtmp://59.124.75.138/sat/tv091#rtmp://59.124.75.150/sat/tv091
 霹雳台湾台
 华视,rtmp://59.124.75.138/sat/tv111#rtmp://59.124.75.150/sat/tv111
-公视
+公视,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
 金光布袋戏,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
 GOODTV,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 原住民电视台,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
