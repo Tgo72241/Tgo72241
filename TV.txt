@@ -162,7 +162,7 @@ GOODTV2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/l
 THE K-POP,https://git.io/JgYAE
 暴走兄弟WGPMAX,http://zzy789.xyz/bili.php?id=10544270
 164 CBeebies
-CTN传讯电视,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
+CTN傳訊電視,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 166 達文西頻道
 紅牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8#http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd#http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?zshijd
 168 歐洲體育
@@ -205,16 +205,16 @@ DMAX,http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c1
 博斯运动2,http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283#http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=MA6A9994195899941958&ct=18393&tsum=6d1df531c3970ed49efe13473af46a2b
 206 博斯無限台
 207 博斯無限台II
-经典动漫,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
-经典卡通,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
-经典电影,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
-LiveABC互动美语,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
+經典動漫,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
+經典卡通,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
+經典電影,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
+Live互動英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
 LUXE TV,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
 中天全民最大黨,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
 中天美食旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
 華語戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
 華語綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
-EF运通财经台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
+EF运通,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
 MTV POP,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 219 J Sports 1
 220 J Sports 2
