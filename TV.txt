@@ -99,7 +99,7 @@ ELTA生活旅游,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-l
 momo,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 100 LifeTime
 公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
-102 公視3
+公视3
 103 EVE
 ELEVEN 3,http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 Ci罪案侦缉
@@ -116,7 +116,7 @@ NHK WORLD TV,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en
 儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
 新唐人亚太台,https://live.ntdimg.com/aplive200/playlist.m3u8
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
-大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+大立DALI,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 云林新闻网,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 南投新闻,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 NHK Chinese Vision,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
