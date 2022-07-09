@@ -35,7 +35,7 @@ momo亲子台,mitv://ns2.hellotvvod.com:9906/5b04e4d291b04ee4916c45d0b4a76dd5
 momo购物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 中天综合台,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 东风卫视
-年代MUCH台
+年代MUCH,http://220.134.196.147:9229/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
 中天娱乐台,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
 东森戏剧台,http://8.210.36.158/de/twlive.php?id=live1042
 八大戏剧台,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54#http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
@@ -55,7 +55,7 @@ momo购物1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 TVBS新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
 TVBS,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
 东森财经,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211#http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw#https://git.io/Jgkpc#rtmp://59.124.75.138/sat/tv571#http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
-非凡新闻
+非凡新闻,http://220.134.196.147:9244/http/116.50.42.19:8081/hls/75/817/ch57.m3u8
 viva美好购物1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 中天新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30#http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 卫视电影台,http://220.134.196.147:9223/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
