@@ -157,7 +157,7 @@ GOODTV2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/l
 台视新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
 158 BBC Lifestyle
 159 BBC Earth
-星卫HD电影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+星卫电影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 161 星衛娛樂台
 THE K-POP,https://git.io/JgYAE
 暴走兄弟WGPMAX,http://zzy789.xyz/bili.php?id=10544270
