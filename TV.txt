@@ -366,6 +366,8 @@ tvN
 
 韓國娛樂台
 
+Arirang,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
+
 Nick Jr.
 
 華納電影
