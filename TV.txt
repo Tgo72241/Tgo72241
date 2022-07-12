@@ -464,12 +464,6 @@ EYE TV戲劇台
 
 時尚運動X,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
 
-ROCK Extreme
-
-ROCK Entertainment
-
-Dreamworks
-
 SPOTV,http://live1.streamk.co:8080/sportsbox_preview/live53/playlist.m3u8?site=gaktv&ch=live53#http://mytv.dothome.co.kr/ch/catv/244.php#https://apichvod19.seezntv.com/OTM/10070_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
 
 SPOTV 2,https://apichvod19.seezntv.com/OTM/11990_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403#http://mytv.dothome.co.kr/ch/catv/245.php
