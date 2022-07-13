@@ -474,7 +474,7 @@ SPOTV ON2,http://live1.streamk.co:8080/sportsbox_preview/live47/playlist.m3u8?si
 
 GOODTV國度報導,https://vod.streamingfast.net/hls-vod/video/1200k/NW1A0180_1200k.mp4.m3u8
 
-NBA
+NBA,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
 
 ESPN
 
