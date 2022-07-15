@@ -68,7 +68,7 @@ momo親子台
 
 momo 2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 
-中天綜合,http://8.210.36.158/de/twlive.php?id=live1022
+中天綜合,http://220.134.196.147:9226/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
 
 東風衛視,http://61.219.170.95:18560/.m3u8
 
@@ -76,7 +76,7 @@ momo 2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 
 中天娛樂,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
 
-東森戲劇,http://8.210.36.158/de/twlive.php?id=live1042
+東森戲劇,http://220.134.196.147:9230/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 
 八大戲劇,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54#http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
 
