@@ -154,7 +154,7 @@ momo綜合台,rtmp://59.124.75.138:1935/sat/tv761
 
 國興衛視
 
-美亞電影
+美亞電影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 
@@ -172,7 +172,7 @@ ELTA生活旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-l
 
 三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229#http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews#http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
 
-非凡商業
+非凡商業,http://61.219.170.95:18510/.m3u8
 
 幸福空間居家,https://git.io/JgYYF
 
