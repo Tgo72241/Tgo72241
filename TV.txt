@@ -260,9 +260,9 @@ GoodTV2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/l
 
 龍華電影,http://220.134.196.147:9558/http/116.50.42.18:8081/hls/62/804/ch07.m3u8?token=7375646f6868906a760733c82ee9b65e9e19dd55
 
-龍華戲劇,http://50.7.220.74:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb#http://61.219.170.95:18507/.m3u8
+龍華戲劇,http://61.219.170.95:18507/.m3u8#https://epg.pm/stream/a1fda790830938b2487b30e3b9b9d2676ad2939e310a161b3113db496e8fd954.m3u8#https://epg.pm/stream/ab79e3ed982c587c80bd6cf653bfadfcb77f477f486dd4b5909262473ca86660.m3u8#https://epg.pm/stream/aaa2f0ee9f1d0bdb0f6820cb48ecb51ba91d02d88754c42e6b0965fed5e624dc.m3u8#https://epg.pm/stream/34d369283cd9ff70ec59e70e6065f62d506bf5849547ca5557cff8bf4215090b.m3u8
 
-龍華偶像,http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
+龍華偶像,http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8#https://epg.pm/stream/42cd2e4edd2468418652e234538405cd73fe2c8d4cb992d98ff35b2212b5f460.m3u8#https://epg.pm/stream/c4b865c3c21cc0c5e4f81ccd5803ba27da2725789c2668d0012731a51845559b.m3u8#https://epg.pm/stream/aa1346690dc5dfe3d48610abe2f69f9b055b26a6fa00f28be58f9a5793585271.m3u8#https://epg.pm/stream/d4800d62e279d9da23b75b026e4aae7bf17119b7c9f26ba3ddc8198479bb80d8.m3u8
 
 龍華日韓,http://220.134.196.147:9235/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
 
