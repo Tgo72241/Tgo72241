@@ -4,7 +4,7 @@
 
 豬哥亮歌廳秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
 
-公視台語台
+公視台語台,http://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
