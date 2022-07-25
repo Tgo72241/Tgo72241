@@ -390,7 +390,7 @@ Travel Channel,
 
 CLASSICA 古典樂,
 
-DMAX,
+DMAX,http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
 
 CatchPlay電影台,
 
