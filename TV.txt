@@ -46,7 +46,7 @@ CN卡通頻道,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD833733728
 
 尼克兒童頻道,
 
-momo親子台,mitv://45.92.126.18:9906/62584e6b000b41810f9c71c51bf958ec
+momo親子台,
 
 東森幼幼台,https://git.io/JgYON#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
 
@@ -56,9 +56,9 @@ momo親子台,mitv://45.92.126.18:9906/62584e6b000b41810f9c71c51bf958ec
 
 八大綜合,http://61.219.170.95:18517/.m3u8
 
-三立台灣台,mitv://45.92.126.18:9906/625851fa000d44170faa58e136d727dc
+三立台灣台,
 
-三立都會台,http://220.134.196.147:9222/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
+三立都會台,
 
 衛視中文台,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8#http://61.219.170.95:18522/.m3u8
 
@@ -86,9 +86,9 @@ TVBS歡樂台,rtmp://59.124.75.138:1935/sat/tv421
 
 緯來戲劇,http://220.134.196.147:9233/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
 
-高點綜合,mitv://45.92.126.18:9906/62585fb8000970600fe0061669e3aba4
+高點綜合,
 
-JET綜合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
+JET綜合,
 
 東森購物3,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174	
 
@@ -110,7 +110,7 @@ momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 
 TVBS新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
 
-TVBS,mitv://45.92.126.18:9906/62541264000b8c2809563c340355f46f
+TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 
 東森財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211#http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw#https://git.io/Jgkpc#rtmp://59.124.75.138/sat/tv571
 
