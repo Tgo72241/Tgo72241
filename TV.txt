@@ -24,7 +24,7 @@ CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x72
 
 華視,rtmp://59.124.75.138/sat/tv111#rtmp://59.124.75.150/sat/tv111
 
-公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed#http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
+公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0#http://iptv12k.com:35461/live/80301070602/456776/1256.m3u8
 
 公視台語台,http://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 
@@ -88,7 +88,7 @@ TVBS歡樂台,rtmp://59.124.75.138:1935/sat/tv421
 
 高點綜合,
 
-JET綜合,
+JET綜合,http://iptv12k.com:35461/live/80301070602/456776/1262.m3u8
 
 東森購物3,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174	
 
@@ -130,7 +130,7 @@ TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 
 HBO,http://220.134.196.147:9557/http/116.50.42.18:8081/hls/71/813/ch41.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 
-東森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+東森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f#http://iptv12k.com:35461/live/80301070602/456776/1256.m3u8
 
 AXN,http://61.219.170.95:18548/http/192.168.1.9:8081/hls/71/813/ch43.m3u8#http://61.219.170.95:18548/.m3u8
 
@@ -190,9 +190,9 @@ SBN全球財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-li
 
 momo,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 
-History,
+History,http://iptv12k.com:35461/live/80301070602/456776/1206.m3u8
 
-History2,
+History2,http://iptv12k.com:35461/live/80301070602/456776/1201.m3u8
 
 海豚綜合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 
@@ -322,7 +322,7 @@ GoodTV2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/l
 
 BBC Lifestyle,
 
-BBC Earth,
+BBC Earth,http://iptv12k.com:35461/live/80301070602/456776/1210.m3u8
 
 衛視電影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 
@@ -338,7 +338,7 @@ CTN傳訊電視,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m
 
 美亞電影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 
-歐洲體育,
+歐洲體育,http://iptv12k.com:35461/live/80301070602/456776/647.m3u8
 
 Eurosport 1,http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/217/stream.m3u8#http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/217/stream.m3u8#http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8#http://cdnua06.hls.tv/476/hls/ic98vakdjzm2sqf1elhg67pwr0xbto34/216/stream.m3u8#http://cdnua06.hls.tv/476/hls/cma6nrk9e8z7ygfsl5xtj3ohb014vpw2/216/stream.m3u8#http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/216/stream.m3u8#http://213.172.73.171:8081/nimble_live/1176__Eurosport1_HD/playlist.m3u8
 
@@ -491,6 +491,10 @@ FashionTV,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&
 孝廉,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
 
 桌遊新樂園,http://152.69.224.242:9500/jmsytb.m3u8?c=39
+
+爆谷台,http://iptv12k.com:35461/live/80301070602/456776/9548.m3u8
+
+星影台,http://iptv12k.com:35461/live/80301070602/456776/9547.m3u8
 
 🇹🇼網路廣播🇹🇼#genre#
 
