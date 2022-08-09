@@ -480,7 +480,7 @@ NBA,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/
 
 ESPN,
 
-影迷數位電影台,
+影迷數位電影台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv011&nid=40
 
 I-FUN動漫,
 
