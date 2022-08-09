@@ -328,11 +328,11 @@ BBC Earth,http://iptv12k.com:35461/live/80301070602/456776/1210.m3u8
 
 衛視電影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 
-星衛娛樂台,
+星衛娛樂台,http://iptv12k.com:35461/live/80301070602/456776/1247.m3u8
 
 THE K-POP,https://git.io/JgYAE
 
-CBeebies,
+CBeebies,http://iptv12k.com:35461/live/80301070602/456776/615.m3u8
 
 CTN傳訊電視,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 
@@ -366,7 +366,7 @@ HGTV家園頻道,
 
 Star Movies,
 
-美食星球,
+美食星球,http://iptv12k.com:35461/live/80301070602/456776/1259.m3u8
 
 亞洲旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250#http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d#http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8#http://220.134.196.147:9565/http/116.50.42.18:8088/hls/76/818/ch61.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 
@@ -384,7 +384,7 @@ Nick Jr.,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live032&n
 
 華納電影,
 
-Travel Channel,
+Travel Channel,http://iptv12k.com:35461/live/80301070602/456776/1213.m3u8
 
 寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 
