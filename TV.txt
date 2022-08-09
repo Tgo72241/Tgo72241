@@ -166,6 +166,8 @@ Animax,http://61.219.170.95:18550/http/192.168.1.9:8081/hls/70/812/ch39.m3u8#htt
 
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 
+MTV Live,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live025&nid=213
+
 ELTA生活旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
 
 發現心嘉義,http://61.58.60.230:9319/live/101.m3u8
@@ -433,8 +435,6 @@ LUXE TV,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&ni
 華語戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
 
 華語綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
-
-MTV POP,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 
 J Sports 1,
 
