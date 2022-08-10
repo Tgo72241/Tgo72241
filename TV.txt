@@ -280,7 +280,7 @@ LifeTime娛樂頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4g
 
 EVE,
 
-Ci罪案偵緝,http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
+Ci罪案偵緝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live027&nid=215
 
 TV5MONDE Style 生活時尚,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live122&nid=178
 
