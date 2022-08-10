@@ -512,6 +512,8 @@ HITS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live620&nid=1
 
 ROCK Extreme,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live138&nid=180
 
+TRACE Urban,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv082&nid=78
+
 🇹🇼網路廣播🇹🇼#genre#
 
 中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
