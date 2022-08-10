@@ -508,6 +508,10 @@ Smithsonian Channel,http://iptv12k.com:35461/live/80301070602/456776/1250.m3u8
 
 Pet Club寵物頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live110&nid=182
 
+HITS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live620&nid=186
+
+ROCK Extreme,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live138&nid=180
+
 🇹🇼網路廣播🇹🇼#genre#
 
 中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
