@@ -56,9 +56,9 @@ momo親子台,http://iptv12k.com:35461/live/80301070602/456776/1209.m3u8
 
 八大綜合,http://61.219.170.95:18517/.m3u8
 
-三立台灣台,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20623
+三立台灣台,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20623#http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 
-三立都會台,
+三立都會台,mitv://fccs.word-tv.com:9906/62585240000566d20fab684d64808ca0
 
 衛視中文台,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8#http://61.219.170.95:18522/.m3u8
 
