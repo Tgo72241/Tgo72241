@@ -394,6 +394,8 @@ CLASSICA 古典樂,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv
 
 DMAX,http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
 
+CatchPlay Beyond,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live155&nid=200
+
 CatchPlay電影台,http://hs.crtvhstv.xyz:80/play/WJ2FfABYjXmtFvha8EO8kpudEw7zPu0AsbPjpaY7zpk
 
 AMC最愛電影,
@@ -494,7 +496,7 @@ FashionTV,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&
 
 桌遊新樂園,http://152.69.224.242:9500/jmsytb.m3u8?c=39
 
-爆谷台,http://iptv12k.com:35461/live/80301070602/456776/9548.m3u8
+爆谷台,http://hs.crtvhstv.xyz:80/play/WJ2FfABYjXmtFvha8EO8kh1jp15hFbuI6wjyZeLD4KY
 
 星影台,http://iptv12k.com:35461/live/80301070602/456776/9547.m3u8
 
