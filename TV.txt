@@ -394,7 +394,7 @@ CLASSICA 古典樂,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv
 
 DMAX,http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
 
-CatchPlay電影台,http://iptv12k.com:35461/live/80301070602/456776/1865.m3u8
+CatchPlay電影台,http://hs.crtvhstv.xyz:80/play/WJ2FfABYjXmtFvha8EO8kpudEw7zPu0AsbPjpaY7zpk
 
 AMC最愛電影,
 
