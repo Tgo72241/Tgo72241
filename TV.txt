@@ -1,104 +1,4 @@
-🇹🇼台灣頻道🇹🇼#genre#
-
-網路流行音樂台,https://git.io/JgkA6
-
-豬哥亮歌廳秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
-
-金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
-
-紅牛RedBull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-
-民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3#rtmp://59.124.75.138/sat/tv051#http://seb.sason.top/ptv/ftv.php?id=ms
-
-人間衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-
-台視,rtmp://59.124.75.150/sat/tv071#http://61.219.170.95:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8#http://61.219.170.95:18543/.m3u8
-
-大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-
-中視,rtmp://59.124.75.138/sat/tv091#rtmp://59.124.75.150/sat/tv091
-
-霹靂台灣台,mitv://fccs.word-tv.com:9906/625835a900047b550f3bba39e271ea6f
-
-華視,rtmp://59.124.75.138/sat/tv111#rtmp://59.124.75.150/sat/tv111
-
-公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0#http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
-
-公視台語台,mitv://fccs.word-tv.com:9906/6257e9a400000c300e12c58f9b595b1e
-
-GoodTV,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-
-原住民電視台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
-
-客家電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
-
-國家地理,http://61.219.170.95:18501/.m3u8#http://220.134.196.147:9569/http/116.50.42.19:8081/hls/61/803/ch01.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef#http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
-
-Discovery,http://61.219.170.95:18500/.m3u8
-
-TLC旅遊生活,http://220.134.196.147:9570/http/116.50.42.18:8088/hls/70/812/ch38.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a#http://220.134.196.147:9567/http/116.50.42.19:8081/hls/70/812/ch38.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
-
-動物星球,http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288#http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
-
-CN卡通頻道,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6#http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=md272f875bb6916787346&ct=17874&tsum=0c38bae20c6db7e76ad1418654c8ccd4
-
-尼克兒童頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live105&nid=185
-
-momo親子台,http://iptv12k.com:35461/live/80301070602/456776/1209.m3u8
-
-東森幼幼台,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d#https://git.io/JgYON
-
-緯來綜合,http://61.219.170.95:18540/.m3u8
-
-八大第一台,http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8#http://61.219.170.95:18539/.m3u8
-
-八大綜合,http://61.219.170.95:18517/.m3u8
-
-三立台灣台,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20623#http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-
-三立都會台,mitv://fccs.word-tv.com:9906/62585240000566d20fab684d64808ca0
-
-衛視中文台,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8#http://61.219.170.95:18522/.m3u8
-
-東森綜合,http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f#http://173.211.42.73:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
-
-東森超視,rtmp://59.124.75.138:1935/sat/tv331
-
-東森購物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-
-momo 2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-
-中天綜合,http://220.134.196.147:9226/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
-
-東風衛視,http://61.219.170.95:18560/.m3u8
-
-年代MUCH,http://220.134.196.147:9229/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
-
-中天娛樂,http://61.219.170.95:18521/.m3u8
-
-東森戲劇,http://60.251.33.252:18538/.m3u8
-
-八大戲劇,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-
-TVBS歡樂台,rtmp://59.124.75.138:1935/sat/tv421
-
-緯來戲劇,http://220.134.196.147:9233/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
-
-高點綜合,
-
-JET綜合,http://iptv12k.com:35461/live/80301070602/456776/1262.m3u8
-
-東森購物3,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174	
-
-東森購物1,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
-
-momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-
-壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-
-年代新聞台,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
+//50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 
 東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
 
@@ -110,55 +10,11 @@ momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 
 TVBS新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
 
-TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MCDC5358450053584500&ct=19193&tsum=e69eb1ebdae5b69772df214072ef9f19
-
-東森財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211#http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw#https://git.io/Jgkpc#rtmp://59.124.75.138/sat/tv571
-
-非凡新聞,http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-
-美好1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
-
-中天新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
-
-衛視電影台,http://220.134.196.147:9223/http/116.50.42.19:8081/hls/62/804/ch07.m3u8#http://61.219.170.95:18529/.m3u8#http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
-
-東森電影,http://iptv12k.com:35461/live/80301070602/456776/1866.m3u8
-
-緯來電影,http://iptv12k.com:35461/live/80301070602/456776/1236.m3u8
-
-龍祥時代,http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 
 HBO,http://220.134.196.147:9557/http/116.50.42.18:8081/hls/71/813/ch41.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 
 東森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f#http://iptv12k.com:35461/live/80301070602/456776/1256.m3u8
 
-AXN,http://61.219.170.95:18548/http/192.168.1.9:8081/hls/71/813/ch43.m3u8#http://61.219.170.95:18548/.m3u8
-
-好萊塢電影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859#http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
-
-Star Movies Gold,http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a#http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
-
-CINEMAX,http://218.32.47.179:18559/http/192.168.1.9:8081/hls/71/813/ch42.m3u8
-
-緯來育樂,http://61.219.170.95:18541/http/192.168.1.9:8081/hls/68/810/ch30.m3u8#http://61.219.170.95:18541/.m3u8#rtmp://59.124.75.138/sat/tv721
-
-緯來體育,rtmp://59.124.75.138:1935/sat/tv721
-
-ELEVEN 1,rtmp://59.124.75.138:1935/sat/tv731#http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23#http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
-
-ELEVEN 2,rtmp://59.124.75.138:1935/sat/tv741
-
-ELEVEN 3,http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
-
-momo綜合台,rtmp://59.124.75.138:1935/sat/tv761
-
-博斯運動I,http://220.134.196.147:9564/http/116.50.42.18:8066/hls/210/10018/cstv18.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
-
-緯來日本,rtmp://59.124.75.138:1935/sat/tv771#http://61.219.170.95:18524/.m3u8
-
-國興衛視,mitv://fccs.word-tv.com:9906/6258dc9e0003580511c7e6f78e3b1759
-
-衛視合家歡,http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8#http://61.219.170.95:18504/.m3u8
 
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 
