@@ -32,7 +32,7 @@ GoodTV,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/li
 
 原住民電視台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
 
-客家電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
+客家電視台,P2p://ns1.hellotvvod.com:9906/be3ea9c28893494e9e4c2ad72fe06c3b
 
 國家地理,http://220.134.196.147:9569/http/116.50.42.19:8081/hls/61/803/ch01.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
 
