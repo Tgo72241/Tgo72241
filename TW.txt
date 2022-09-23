@@ -124,21 +124,21 @@ TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://50.7.220.7
 
 緯來電影,P2p://ns1.hellotvvod.com:9906/c0229f009c174dacaf08710fe71ce2ca
 
-龍祥時代,http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+龍祥時代,P2p://ns1.hellotvvod.com:9906/85ea4346fcd441d99a3f06bbe0491f62
 
 HBO,http://220.134.196.147:9557/http/116.50.42.18:8081/hls/71/813/ch41.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 
-東森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f#http://iptv12k.com:35461/live/80301070602/456776/1256.m3u8
+東森洋片,P2p://ns1.hellotvvod.com:9906/186ead8f2f664bebba3dea7945a8b1e2
 
-AXN,http://61.219.170.95:18548/http/192.168.1.9:8081/hls/71/813/ch43.m3u8#http://61.219.170.95:18548/.m3u8
+AXN,P2p://ns1.hellotvvod.com:9906/3d43beba53b54131ad10b2f8a02d3f47
 
 好萊塢電影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859#http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
 
 Star Movies Gold,http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a#http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 
-CINEMAX,http://218.32.47.179:18559/http/192.168.1.9:8081/hls/71/813/ch42.m3u8
+CINEMAX,http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 
-緯來育樂,http://61.219.170.95:18541/http/192.168.1.9:8081/hls/68/810/ch30.m3u8#http://61.219.170.95:18541/.m3u8#rtmp://59.124.75.138/sat/tv721
+緯來育樂,rtmp://59.124.75.138/sat/tv701#http://218.32.47.179:18562/http/192.168.1.9:8081/hls/68/810/ch30.m3u8#http://123.51.229.65:18541/.m3u8
 
 緯來體育,rtmp://59.124.75.138:1935/sat/tv721
 
