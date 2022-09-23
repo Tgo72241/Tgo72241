@@ -43,19 +43,19 @@ TLC旅遊生活,http://220.134.196.147:9570/http/116.50.42.18:8088/hls/70/812/ch
 
 CN卡通頻道,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6#http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=md272f875bb6916787346&ct=17874&tsum=0c38bae20c6db7e76ad1418654c8ccd4
 
-尼克兒童頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live105&nid=185
+尼克兒童頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live105&nid=185#P2p://ns1.hellotvvod.com:9906/e1e9179db15f4e3fadab1522ef1d379e
 
 momo親子台,P2p://ns1.hellotvvod.com:9906/f99539ee05024a3cb1e0531484d81e7e
 
 東森幼幼台,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d#https://git.io/JgYON
 
-緯來綜合,http://61.219.170.95:18540/.m3u8
+緯來綜合,P2p://ns1.hellotvvod.com:9906/f77305fbbfbb497794f380b50501134b
 
-八大第一台,http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8#http://61.219.170.95:18539/.m3u8
+八大第一台,P2p://ns1.hellotvvod.com:9906/062cfd1d662c4c568ac777badc14c9b3
 
-八大綜合,http://61.219.170.95:18517/.m3u8
+八大綜合,P2p://ns1.hellotvvod.com:9906/0a94d77edc744413945ee76857f4f5c5
 
-三立台灣台,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20623#http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+三立台灣台,http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 
 三立都會台,P2p://ns1.hellotvvod.com:9906/d03bbc7d90054cefbc582ad12b0892e5
 
