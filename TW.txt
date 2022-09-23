@@ -324,8 +324,6 @@ BBC Lifestyle,
 
 BBC Earth,http://198.16.64.10:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
 
-衛視電影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-
 星衛娛樂台,http://iptv12k.com:35461/live/80301070602/456776/1247.m3u8
 
 THE K-POP,https://git.io/JgYAE
