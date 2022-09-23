@@ -10,15 +10,16 @@
 
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
-民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3#rtmp://59.124.75.138/sat/tv051#http://seb.sason.top/ptv/ftv.php?id=ms
+民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3#rtmp://59.124.75.138/sat/tv051
 
 人間衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210#http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
-台視,rtmp://59.124.75.150/sat/tv071#http://61.219.170.95:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8#http://61.219.170.95:18543/.m3u8
+台視,rtmp://59.124.75.150/sat/tv071
 
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 
-中視,rtmp://59.124.75.138/sat/tv091#rtmp://59.124.75.150/sat/tv091
+中視,rtmp://59.124.75.150/sat/tv091
+/59.124.75.138/sat/tv091#rtmp://59.124.75.150/sat/tv091
 
 霹靂台灣台,P2p://ns1.hellotvvod.com:9906/ee07d44e6cdb4eb092248431e5582968
 
@@ -26,9 +27,7 @@ CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x72
 
 公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20299#http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
 
-公視台語台,mitv://fccs.word-tv.com:9906/6257e9a400000c300e12c58f9b595b1e
-
-GoodTV,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+公視台語台,
 
 原住民電視台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
 
