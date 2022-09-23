@@ -120,9 +120,9 @@ TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://50.7.220.7
 
 衛視電影台,P2p://ns1.hellotvvod.com:9906/957901fc9a254dbb91227829d9b995c7
 
-東森電影,http://iptv12k.com:35461/live/80301070602/456776/1866.m3u8
+東森電影,P2p://ns1.hellotvvod.com:9906/94095045274045e1a0d3a328148381f2
 
-緯來電影,http://iptv12k.com:35461/live/80301070602/456776/1236.m3u8
+緯來電影,P2p://ns1.hellotvvod.com:9906/c0229f009c174dacaf08710fe71ce2ca
 
 龍祥時代,http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 
