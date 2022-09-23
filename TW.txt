@@ -68,13 +68,13 @@ momo親子台,P2p://ns1.hellotvvod.com:9906/f99539ee05024a3cb1e0531484d81e7e
 
 momo 2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 
-中天綜合,http://220.134.196.147:9226/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
+中天綜合,P2p://ns1.hellotvvod.com:9906/39507c83c4c848118b2bc5e56b40f91b
 
-東風衛視,http://61.219.170.95:18560/.m3u8
+東風衛視,http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
 
 年代MUCH,http://220.134.196.147:9229/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
 
-中天娛樂,http://61.219.170.95:18521/.m3u8
+中天娛樂,P2p://ns1.hellotvvod.com:9906/3e7d61af00504608a4a3dd6f86f15e92
 
 東森戲劇,http://60.251.33.252:18538/.m3u8
 
