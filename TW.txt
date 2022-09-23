@@ -118,7 +118,7 @@ TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://50.7.220.7
 
 中天新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 
-衛視電影台,http://220.134.196.147:9223/http/116.50.42.19:8081/hls/62/804/ch07.m3u8#http://61.219.170.95:18529/.m3u8#http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
+衛視電影台,P2p://ns1.hellotvvod.com:9906/957901fc9a254dbb91227829d9b995c7
 
 東森電影,http://iptv12k.com:35461/live/80301070602/456776/1866.m3u8
 
