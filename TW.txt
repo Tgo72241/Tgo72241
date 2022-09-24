@@ -250,25 +250,25 @@ TVBS精采台,
 
 靖天映畫,
 
-靖天電影,
+靖天電影,P2p://ns1.hellotvvod.com:9906/67ebfadc889a4e6d921a3dac4c60a13e
 
 靖天國際,
 
-靖天資訊台,
+靖天資訊台,P2p://ns1.hellotvvod.com:9906/ab943bcadc7445e8a06750601dc1b037
 
-靖天綜合,
+靖天綜合,P2p://ns1.hellotvvod.com:9906/68c5a9a71ff449b9b67851c8cec9569b
 
-靖天育樂,
+靖天育樂,P2p://ns1.hellotvvod.com:9906/182d978c052c4a4f913676854e33ae5d
 
-靖天卡通,http://50.7.220.74:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
+靖天卡通,http://50.7.220.74:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c#P2p://ns1.hellotvvod.com:9906/39eee8a27674442884d223ec6afefae1
 
-靖天戲劇,
+靖天戲劇,P2p://ns1.hellotvvod.com:9906/be4aacb84df04c01ad4a6fd88db210f4
 
-靖天日本,
+靖天日本,P2p://ns1.hellotvvod.com:9906/aafd14ca753041a9a1dacd3114a1c3b0
 
-靖洋卡通台,
+靖洋卡通台,P2p://ns1.hellotvvod.com:9906/78f30d3e43e344eb8de57bf763ea50d0
 
-靖洋戲劇台,
+靖洋戲劇台,P2p://ns1.hellotvvod.com:9906/9765cc4691bf436692e0d29017dc3303
 
 LifeTime娛樂頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live029&nid=217
 
@@ -276,7 +276,7 @@ LifeTime娛樂頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4g
 
 公視3,mitv://fccs.word-tv.com:9906/62692af700080a87037ed82d98f82f9d
 
-EVE,
+EVE,P2p://ns1.hellotvvod.com:9906/3ccc2eec25ab489db213f9fb46f26a12
 
 Ci罪案偵緝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live027&nid=215
 
