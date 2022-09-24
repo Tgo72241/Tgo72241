@@ -106,7 +106,7 @@ momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 
 三立新聞,http://60.251.59.180:8506/ch18.m3u8
 
-TVBS新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129#rtmp://59.124.75.138/sat/tv551#rtmp://59.124.75.150/sat/tv551#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBS新聞P2p://ns1.hellotvvod.com:9906/ebc41118c53845e8a2dae499581582d6nid=129#rtmp://59.124.75.138/sat/tv551#rtmp://59.124.75.150/sat/tv551#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MCDC5358450053584500&ct=19193&tsum=e69eb1ebdae5b69772df214072ef9f19
 
@@ -176,7 +176,7 @@ Z頻道,P2p://ns1.hellotvvod.com:9906/12d9d0895a2848b29c19099b1c750927
 
 暴走兄弟,http://zzy789.xyz/bili.php?id=10544270
 
-八大娛樂台,http://50.7.220.74:8278/badaentertain/playlist.m3u8?tid=m6f7aed1b4260&ct=18335&tsum=fd808db00f6ca5c51dd3de7d3e214287
+八大娛樂台,P2p://ns1.hellotvvod.com:9906/ebc41118c53845e8a2dae499581582d6
 
 三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229#http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews#http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
 
