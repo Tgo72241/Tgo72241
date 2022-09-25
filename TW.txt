@@ -252,7 +252,7 @@ TVBS精采台,
 
 靖天電影,P2p://ns1.hellotvvod.com:9906/67ebfadc889a4e6d921a3dac4c60a13e
 
-靖天國際,
+靖天國際,P2p://ns1.hellotvvod.com:9906/926da0c0eca94439af50e1c9d7252b91
 
 靖天資訊台,P2p://ns1.hellotvvod.com:9906/ab943bcadc7445e8a06750601dc1b037
 
