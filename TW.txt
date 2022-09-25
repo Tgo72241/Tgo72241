@@ -314,9 +314,9 @@ GoodTV2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/l
 
 中視新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 
-中視精采台,
+中視精采台,P2p://ns1.hellotvvod.com:9906/5b3a623b59cc4ca485164447a50a50d6
 
-台視財經,
+台視財經,P2p://ns1.hellotvvod.com:9906/7b5a05c6ca934563926805f9c5ca9624
 
 台視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
 
@@ -324,11 +324,11 @@ BBC Lifestyle,P2p://ns1.hellotvvod.com:9906/77a1270e08bc44cebf20218a8615aa09
 
 BBC Earth,http://198.16.64.10:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
 
-星衛娛樂台,http://iptv12k.com:35461/live/80301070602/456776/1247.m3u8
+星衛娛樂台,P2p://ns1.hellotvvod.com:9906/592e4a01bbdc4e51beffdcc1f0587651
 
 THE K-POP,https://git.io/JgYAE
 
-CBeebies,http://iptv12k.com:35461/live/80301070602/456776/615.m3u8
+CBeebies,P2p://ns1.hellotvvod.com:9906/6e58dc42730f4f9f8636c44bea5fd0ee
 
 CTN傳訊電視,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 
@@ -372,7 +372,7 @@ Discovery科學,P2p://ns1.hellotvvod.com:9906/0da5263fa35e4e558deb22b305f1aeae
 
 tvN,
 
-韓國娛樂台,
+韓國娛樂台,P2p://ns1.hellotvvod.com:9906/0c017840018c450daba0e157b0f73f53
 
 Arirang,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
 
@@ -523,6 +523,8 @@ imode時尚頻道,https://juyunlive.juyun.tv/live/24950198.m3u8
 Mezzo Live,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv083&nid=79
 
 CinemaWorld,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live069&nid=225#P2p://ns1.hellotvvod.com:9906/46074777cbb340718ff12c32a0f63a00
+
+八大優頻道,P2p://ns1.hellotvvod.com:9906/4ca8194ba8504953aa46adfbb99f3d28
 
 🇹🇼網路廣播🇹🇼#genre#
 
