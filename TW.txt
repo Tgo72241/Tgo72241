@@ -28,13 +28,15 @@ CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x72
 
 公視台語台,
 
+GoodTV,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+
 原住民電視台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
 
-客家電視台,P2p://ns1.hellotvvod.com:9906/be3ea9c28893494e9e4c2ad72fe06c3b
+客家電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
 
 國家地理,http://220.134.196.147:9569/http/116.50.42.19:8081/hls/61/803/ch01.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
 
-Discovery,http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811#http://50.7.220.74:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7#P2p://ns1.hellotvvod.com:9906/77d7615bfb1b4387afa4764c9ba1d243
+Discovery,Discovery,http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811#http://50.7.220.74:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7#P2p://ns1.hellotvvod.com:9906/77d7615bfb1b4387afa4764c9ba1d243
 
 TLC旅遊生活,http://220.134.196.147:9570/http/116.50.42.18:8088/hls/70/812/ch38.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a#http://220.134.196.147:9567/http/116.50.42.19:8081/hls/70/812/ch38.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
 
@@ -104,10 +106,10 @@ momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 
 民視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31#http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#http://61.219.170.95:18563/.m3u8#https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8
 
-三立新聞,http://60.251.59.180:8506/ch18.m3u8
+三立新聞,P2p://ns1.hellotvvod.com:9906/3afd0637dfc94845a4d9b812378b5740
 
 TVBS新聞台,P2p://ns1.hellotvvod.com:9906/ebc41118c53845e8a2dae499581582d6nid=129#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129#rtmp://59.124.75.138/sat/tv551#rtmp://59.124.75.150/sat/tv551#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-
+                       
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MCDC5358450053584500&ct=19193&tsum=e69eb1ebdae5b69772df214072ef9f19
 
 東森財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211#http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw#https://git.io/Jgkpc#rtmp://59.124.75.138/sat/tv571
@@ -248,7 +250,7 @@ TVBS精采台,
 
 靖天歡樂,
 
-靖天映畫,
+靖天映畫,P2p://ns1.hellotvvod.com:9906/a34a42ed14174770b0c9e38248b74fe7
 
 靖天電影,P2p://ns1.hellotvvod.com:9906/67ebfadc889a4e6d921a3dac4c60a13e
 
@@ -344,19 +346,19 @@ Eurosport 2,
 
 WWE,http://50.7.220.74:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 
-ELTA體育1台,mitv://fccs.word-tv.com:9906/62596cd0000349b813fb2a4367d31141
+ELTA體育1台,http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 
-ELTA體育2台,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10
+ELTA體育2台,rtmp://59.124.75.138/sat/md021#rtmp://59.124.75.150/sat/md021
 
-ELTA體育3台,mitv://fccs.word-tv.com:9906/62596d0a0009c5b313fc0e7cd12205f2
+ELTA體育3台,P2p://ns1.hellotvvod.com:9906/2ee5f37c2ade47c793e3ad06f5b2ada3
 
 HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 
-HBO強檔巨獻,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+HBO強檔巨獻,P2p://ns1.hellotvvod.com:9906/7d3ea99ee7d848d596a3ea052a566cd0
 
-HBO原創巨獻,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee#mitv://fccs.word-tv.com:9906/6259b8f1000b9a0015248d4cabbe753c
+HBO原創巨獻,P2p://ns1.hellotvvod.com:9906/97d7a522b3b045d0adcf2a717a6f0ff4
 
-HBO溫馨家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f#http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+HBO溫馨家庭,P2p://ns1.hellotvvod.com:9906/8710b68f6694412c96d1c4f459ebf48a
 
 HGTV家園頻道,P2p://ns1.hellotvvod.com:9906/251ab533f96e4439ba04dca63a391f44
 
@@ -385,6 +387,8 @@ Travel Channel,http://iptv12k.com:35461/live/80301070602/456776/1213.m3u8
 寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 
 寰宇新聞2台,
+
+寰宇新聞台灣台,P2p://ns1.hellotvvod.com:9906/48760fbeb15a4544885642389194a66b
 
 CLASSICA 古典樂,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv059&nid=80
 
@@ -450,7 +454,7 @@ ELTA影劇,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e4169431
 
 ELTA綜合,
 
-EYE TV旅遊台,
+EYE TV旅遊台,P2p://ns1.hellotvvod.com:9906/3d77e3df645347b7bf8898b24021c22c
 
 EYE TV戲劇台,
 
@@ -460,7 +464,7 @@ EYE TV戲劇台,
 
 壹電影,P2p://ns1.hellotvvod.com:9906/7a746efb886845d0aa5be759581bd440
 
-壹綜合,
+壹綜合,P2p://ns1.hellotvvod.com:9906/89ca8b262c174d33bed9dd2d938187dd
 
 時尚運動X,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
 
@@ -526,9 +530,11 @@ CinemaWorld,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live06
 
 八大優頻道,P2p://ns1.hellotvvod.com:9906/4ca8194ba8504953aa46adfbb99f3d28
 
-Thrill,P2p://ns1.hellotvvod.com:9906/3fb70424599d41419475b07d53512a97
+Thrill驚慄電影台,P2p://ns1.hellotvvod.com:9906/3fb70424599d41419475b07d53512a97
 
-🇹🇼網路廣播🇹🇼#genre#
+Love Nature自然生態紀實,P2p://ns1.hellotvvod.com:9906/d2714ed99bdf4e8b86f7d214a8f65c31
+
+??🇼網路廣播🇹??#genre#
 
 中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
 
