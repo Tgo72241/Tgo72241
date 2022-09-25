@@ -192,9 +192,9 @@ SBN全球財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-li
 
 momo,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 
-History,http://iptv12k.com:35461/live/80301070602/456776/1206.m3u8
+History,P2p://ns1.hellotvvod.com:9906/931e00e969394e5aa2abf5c29f0d0f79
 
-History2,http://iptv12k.com:35461/live/80301070602/456776/1201.m3u8
+History2,P2p://ns1.hellotvvod.com:9906/04b361440a4344648869f3613e2b1ba6
 
 海豚綜合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 
@@ -392,9 +392,9 @@ DMAX,http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c1
 
 CatchPlay Beyond,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live155&nid=200
 
-CatchPlay電影台,http://hs.crtvhstv.xyz:80/play/WJ2FfABYjXmtFvha8EO8kpudEw7zPu0AsbPjpaY7zpk
+CatchPlay電影台,P2p://ns1.hellotvvod.com:9906/62c7b91ecaba4ff7b6413f1d3016d11a
 
-AMC最愛電影,P2p://ns1.hellotvvod.com:9906/193db37396de436fac5c57fcb5314978
+AMC最愛電影,P2p://ns1.hellotvvod.com:9906/e09586d5be6844b1844aad833297dd40
 
 優視頻道,
 
@@ -404,17 +404,17 @@ AMC最愛電影,P2p://ns1.hellotvvod.com:9906/193db37396de436fac5c57fcb5314978
 
 博斯高球I,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
 
-博斯高球II,http://198.204.239.194:27347/livehlsplay?channel_id=20117
+博斯高球II,P2p://ns1.hellotvvod.com:9906/4f305af816b24109ba5a0d86bf3e712f
 
 博斯網球,http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
 
-博斯魅力,
+博斯魅力,P2p://ns1.hellotvvod.com:9906/5c0000c6ebd44d5cb5cc1346f7a4ea58
 
-博斯運動II,rtmp://59.124.75.138/sat/md051#rtmp://59.124.75.150/sat/md051
+博斯運動II,P2p://ns1.hellotvvod.com:9906/1336a84933714044a6a744ec73b15d8b
 
-博斯無限,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn10&nid=51
+博斯無限,P2p://ns1.hellotvvod.com:9906/0a729f4ebe304ac5880bcdc3fd735409
 
-博斯無限II,
+博斯無限II,P2p://ns1.hellotvvod.com:9906/5a71c4b7a7e44a77a60173a2159d9e86
 
 經典動漫,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
 
@@ -458,7 +458,7 @@ EYE TV戲劇台,
 
 亞洲美食,P2p://ns1.hellotvvod.com:9906/c9930babe39040ab9711dd2be99ff7f2
 
-壹電影,
+壹電影,P2p://ns1.hellotvvod.com:9906/7a746efb886845d0aa5be759581bd440
 
 壹綜合,
 
@@ -525,6 +525,8 @@ Mezzo Live,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv083
 CinemaWorld,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live069&nid=225#P2p://ns1.hellotvvod.com:9906/46074777cbb340718ff12c32a0f63a00
 
 八大優頻道,P2p://ns1.hellotvvod.com:9906/4ca8194ba8504953aa46adfbb99f3d28
+
+Thrill,P2p://ns1.hellotvvod.com:9906/3fb70424599d41419475b07d53512a97
 
 🇹🇼網路廣播🇹🇼#genre#
 
