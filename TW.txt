@@ -240,7 +240,7 @@ NHK新聞,
 
 國會頻道2,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv085&nid=171
 
-國家地理野生,
+國家地理野生,P2p://ns1.hellotvvod.com:9906/3e21672ae8184fdca238df5058efbe67
 
 TVBS精采台,
 
