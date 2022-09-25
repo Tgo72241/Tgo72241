@@ -274,11 +274,11 @@ LifeTime娛樂頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4g
 
 公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
 
-公視3,mitv://fccs.word-tv.com:9906/62692af700080a87037ed82d98f82f9d
+公視3,P2p://ns1.hellotvvod.com:9906/7ea63223e87b4dcf9768ae5544b719f6
 
 EVE,P2p://ns1.hellotvvod.com:9906/3ccc2eec25ab489db213f9fb46f26a12
 
-Ci罪案偵緝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live027&nid=215
+Ci罪案偵緝,P2p://ns1.hellotvvod.com:9906/16f9d5b08cb64cdc9afd6da5848f3269
 
 TV5MONDE Style,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live122&nid=178
 
@@ -320,7 +320,7 @@ GoodTV2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/l
 
 台視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
 
-BBC Lifestyle,
+BBC Lifestyle,P2p://ns1.hellotvvod.com:9906/77a1270e08bc44cebf20218a8615aa09
 
 BBC Earth,http://198.16.64.10:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
 
