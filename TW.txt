@@ -60,7 +60,7 @@ momo親子台,
 
 三立都會台,P2p://ns1.hellotvvod.com:9906/d03bbc7d90054cefbc582ad12b0892e5
 
-衛視中文台,P2p://ns1.hellotvvod.com:9906/c7e0f6b12c2943889d6de8e0d81a91bf
+衛視中文台,http://198.16.64.10:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
 
 東森綜合,http://218.32.47.179:18524/http/192.168.1.9:8081/hls/63/805/ch12.m3u8
 
