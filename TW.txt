@@ -342,7 +342,7 @@ CTN傳訊電視,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m
 
 Eurosport 1,http://213.172.73.171:8081/nimble_live/1176__Eurosport1_HD/playlist.m3u8
 
-Eurosport 2,
+Eurosport 2,http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=eurosport2
 
 WWE,http://50.7.220.74:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 
