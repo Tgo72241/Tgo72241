@@ -530,6 +530,8 @@ CinemaWorld,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live06
 
 金馬影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
+Taiwan+,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=dZp87qnWelE&P=1080
+
 ??🇼網路廣播🇹??#genre#
 
 中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
