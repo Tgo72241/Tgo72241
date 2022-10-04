@@ -338,7 +338,7 @@ CTN傳訊電視,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m
 
 美亞電影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 
-歐洲體育,
+歐洲體育,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21036
 
 Eurosport 1,http://213.172.73.171:8081/nimble_live/1176__Eurosport1_HD/playlist.m3u8
 
