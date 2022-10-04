@@ -84,7 +84,7 @@ momo 2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 
 TVBS歡樂台,rtmp://59.124.75.138:1935/sat/tv421
 
-緯來戲劇,
+緯來戲劇,http://218.32.47.179:18533/http/192.168.1.9:8081/hls/69/811/ch33.m3u8
 
 高點綜合,P2p://ns1.hellotvvod.com:9906/4b371942e3d84f04997850fb09280df1
 
