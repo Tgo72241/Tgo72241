@@ -50,7 +50,7 @@ momo親子台,
 
 東森幼幼台,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d#https://git.io/JgYON#https://epg.pm/stream/75bdeb8fb878489703ac3d1317f3562e79dfd1ef9c56faf80f1f7fc848b49b3e.m3u8
 
-緯來綜合,http://218.32.47.179:18518/http/192.168.1.9:8081/hls/68/810/ch32.m3u8
+緯來綜合,http://60.251.33.252:18540/.m3u8
 
 八大第一台,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164#http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 
@@ -84,7 +84,7 @@ momo 2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 
 TVBS歡樂台,rtmp://59.124.75.138:1935/sat/tv421
 
-緯來戲劇,http://220.134.196.147:9233/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+緯來戲劇,
 
 高點綜合,P2p://ns1.hellotvvod.com:9906/4b371942e3d84f04997850fb09280df1
 
