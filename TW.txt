@@ -102,7 +102,7 @@ momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 
 東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234#https://epg.pm/stream/c8621da5d311aa34e7281b64bec8f141bfaad8786dd836d533054d9bf46cc7b9.php#P2p://ns1.hellotvvod.com:9906/632ed03f000948aed0b1ac1d79cb6725
 
-華視新聞資訊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34#http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw
+華視新聞資訊,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw
 
 民視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31#http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#http://61.219.170.95:18563/.m3u8#https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8
 
