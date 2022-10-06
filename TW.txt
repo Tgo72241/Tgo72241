@@ -100,7 +100,7 @@ momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 
 年代新聞台,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 
-東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234#https://epg.pm/stream/c8621da5d311aa34e7281b64bec8f141bfaad8786dd836d533054d9bf46cc7b9.php#P2p://ns1.hellotvvod.com:9906/632ed03f000948aed0b1ac1d79cb6725
+東森新聞,mitv://ns1.hellotvvod.com:9906/f8069eb9006b4a22bd29868593b273d6#mitv://ns1.hellotvvod.com:9906/9404699feaa0449ba83ee51cca2e6a9a
 
 華視新聞資訊,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw
 
