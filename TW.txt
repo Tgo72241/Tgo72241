@@ -22,7 +22,7 @@ CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x72
 
 霹靂台灣台,P2p://ns1.hellotvvod.com:9906/ee07d44e6cdb4eb092248431e5582968
 
-華視,rtmp://59.124.75.138/sat/tv111#rtmp://59.124.75.150/sat/tv111
+華視,rtmp://59.124.75.138/sat/tv111#rtmp://59.124.75.150/sat/tv111#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 
 公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20299#http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed#http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
 
@@ -112,7 +112,7 @@ TVBS新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live
                        
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MCDC5358450053584500&ct=19193&tsum=e69eb1ebdae5b69772df214072ef9f19#http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6#https://git.io/JgYl2
 
-東森財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211#http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw#https://git.io/Jgkpc#rtmp://59.124.75.138/sat/tv571
+東森財經,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw#https://git.io/Jgkpc#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 
 非凡新聞,http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20295
 
@@ -180,7 +180,7 @@ Z頻道,P2p://ns1.hellotvvod.com:9906/12d9d0895a2848b29c19099b1c750927
 
 八大娛樂台,P2p://ns1.hellotvvod.com:9906/ebc41118c53845e8a2dae499581582d6
 
-三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229#http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews#http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
+三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews#http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 
 非凡商業,http://61.219.170.95:18510/.m3u8
 
@@ -314,7 +314,7 @@ GoodTV2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/l
 
 中視經典台,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0#http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
 
-中視新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
+中視新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 
 中視精采台,
 
@@ -384,7 +384,7 @@ Nick Jr.,
 
 Travel Channel,
 
-寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
+寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 
 寰宇新聞2台,
 
@@ -529,6 +529,8 @@ Mezzo Live,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv083
 CinemaWorld,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live069&nid=225
 
 Taiwan+,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=dZp87qnWelE&P=1080
+
+信大,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 
 ??🇼網路廣播🇹??#genre#
 
