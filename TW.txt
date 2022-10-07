@@ -308,9 +308,9 @@ GoodTV2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/l
 
 民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
 
-民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
+民視第一台,mitv://ns1.hellotvvod.com:9906/50c21212fbec48bdafa8eb56d3d1d5aa
 
-民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
+民視台灣台,mitv://ns1.hellotvvod.com:9906/7ed1db8136d4427d9bbe3064b36d178d
 
 中視經典台,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0#http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
 
