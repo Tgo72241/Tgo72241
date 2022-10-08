@@ -56,9 +56,9 @@ momo親子台,
 
 八大綜合,http://218.32.47.179:18520/http/192.168.1.9:8081/hls/66/808/ch21.m3u8#http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae#http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
 
-三立台灣台,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20623#http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
+三立台灣台,http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8#mitv://ns1.hellotvvod.com:9906/0c3718631244496ca4ff61801b4e4a9b
 
-三立都會台,P2p://ns1.hellotvvod.com:9906/d03bbc7d90054cefbc582ad12b0892e5
+三立都會台,mitv://ns1.hellotvvod.com:9906/3960938758324df59a394ccc793c1652
 
 衛視中文台,http://198.16.64.10:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
 
