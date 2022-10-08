@@ -20,7 +20,7 @@ CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x72
 
 中視,rtmp://59.124.75.138/sat/tv091#rtmp://59.124.75.150/sat/tv091
 
-霹靂台灣台,mitv://ns1.hellotvvod.com:9906/472f71fd8b62488b847d625f87d4d2ae
+霹靂台灣台,mitv://ns1.hellotvvod.com:9906/6a099434f85f476fa2d0ee1c618f9497
 
 華視,rtmp://59.124.75.138/sat/tv111#rtmp://59.124.75.150/sat/tv111#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 
