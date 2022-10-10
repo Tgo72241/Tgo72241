@@ -36,7 +36,7 @@ GoodTV,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/li
 
 國家地理,http://220.134.196.147:9569/http/116.50.42.19:8081/hls/61/803/ch01.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
 
-Discovery,Discovery,http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811#http://50.7.220.74:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
+Discovery,http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811#http://50.7.220.74:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
 
 TLC旅遊生活,http://220.134.196.147:9570/http/116.50.42.18:8088/hls/70/812/ch38.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a#http://220.134.196.147:9567/http/116.50.42.19:8081/hls/70/812/ch38.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
 
@@ -370,7 +370,7 @@ Star Movies,
 
 Discovery Asia,http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715#http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
 
-Discovery科學,
+Discovery科學,http://198.16.64.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
 
 tvN,
 
