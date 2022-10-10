@@ -48,7 +48,7 @@ CN卡通頻道,http://198.16.64.10:8278/momo1_twn/playlist.m3u8?tid=MA0A48989836
 
 momo親子台,
 
-東森幼幼台,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d#https://git.io/JgYON#https://epg.pm/stream/75bdeb8fb878489703ac3d1317f3562e79dfd1ef9c56faf80f1f7fc848b49b3e.m3u8
+東森幼幼台,https://git.io/JgYON#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
 
 緯來綜合,http://60.251.33.252:18540/.m3u8
 
