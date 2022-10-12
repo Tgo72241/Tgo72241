@@ -356,9 +356,9 @@ HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837
 
 HBO強檔巨獻,mitv://ns1.hellotvvod.com:9906/a7e026c5a7b44599abf5f44a693b1248
 
-HBO原創巨獻,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb#https://epg.pm/stream/7e158ad29960945fb1afe3d16833b1181a5a06af3c41bc6ae3ef733411cf9756.m3u8
+HBO原創巨獻,mitv://ns1.hellotvvod.com:9906/a8cd4e28d72c43f086794e03bc25a17e
 
-HBO溫馨家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3#http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853#http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f#https://epg.pm/stream/f21b9c7654650fa1be3e627fa4aad61fc833cc65d1844c1f6bca78c833d7e1f2.m3u8
+HBO溫馨家庭,mitv://ns1.hellotvvod.com:9906/00f60986c3924a9ba563ef50074abb0d
 
 HGTV家園頻道,
 
