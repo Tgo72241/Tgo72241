@@ -72,7 +72,7 @@ momo 2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 
 中天綜合,http://198.16.64.10:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc#https://epg.pm/stream/030411c16cc198667df2424c8d4d1c79e76e68ea09066de88a6d7517c7ab949e.m3u8
 
-東風衛視,http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
+東風衛視,http://60.251.33.252:18560/.m3u8
 
 年代MUCH,http://218.32.47.179:18529/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
 
