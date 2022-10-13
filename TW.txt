@@ -46,7 +46,7 @@ CN卡通頻道,http://198.16.64.10:8278/momo1_twn/playlist.m3u8?tid=MA0A48989836
 
 尼克兒童頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live105&nid=185
 
-momo親子台,
+momo親子台,mitv://ns1.hellotvvod.com:9906/9e648fb320ba46be98dc26227341ac2f
 
 東森幼幼台,https://git.io/JgYON#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
 
@@ -194,7 +194,7 @@ SBN全球財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-li
 
 momo,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 
-History,
+History,mitv://ns1.hellotvvod.com:9906/98edb2bc02714efcbdca7a5d68ad0b13
 
 History2,
 
@@ -256,29 +256,29 @@ TVBS精采台,
 
 靖天國際,http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
 
-靖天資訊台,
+靖天資訊台,mitv://ns1.hellotvvod.com:9906/824e8f3a41e146e9bba64b69b6a78c53
 
-靖天綜合,
+靖天綜合,mitv://ns1.hellotvvod.com:9906/885b99be96e8493cb6f62bba1740c392
 
-靖天育樂,
+靖天育樂,mitv://ns1.hellotvvod.com:9906/f91fdeffcf7443b188c8ddb929cf6133
 
-靖天卡通,http://50.7.220.74:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c#http://198.16.64.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
+靖天卡通,http://50.7.220.74:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c#http://198.16.64.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547#mitv://ns1.hellotvvod.com:9906/31d65bc8b7d64f6dbf612ecf979bfa33
 
-靖天戲劇,
+靖天戲劇,mitv://ns1.hellotvvod.com:9906/173b337771b24286ba991800ee6373d5
 
-靖天日本,
+靖天日本,mitv://ns1.hellotvvod.com:9906/7c6ced8d69f54f9fbadeab933e6cbdba
 
-靖洋卡通台,
+靖洋卡通台,mitv://ns1.hellotvvod.com:9906/c9380aff222e44d3bb98dadc7736318c
 
-靖洋戲劇台,
+靖洋戲劇台,mitv://ns1.hellotvvod.com:9906/0dc6fce4fdf24cbca7aec992ca428c31
 
-LifeTime娛樂頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live029&nid=217
+LifeTime娛樂頻道,mitv://ns1.hellotvvod.com:9906/f9cfa6a0fa77479b97fad3704eb49105
 
 公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
 
 公視3,mitv://ns1.hellotvvod.com:9906/39ba2c4aaecf48a98df0411dd5a6d983
 
-EVE,
+EVE,mitv://ns1.hellotvvod.com:9906/0cc303d9645546d6af5dc3fd9b6992e0
 
 Ci罪案偵緝,http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=MDED2146129621461296&ct=18392&tsum=5d3635ae16593892965af78a8a1c402c
 
@@ -360,7 +360,7 @@ HBO原創巨獻,mitv://ns1.hellotvvod.com:9906/a8cd4e28d72c43f086794e03bc25a17e
 
 HBO溫馨家庭,mitv://ns1.hellotvvod.com:9906/00f60986c3924a9ba563ef50074abb0d
 
-HGTV家園頻道,
+HGTV家園頻道,mitv://ns1.hellotvvod.com:9906/1d49d97b20df4655a5cb813f96b94dbd
 
 Star Movies,
 
