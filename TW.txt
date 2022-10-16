@@ -362,7 +362,7 @@ HBO溫馨家庭,mitv://ns1.hellotvvod.com:9906/00f60986c3924a9ba563ef50074abb0d
 
 HGTV家園頻道,mitv://ns1.hellotvvod.com:9906/1d49d97b20df4655a5cb813f96b94dbd
 
-Star Movies,
+Star Movies,mitv://ns1.hellotvvod.com:9906/6ffe93c9698a48eb9a3da4b5d179c4d6
 
 美食星球,http://198.16.64.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
 
