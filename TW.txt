@@ -276,7 +276,7 @@ LifeTime娛樂頻道,mitv://ns1.hellotvvod.com:9906/f9cfa6a0fa77479b97fad3704eb4
 
 公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
 
-公視3,mitv://ns1.hellotvvod.com:9906/39ba2c4aaecf48a98df0411dd5a6d983
+公視3,mitv://ns1.hellotvvod.com:9906/bd8752176edf4873bca085b19891ad55
 
 EVE,mitv://ns1.hellotvvod.com:9906/0cc303d9645546d6af5dc3fd9b6992e0
 
@@ -322,9 +322,9 @@ GoodTV2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/l
 
 台視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
 
-BBC Lifestyle,
+BBC Lifestyle,mitv://ns1.hellotvvod.com:9906/20f9b3e33fda4fa7905dc697103150cf
 
-BBC Earth,http://198.16.64.10:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
+BBC Earth,mitv://ns1.hellotvvod.com:9906/a0a3eeb02ba3418e8dcc9c491d498e75
 
 星衛娛樂台,
 
@@ -496,9 +496,9 @@ FashionTV,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&
 
 桌遊新樂園,http://152.69.224.242:9500/jmsytb.m3u8?c=39
 
-爆谷台,
+爆谷台,mitv://ns1.hellotvvod.com:9906/f5fba721894b49fe8fc85906deddec82
 
-星影台,
+星影台,mitv://ns1.hellotvvod.com:9906/e63ef476636a4f8eb53a14035b0d85f1
 
 FoxSports 1,
 
