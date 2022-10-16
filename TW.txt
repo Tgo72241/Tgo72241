@@ -152,7 +152,7 @@ ELEVEN 3,http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 
 momo綜合台,rtmp://59.124.75.150/sat/tv761
 
-博斯運動I,http://220.134.196.147:9564/http/116.50.42.18:8066/hls/210/10018/cstv18.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
+博斯運動I,mitv://ns1.hellotvvod.com:9906/1ac52c205b3b49d887da06f444809d96
 
 緯來日本,rtmp://59.124.75.138:1935/sat/tv771#http://61.219.170.95:18524/.m3u8
 
@@ -406,17 +406,17 @@ AMC最愛電影,
 
 三立戲劇台,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
 
-博斯高球I,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
+博斯高球I,mitv://ns1.hellotvvod.com:9906/3f5f69a91567432190b4e2647bb5b6ac
 
 博斯高球II,
 
-博斯網球,http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+博斯網球,mitv://ns1.hellotvvod.com:9906/061e0b29b56e41e98c8c3387976d169e
 
 博斯魅力,
 
-博斯運動II,
+博斯運動II,http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
 
-博斯無限,
+博斯無限,mitv://ns1.hellotvvod.com:9906/836aa41e6b8a42e1b506fa4abd7e190b
 
 博斯無限II,
 
