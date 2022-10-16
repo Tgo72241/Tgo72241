@@ -408,17 +408,17 @@ AMC最愛電影,
 
 博斯高球I,mitv://ns1.hellotvvod.com:9906/3f5f69a91567432190b4e2647bb5b6ac
 
-博斯高球II,
+博斯高球II,mitv://ns1.hellotvvod.com:9906/d7cb2ca22a624860ba2fde345fa09b77
 
 博斯網球,mitv://ns1.hellotvvod.com:9906/061e0b29b56e41e98c8c3387976d169e
 
-博斯魅力,
+博斯魅力,mitv://ns1.hellotvvod.com:9906/6b06082f6c254274ae8c0a7552e752b1
 
 博斯運動II,http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
 
 博斯無限,mitv://ns1.hellotvvod.com:9906/836aa41e6b8a42e1b506fa4abd7e190b
 
-博斯無限II,
+博斯無限II,mitv://ns1.hellotvvod.com:9906/476be3c3a31c4bfdaa84ca73b3a4efb7
 
 經典動漫,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
 
