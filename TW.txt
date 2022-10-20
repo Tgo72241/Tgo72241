@@ -158,7 +158,7 @@ momo綜合台,rtmp://59.124.75.150/sat/tv761
 
 國興衛視,
 
-衛視合家歡,http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8#http://61.219.170.95:18504/.m3u8
+衛視合家歡,http://220.134.196.147:9561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a#http://220.134.196.147:9561/http/116.50.42.18:8081/hls/61/803/ch02.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 
@@ -436,13 +436,13 @@ LUXE TV,
 
 釣りビジョン,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-J Sports 1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
 
-J Sports 2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J Sports 2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 
-J Sports 3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J Sports 3,http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 
-J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J Sports 4,
 
 東森LIVE,
 
