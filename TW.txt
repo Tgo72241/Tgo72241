@@ -144,9 +144,9 @@ CINEMAX,http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MCEC16145198161451
 
 緯來體育,http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
 
-ELEVEN 1,rtmp://59.124.75.138:1935/sat/tv731#http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23#http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+ELEVEN 1,rtmp://59.124.75.147/sat/tv731#http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23#http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
 
-ELEVEN 2,rtmp://59.124.75.138:1935/sat/tv741
+ELEVEN 2,rtmp://59.124.75.147/sat/tv741#http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 
 ELEVEN 3,http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 
