@@ -6,7 +6,7 @@
 
 金光布袋戲,
 
-紅牛RedBull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8#https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+紅牛RedBull,
 
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
