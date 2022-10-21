@@ -444,7 +444,7 @@ J Sports 3,http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 
 J Sports 4,
 
-東森LIVE,
+東森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
 
 ELTV生活英語台,
 
