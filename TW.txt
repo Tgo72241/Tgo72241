@@ -276,7 +276,7 @@ LifeTime娛樂頻道,
 
 公視戲劇,
 
-公視3,
+公視3,mitv://ns1.hellotvvod.com:9906/e9308d8606574290a69b0403bec43304#P2p://ns1.hellotvvod.com:9906/e9308d8606574290a69b0403bec43304
 
 EVE,
 
