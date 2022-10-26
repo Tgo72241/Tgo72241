@@ -14,7 +14,7 @@ CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x72
 
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
-台視,rtmp://59.124.75.150/sat/tv071
+台視,http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=MEDE4406594744065947&ct=19193&tsum=079f13bae33c63d33bb128fd265e8466#rtmp://59.124.75.147/sat/tv071#http://123.51.229.65:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8#http://23.237.10.66:16344#http://123.51.229.65:18543/.m3u8
 
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 
