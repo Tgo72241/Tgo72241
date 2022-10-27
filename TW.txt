@@ -36,7 +36,7 @@ GoodTV,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/li
 
 國家地理,http://220.134.196.147:9569/http/116.50.42.19:8081/hls/61/803/ch01.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
 
-Discovery,http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811#http://50.7.220.74:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
+Discovery,http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
 
 TLC旅遊生活,http://220.134.196.147:9570/http/116.50.42.18:8088/hls/70/812/ch38.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a#http://220.134.196.147:9567/http/116.50.42.19:8081/hls/70/812/ch38.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
 
@@ -48,7 +48,7 @@ CN卡通頻道,http://198.16.64.10:8278/momo1_twn/playlist.m3u8?tid=MA0A48989836
 
 momo親子台,mitv://ns1.hellotvvod.com:9906/c2f619a282e44440be2e4f7371c2c2d3#P2p://ns1.hellotvvod.com:9906/c2f619a282e44440be2e4f7371c2c2d3
 
-東森幼幼台,https://git.io/JgYON#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
+東森幼幼台,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d#https://git.io/JgYON#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
 
 緯來綜合,http://60.251.33.252:18540/.m3u8
 
@@ -338,7 +338,7 @@ CTN傳訊電視,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m
 
 美亞電影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 
-歐洲體育,
+歐洲體育,mitv://ns1.hellotvvod.com:9906/238fb8d044e4455ca77a4fba5dea8c68#P2p://ns1.hellotvvod.com:9906/238fb8d044e4455ca77a4fba5dea8c68
 
 Eurosport 1,http://213.172.73.171:8081/nimble_live/1176__Eurosport1_HD/playlist.m3u8
 
