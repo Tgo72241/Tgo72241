@@ -52,9 +52,9 @@ momo親子台,mitv://ns1.hellotvvod.com:9906/c2f619a282e44440be2e4f7371c2c2d3#P2
 
 緯來綜合,http://60.251.33.252:18540/.m3u8
 
-八大第一台,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164#http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+八大第一台,mitv://ns1.hellotvvod.com:9906/207d79f613764bd5950e1932f4770254#P2p://ns1.hellotvvod.com:9906/207d79f613764bd5950e1932f4770254
 
-八大綜合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+八大綜合,http://218.32.47.179:18520/http/192.168.1.9:8081/hls/66/808/ch21.m3u8
 
 三立台灣台,http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
 
