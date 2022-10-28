@@ -22,7 +22,7 @@ CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x72
 
 霹靂台灣台,P2p://ns1.hellotvvod.com:9906/3889243a61604b7cb148a19183e31cb0#mitv://ns1.hellotvvod.com:9906/3889243a61604b7cb148a19183e31cb0
 
-華視,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/72/814/ch48.m3u8#rtmp://59.124.75.147/sat/tv111#http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8#http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81#http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=MD3D4860867448608674&ct=19193&tsum=773d4005ddbc68ed16154cc49ba1fc76
+華視,rtmp://59.124.75.147/sat/tv111#http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8#http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81#http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=MD3D4860867448608674&ct=19193&tsum=773d4005ddbc68ed16154cc49ba1fc76
 
 公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4#http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed#http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
 
