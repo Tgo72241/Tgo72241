@@ -90,7 +90,7 @@ TVBS歡樂台,rtmp://59.124.75.138:1935/sat/tv421
 
 JET綜合,http://198.16.64.10:8278/jettv_japan/playlist.m3u8?tid=MA7A4202687942026879&ct=19225&tsum=e84bc4851b9d6f6a18282c1efcb6ed1d
 
-東森購物3,P2p://ns1.hellotvvod.com:9906/d8b1eabacacf489796008aae0ef81389#mitv://ns1.hellotvvod.com:9906/d8b1eabacacf489796008aae0ef81389
+東森購物3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 
 東森購物1,mitv://ns1.hellotvvod.com:9906/ee2fb8de0f2040f0ae6f12cbb8b74890#P2p://ns1.hellotvvod.com:9906/ee2fb8de0f2040f0ae6f12cbb8b74890
 
