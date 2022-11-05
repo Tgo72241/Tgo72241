@@ -2,13 +2,13 @@
 
 網路流行音樂台,https://git.io/JgkA6
 
-豬哥亮歌廳秀,
+華語流行歌曲,https://git.io/JgYR5
 
-金光布袋戲,
+金馬影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 紅牛RedBull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+音樂石榴,http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs
 
 民視,rtmp://59.124.75.147/sat/tv051#http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc#http://23.237.10.66:16334
 
