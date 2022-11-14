@@ -42,7 +42,7 @@ TLC旅遊生活,http://220.134.196.147:9570/http/116.50.42.18:8088/hls/70/812/ch
 
 動物星球,http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72#http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702#http://218.32.47.179:18512/http/192.168.1.9:8081/hls/70/812/ch37.m3u8
 
-CN卡通頻道,http://198.16.64.10:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e#http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
+CN卡通頻道,http://198.16.64.10:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
 
 尼克兒童頻道,P2p://ns1.hellotvvod.com:9906/76cc8a202f83469d81a32076ffccc7fd#mitv://ns1.hellotvvod.com:9906/76cc8a202f83469d81a32076ffccc7fd
 
