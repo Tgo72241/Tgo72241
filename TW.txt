@@ -64,7 +64,7 @@ momo親子台,mitv://ns1.hellotvvod.com:9906/c2f619a282e44440be2e4f7371c2c2d3#P2
 
 東森綜合,http://218.32.47.179:18524/http/192.168.1.9:8081/hls/63/805/ch12.m3u8
 
-東森超視,rtmp://59.124.75.138:1935/sat/tv331
+東森超視,http://198.16.64.10:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
 
 東森購物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 
