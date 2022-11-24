@@ -48,7 +48,7 @@ CN卡通頻道,http://198.16.64.10:8278/momo1_twn/playlist.m3u8?tid=MA0A48989836
 
 momo親子台,mitv://ns1.hellotvvod.com:9906/c2f619a282e44440be2e4f7371c2c2d3#P2p://ns1.hellotvvod.com:9906/c2f619a282e44440be2e4f7371c2c2d3
 
-東森幼幼台,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d#http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
+東森幼幼台,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5#http://198.16.64.10:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
 
 緯來綜合,http://60.251.33.252:18540/.m3u8
 
