@@ -304,7 +304,7 @@ GoodTV2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/l
 
 唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 
-民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
+民視綜藝,http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
 
 民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
 
