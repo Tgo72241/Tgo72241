@@ -254,7 +254,7 @@ TVBS精采台,
 
 靖天電影,http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
 
-靖天國際,http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
+靖天國際,http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6#http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
 
 靖天資訊台,
 
