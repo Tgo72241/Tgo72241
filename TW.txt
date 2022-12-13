@@ -112,7 +112,7 @@ TVBS新聞台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://3
                        
 TVBS,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
 
-東森財經,https://git.io/Jgkpc#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 
 非凡新聞,http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20295
 
