@@ -452,7 +452,7 @@ ELTA影劇,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e4169431
 
 ELTA綜合,
 
-ELTA娛樂,http://206.221.176.47:64024
+ELTA娛樂,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
 
 EYE TV旅遊台,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
 
