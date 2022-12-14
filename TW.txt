@@ -352,7 +352,7 @@ ELTA體育2台,rtmp://59.124.75.138/sat/md021#rtmp://59.124.75.150/sat/md021
 
 ELTA體育3台,http://www.best336699.com:1935/besttv/IR03.stream/media_w669091355_112279.m3u8
 
-HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 
 HBO強檔巨獻,
 
