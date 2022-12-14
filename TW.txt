@@ -354,7 +354,7 @@ ELTA體育3台,http://www.best336699.com:1935/besttv/IR03.stream/media_w66909135
 
 HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 
-HBO強檔巨獻,
+HBO強檔巨獻,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
 
 HBO原創巨獻,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 
