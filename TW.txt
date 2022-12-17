@@ -120,7 +120,7 @@ Animax,http://58.99.33.2:1935/liveedge2/FFuQdESe_104_1/playlist.m3u8?checkCode=3
 大立DALI,http://58.99.33.2:1935/liveedge2/FFuQdESe_119_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE#http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 樂視台,http://58.99.33.2:1935/liveedge2/FFuQdESe_120_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
 大愛2,http://58.99.33.2:1935/liveedge2/FFuQdESe_121_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-智林體育台,http://58.99.33.2:1935/liveedge2/FFuQdESe_122_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+智林體育台,http://58.99.33.2:1935/liveedge2/FFuQdESe_122_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE#http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 國會頻道1,http://58.99.33.2:1935/liveedge2/FFuQdESe_123_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE#http://61.58.60.230:9319/live/123.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
 國會頻道2,http://58.99.33.2:1935/liveedge2/FFuQdESe_124_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
 幸福空間居家,http://58.99.33.2:1935/liveedge2/FFuQdESe_125_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE#https://git.io/JgYYF#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
