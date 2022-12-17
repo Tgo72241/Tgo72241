@@ -17,7 +17,7 @@
 原住民族電視台,http://58.99.33.2:1935/liveedge2/FFuQdESe_16_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE#https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
 客家電視台,http://58.99.33.2:1935/liveedge2/FFuQdESe_17_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE#http://www.336699.live:1935/blockfour/4gtv-4gtv043.stream/playlist.m3u8
 國家地理,http://58.99.33.2:1935/liveedge2/FFuQdESe_18_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE#http://220.134.196.147:9569/http/116.50.42.19:8081/hls/61/803/ch01.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
-DISCOVERY,http://58.99.33.2:1935/liveedge2/FFuQdESe_19_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE#http://50.7.220.74:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+DISCOVERY,http://58.99.33.2:1935/liveedge2/FFuQdESe_19_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE#http://50.7.220.74:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f#http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
 中台灣生活網,http://58.99.33.2:1935/liveedge2/FFuQdESe_20_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
 TLC旅遊生活,http://58.99.33.2:1935/liveedge2/FFuQdESe_21_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE#http://220.134.196.147:9567/http/116.50.42.19:8081/hls/70/812/ch38.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
 CN卡通頻道,http://58.99.33.2:1935/liveedge2/FFuQdESe_22_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE#http://198.16.64.10:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
@@ -181,8 +181,8 @@ CatchPlay電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/pla
 靖天卡通,http://50.7.220.74:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c#http://198.16.64.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
 靖天日本,http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8
 HBO HD,http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce#http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
-HBO強檔巨獻,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
-HBO原創巨獻,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+HBO強檔巨獻,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93#http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
+HBO原創巨獻,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb#http://pull-l3-cny.douyincdn.com/live/9bfb4b08fec367ed3850357a853250d5.m3u8
 HBO溫馨家庭,http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
 THE K-POP,https://git.io/JgYAE
 THE K-POP2,https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
