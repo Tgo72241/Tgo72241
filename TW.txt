@@ -15,7 +15,7 @@
 公視,https://315600.xyz/hatv.php?id=13#http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4#http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed#http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
 公視台語台,https://315600.xyz/hatv.php?id=14
 好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8#http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-原住民電視台,https://315600.xyz/hatv.php?id=16#https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
+原住民族電視台,https://315600.xyz/hatv.php?id=16#https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
 客家電視台,https://315600.xyz/hatv.php?id=17#http://www.336699.live:1935/blockfour/4gtv-4gtv043.stream/playlist.m3u8
 國家地理,https://315600.xyz/hatv.php?id=18#http://220.134.196.147:9569/http/116.50.42.19:8081/hls/61/803/ch01.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
 DISCOVERY,https://315600.xyz/hatv.php?id=19#http://50.7.220.74:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
