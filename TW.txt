@@ -207,7 +207,7 @@ BabyTV,http://218.32.47.179:18514/http/192.168.1.9:8078/hls/35/80/babytv.m3u8#ht
 星衛娛樂台,http://23.237.10.66:16359
 NBA,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
 東森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
-Love Nature,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+Love Nature,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D#https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 新唐人亞太,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8#http://tv.redrainl.site:9500/live.m3u8?c=52
 漫步日本,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 佩佩豬,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
