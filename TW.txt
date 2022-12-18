@@ -77,7 +77,7 @@ momo綜合台,http://58.99.33.2:1935/liveedge2/FFuQdESe_75_1/playlist.m3u8?check
 博斯運動I,http://58.99.33.2:1935/liveedge2/FFuQdESe_76_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE#http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
 海豚綜合台,http://58.99.33.2:1935/liveedge2/FFuQdESe_77_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
 中投地方采風,http://58.99.33.2:1935/liveedge2/FFuQdESe_78_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
-緯來日本,http://58.99.33.2:1935/liveedge2/FFuQdESe_79_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
+緯來日本,http://58.99.33.2:1935/liveedge2/FFuQdESe_79_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE#http://315600.xyz/a/smart.php?playurl=http://50.7.168.234:8278/videolandjapan/playlist.m3u8
 國興衛視,http://58.99.33.2:1935/liveedge2/FFuQdESe_80_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
 冠軍夢想,http://58.99.33.2:1935/liveedge2/FFuQdESe_81_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
 信吉衛視,http://58.99.33.2:1935/liveedge2/FFuQdESe_82_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=60519&as=j9gk21n&mmmm=&dr=123&dt=&cust_type=NE
