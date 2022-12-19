@@ -391,7 +391,7 @@ History,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live026&hd=720
 Smithsonian Channel,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live088&hd=720
 LUXE TV,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live121&hd=720
 TV5MONDE Style,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live122&hd=720
-
+優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 
 
 中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
