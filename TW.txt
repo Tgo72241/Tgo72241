@@ -314,7 +314,7 @@ THE K-POP,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=570
 THE K-POP,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=846
 THE K-POP2,https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-Sexy K-pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 Kep1er,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=847
 釣りビジョン,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 EYE TV戲劇台,http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
@@ -377,7 +377,6 @@ Nick Jr.,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live032&hd=720
 美食星球,http://198.16.64.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
 Taiwan+,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=836
 Taiwan+,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=975
-
 I-FUN動漫,http://8.218.60.13:8080/channel.m3u8?fid=litv-ftv15&hd=720
 韓國娛樂台,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv016&hd=720
 Lifetime娛樂頻道,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live029&hd=720
