@@ -234,9 +234,8 @@ MTV Live,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live025&hd=720
 幸福空間居家,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 幸福空間居家,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=838
 幸福空間居家,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live206&hd=720
-鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 鏡新聞,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=641
-鏡新聞,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv075&hd=720
+鏡新聞,http://tv.redrainl.site:9500/live.m3u8?c=28
 發現心嘉義,http://61.58.60.230:9319/live/101.m3u8
 世新綜合,http://61.58.60.230:9319/live/49.m3u8
 龍華電影,http://220.134.196.147:9558/http/116.50.42.18:8081/hls/62/804/ch07.m3u8?token=7375646f6868906a760733c82ee9b65e9e19dd55
