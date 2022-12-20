@@ -209,6 +209,7 @@ AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19
 寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新聞,http://8.218.60.13:8080/channel.m3u8?fid=litv-longturn14&hd=720
 信大電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+信吉衛視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
 龍祥時代,http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
 EF運通,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
 EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
