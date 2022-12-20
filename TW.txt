@@ -264,6 +264,7 @@ MTV Live,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live025&hd=720
 博斯無限,http://8.218.60.13:8080/channel.m3u8?fid=litv-longturn10&hd=720
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
 紅牛RedBull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+紅牛RedBull,http://tv.redrainl.site:9500/live.m3u8?c=07
 J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
 J Sports 2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 J Sports 3,http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
