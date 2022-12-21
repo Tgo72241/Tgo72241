@@ -396,7 +396,7 @@ Smithsonian Channel,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live088&hd=720
 LUXE TV,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live121&hd=720
 TV5MONDE Style,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live122&hd=720
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-
+Channel Seezn,http://pull-l3-cny.douyincdn.com/live/9dbd2556b180db11b62283739297981b.m3u8
 
 中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
 中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
