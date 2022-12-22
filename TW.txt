@@ -86,8 +86,20 @@ CN卡通頻道,http://198.16.64.10:8278/momo1_twn/playlist.m3u8?tid=MA0A48989836
 東森購物3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 東森購物3,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=852
 東森購物5,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=854
-東森洋片,http://198.16.64.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
 東森洋片,http://pull-l3-cny.douyincdn.com/live/ed503be0a61dc988e0a7d9e1f57a1885.m3u8
+東森洋片 HD,http://120.84.96.72:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.73:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.78:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.85:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.89:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.96:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.120:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.125:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.126:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.196:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.233:808/hls/33/index.m3u8
+東森洋片 HD,http://198.16.64.10:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+東森洋片 HD,http://pull-l3-cny.douyincdn.com/live/ed503be0a61dc988e0a7d9e1f57a1885.m3u8
 東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 東森電影,http://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
 緯來綜合,http://123.51.229.65:18540/.m3u8
