@@ -270,7 +270,7 @@ FashionTV,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364
 幼幼唱遊,https://git.io/JgYON
 幼幼唱遊,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
 采昌,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
-ELTA影劇,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+ELTA影劇,http://198.16.64.10:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 ELTA娛樂,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
 ELTA體育1台,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
 ELTA體育1台,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
