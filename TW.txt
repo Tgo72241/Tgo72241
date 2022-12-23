@@ -338,7 +338,7 @@ BGM Live Radio,http://tv.redrainl.site:9500/live.m3u8?c=48
 BGM channel,http://tv.redrainl.site:9500/live.m3u8?c=49
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 天映經典,http://pull-l3-cny.douyincdn.com/live/4480903e93e7bf6ddde637e903c423a0.m3u8
-CI 罪案偵查,http://line.premiumpowers.net:80/Manuel/1234567/941666
+Ci罪案偵緝,http://line.premiumpowers.net:80/Manuel/1234567/941666
 
 中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
 中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
