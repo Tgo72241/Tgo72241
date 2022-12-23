@@ -305,7 +305,7 @@ ELTA娛樂,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3
 ELTA體育1台,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
 ELTA體育2台,http://50.7.220.74:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
 ELTA體育2台,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
-EuroSport HD,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
+歐洲體育,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
 EuroSport 1,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/94908?checkedby:iptvcat.com
 EuroSport 1,https://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8
 EuroSport 2,https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8
