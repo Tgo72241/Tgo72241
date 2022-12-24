@@ -326,7 +326,6 @@ TIM JANIS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
 GINX,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 影迷數位電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
 TRACE Sport Stars,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
-TRACE Sport Stars,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-4gtv077&hd=720
 TRACE Urban,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 Mezzo Live,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
 美食星球,http://198.16.64.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
